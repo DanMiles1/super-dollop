@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {
+      "text": "Hopefully doesn't fall over",
+      "sender": "Testing",
+      "date": "2024-11-24T10:48:55+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 47,
+      "sender_type": "Channel"
+    }
+  ]
+}
