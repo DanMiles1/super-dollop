@@ -8,6 +8,15 @@
       "edit_date": null,
       "id": 48,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Updated filename",
+      "sender": "Testing",
+      "date": "2024-11-24T11:01:39+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 49,
+      "sender_type": "Channel"
     }
   ]
 }
