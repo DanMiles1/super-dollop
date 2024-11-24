@@ -1,2 +1,0 @@
-Hello, Telegram! This is a test file created via GitHub API.
-Additional content from Jupyter.
