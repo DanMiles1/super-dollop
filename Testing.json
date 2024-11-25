@@ -44,6 +44,15 @@
       "edit_date": null,
       "id": 52,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Test hjj",
+      "sender": "Testing",
+      "date": "2024-11-24T12:28:57+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 52,
+      "sender_type": "Channel"
     }
   ]
 }
