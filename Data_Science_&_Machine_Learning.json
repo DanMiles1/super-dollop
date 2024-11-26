@@ -17,6 +17,15 @@
       "edit_date": null,
       "id": 2011,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Roadmap \n\ud83d\udc47\ud83d\udc47\nhttps://www.linkedin.com/posts/sql-analysts_python-datascience-activity-7267195650532917249-tRW3",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-11-26T16:53:30+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2012,
+      "sender_type": "Channel"
     }
   ]
 }
