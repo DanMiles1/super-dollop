@@ -35,6 +35,15 @@
       "edit_date": null,
       "id": 2013,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Breaking into Data Science doesn\u2019t need to be complicated.\n\nIf you\u2019re just starting out,\n\nHere\u2019s how to simplify your approach:\n\nAvoid:\n\ud83d\udeab Trying to learn every tool and library (Python, R, TensorFlow, Hadoop, etc.) all at once.\n\ud83d\udeab Spending months on theoretical concepts without hands-on practice.\n\ud83d\udeab Overloading your resume with keywords instead of impactful projects.\n\ud83d\udeab Believing you need a Ph.D. to break into the field.\n\nInstead:\n\n\u2705 Start with Python or R\u2014focus on mastering one language first.\n\u2705 Learn how to work with structured data (Excel or SQL) - this is your bread and butter.\n\u2705 Dive into a simple machine learning model (like linear regression) to understand the basics.\n\u2705 Solve real-world problems with open datasets and share them in a portfolio.\n\u2705 Build a project that tells a story - why the problem matters, what you found, and what actions it suggests.\n\nData Science & Machine Learning Resources: https://topmate.io/coding/914624\n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d\n\nHope this helps you \ud83d\ude0a\n\n#ai #datascience",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-11-27T12:26:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2014,
+      "sender_type": "Channel"
     }
   ]
 }
