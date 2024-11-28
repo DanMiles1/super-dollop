@@ -44,6 +44,15 @@
       "edit_date": null,
       "id": 2014,
       "sender_type": "Channel"
+    },
+    {
+      "text": "If you\u2019re starting out Machine Learning 2025, master these tools early:\n\n1. Python: Your bread and butter.\n2. Pandas: Best for data wrangling.\n3. Scikit-learn: Your go-to for ML basics.\n4. Matplotlib/Seaborn: Visualize everything you analyze.\n5. Jupyter Notebooks: For quick prototyping and visualization.\n\nThe right tools make learning ML 10x more effective.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-11-28T17:17:01+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2015,
+      "sender_type": "Channel"
     }
   ]
 }
