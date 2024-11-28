@@ -53,6 +53,15 @@
       "edit_date": null,
       "id": 2015,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science & Machine Learning Project Discussions\n\ud83d\udc47\ud83d\udc47\nhttps://t.me/Kaggle_Group",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-11-28T17:41:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2016,
+      "sender_type": "Channel"
     }
   ]
 }
