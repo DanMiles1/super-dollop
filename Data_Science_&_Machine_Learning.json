@@ -62,6 +62,15 @@
       "edit_date": null,
       "id": 2016,
       "sender_type": "Channel"
+    },
+    {
+      "text": "",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-11-29T12:27:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2017,
+      "sender_type": "Channel"
     }
   ]
 }
