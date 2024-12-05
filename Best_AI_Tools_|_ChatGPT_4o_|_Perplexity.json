@@ -89,6 +89,15 @@
       "edit_date": null,
       "id": 536,
       "sender_type": "Channel"
+    },
+    {
+      "text": "5 Free APIs for Building AI Applications\n\n1. Hugging Face APIs\nHugging Face leads AI development with a free, open-source LLM community.\n\n2. OpenAI GPT-3.5 (Free Tier)\nOpenAI leads in AI with free GPT-3.5 Turbo for small projects.\n\n3. Google Cloud AI (Free Tier)\nGoogle Cloud offers robust AI tools like Vision AI, Natural Language AI, and AutoML.\n\n4. IBM Watson API (Free Tier)\nIBM Watson, a pioneer in AI, offers tools like Watson Assistant and Visual Recognition.\n\n5. Claude AI API\nClaude AI offers free advanced NLP tools for content, summarization, and conversational AI.",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-05T07:07:11+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 537,
+      "sender_type": "Channel"
     }
   ]
 }
