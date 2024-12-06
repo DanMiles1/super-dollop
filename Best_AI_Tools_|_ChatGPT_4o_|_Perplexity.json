@@ -98,6 +98,15 @@
       "edit_date": null,
       "id": 537,
       "sender_type": "Channel"
+    },
+    {
+      "text": "4 Beginner-Friendly Projects to Learn LLMs\n\n1\ufe0f\u20e3 Building a Simple Q&A Chatbot using the GPT-4 API:- \nTutorial by: freecodecamp\n\n2\ufe0f\u20e3 Summarizing a Video with LLMs:- \nTutorial by: Gopenai\n\n3\ufe0f\u20e3 Building Retrieval Augmented Generation (RAG) from Scratch:- Tutorial by: Mahnoor Nauyan\n\n4\ufe0f\u20e3 Building Your Own Question Answering System Using RAG:- \nTutorial by: Abhirami VS",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-06T12:37:47+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 538,
+      "sender_type": "Channel"
     }
   ]
 }
