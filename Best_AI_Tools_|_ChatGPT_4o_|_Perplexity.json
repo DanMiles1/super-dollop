@@ -107,6 +107,15 @@
       "edit_date": null,
       "id": 538,
       "sender_type": "Channel"
+    },
+    {
+      "text": "OpenAI o1 benchmarks are impressive!\n\nIs it now well and truly better than Claude Sonnet 3.5 at coding. What's exciting is now that Anthropic need to make a move! Things are hotting up. Looking forward to Sam's 11 other releases",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-07T11:38:00+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 539,
+      "sender_type": "Channel"
     }
   ]
 }
