@@ -152,6 +152,15 @@
       "edit_date": null,
       "id": 2026,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Essential questions related to Data Analytics\n\nQuestion 1: What is the first skill a fresher should learn for a Data Analytics job?\n Answer: SQL. It\u2019s the foundation for retrieving, manipulating, and analyzing data stored in databases.\n\nQuestion 2: Which SQL database query should we learn - MySQL, PostgreSQL, PL-SQL, etc.?\n Answer: Core SQL concepts are consistent across platforms. Focus on joins, aggregations, subqueries, and window functions.\n\nQuestion 3: How much Python is required?\n Answer: Learn basic syntax, loops, conditional statements, functions, and error handling. Then focus on Pandas and Numpy very well for data handling and analysis. Working Knowledge of Python + Good knowledge of Data Analysis Libraries is needed only.\n\nQuestion 4: What other skills are required?\n Answer: MS Excel for data cleaning and analysis, and a BI tool like Power BI or Tableau for creating dashboards.\n\nQuestion 5: Is knowledge of Macros/VBA required?\n Answer: No. Most Data Analyst roles don\u2019t require it.\n\nQuestion 6: When should I start applying for jobs?\n Answer: Apply after acquiring 50% of the required skills and gaining practical experience through projects or internships.\n\nQuestion 7: Are certifications required?\n Answer: No. Projects and hands-on experience are more valuable.\n\nQuestion 8: How important is data visualization in a Data Analyst role?\n Answer: Very important. Use tools like Tableau or Power BI to present insights effectively.\n\nQuestion 9: Is understanding statistics important for data analysis?\n Answer: Yes. Learn descriptive statistics, hypothesis testing, and regression analysis for better insights.\n\nQuestion 10: How much emphasis should be placed on machine learning?\n Answer: A basic understanding is helpful but not essential for Data Analyst roles.\n\nQuestion 11: What role does communication play in a Data Analyst's job?\n Answer: It\u2019s crucial. You need to present insights in a clear and actionable way for stakeholders.\n\nQuestion 12: Is data cleaning a necessary skill?\n Answer: Yes. Cleaning and preparing raw data is a major part of a Data Analyst\u2019s job.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-08T06:24:26+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2027,
+      "sender_type": "Channel"
     }
   ]
 }
