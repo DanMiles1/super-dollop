@@ -125,6 +125,15 @@
       "edit_date": null,
       "id": 540,
       "sender_type": "Channel"
+    },
+    {
+      "text": "To generate images, use ideogram or playground \n\nTo convert image to video use hailuo ai\n\n#aitools",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-09T05:09:25+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 541,
+      "sender_type": "Channel"
     }
   ]
 }
