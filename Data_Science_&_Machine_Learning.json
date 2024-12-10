@@ -170,6 +170,15 @@
       "edit_date": null,
       "id": 2028,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science vs. Data Analytics",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-10T19:22:00+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2030,
+      "sender_type": "Channel"
     }
   ]
 }
