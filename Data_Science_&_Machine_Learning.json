@@ -197,6 +197,15 @@
       "edit_date": null,
       "id": 2032,
       "sender_type": "Channel"
+    },
+    {
+      "text": "5 Free Python Courses for Data Science Beginners\n\n1\ufe0f\u20e3 Python for Beginners \u2013 freeCodeCamp\n\n2\ufe0f\u20e3 Python \u2013 Kaggle\n\n3\ufe0f\u20e3 Python Mini-Projects \u2013 freeCodeCamp\n\n4\ufe0f\u20e3 Python Tutorial \u2013 W3Schools\n\n5\ufe0f\u20e3 oops with Python- freeCodeCamp",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-12T04:37:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2034,
+      "sender_type": "Channel"
     }
   ]
 }
