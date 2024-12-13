@@ -188,6 +188,15 @@
       "edit_date": null,
       "id": 548,
       "sender_type": "Channel"
+    },
+    {
+      "text": "List of all text to video models you can use right now! \n\nAs we await the long overdue Sora, i thought it wouod be good to recap all the available to use text to video models we've discussed in this chat over the last few months. Some of these are pay to use.\n\nKling\nLuma Labs\nRunway\nGenmo\nHailuoai\nVidu\nInVideo",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-13T18:59:58+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 549,
+      "sender_type": "Channel"
     }
   ]
 }
