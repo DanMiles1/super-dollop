@@ -197,6 +197,15 @@
       "edit_date": null,
       "id": 549,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Gemini AI can now summarize what\u2019s in your Google Drive folders / You can get a glimpse at the contents of a folder without having to dig through it.\n\nAdditionally it can read and analyze emails also.\n\nBut for queries \"ChatGPT\" and for academic related \"Perplexity\" is awesome and better than Gemini.",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-14T06:52:19+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 550,
+      "sender_type": "Channel"
     }
   ]
 }
