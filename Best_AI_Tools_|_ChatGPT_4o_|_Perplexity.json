@@ -206,6 +206,15 @@
       "edit_date": null,
       "id": 550,
       "sender_type": "Channel"
+    },
+    {
+      "text": "7 Podcasts to Supercharge Your Machine Learning Knowledge\n\n1. The AI Podcast:- NVIDIA\n\nThe AI Podcast by NVIDIA showcases real-world AI applications across industries with insights from experts.\n\n2. TWIML AI Podcast:-  TWIML\n\nTWIML offers expert insights on AI, deep learning, and the latest trends.\n\n3. Data Skeptic:- Data Skeptic\n\nData Skeptic simplifies AI, explores ethics, and examines its impact on society.\n\n4. Lex Fridman Podcast:- Lex Fridman \n\nLex Fridman Podcast explores AI, robotics, and tech's impact with expert guests.\n\n5. Practical AI:- Practical AI\n\nPractical AI explores real-world AI tools and applications.\n\n6. Super Data Science:- Super Data Science\n\nSuper Data Science offers tutorials and career tips on data science and machine learning.\n\n7. Eye on AI :- Eye on AI\n\nEye on AI features expert interviews on AI's impact across industries and current events.",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2024-12-15T16:54:01+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 551,
+      "sender_type": "Channel"
     }
   ]
 }
