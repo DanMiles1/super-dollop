@@ -251,6 +251,15 @@
       "edit_date": null,
       "id": 2039,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Detailed explanation: https://t.me/machinelearning_deeplearning",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-17T09:58:43+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2040,
+      "sender_type": "Channel"
     }
   ]
 }
