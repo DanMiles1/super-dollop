@@ -296,6 +296,15 @@
       "edit_date": null,
       "id": 2045,
       "sender_type": "Channel"
+    },
+    {
+      "text": "If I were to start my Machine Learning career from scratch (as an engineer), I'd focus here (no specific order):\n\n1. SQL\n2. Python\n3. ML fundamentals\n4. DSA\n5. Testing\n6. Prob, stats, lin. alg\n7. Problem solving\n\nAnd building as much as possible.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-20T12:02:36+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2046,
+      "sender_type": "Channel"
     }
   ]
 }
