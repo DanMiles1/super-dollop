@@ -287,6 +287,15 @@
       "edit_date": null,
       "id": 2043,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udea8 Reminder! The Scholarship + Admission Test for the prestigious Advanced DSA Program by E&ICT IIT Guwahati starts in less than 4 hours!\n\nIf you haven\u2019t registered yet, time is ticking\u2014secure your spot now!\n\ud83d\udc49 Click Here",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-20T10:33:47+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2045,
+      "sender_type": "Channel"
     }
   ]
 }
