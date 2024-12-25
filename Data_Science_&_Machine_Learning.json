@@ -323,6 +323,15 @@
       "edit_date": null,
       "id": 2048,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\ude80 Free Webinar Series: \"To Become a Successfull Data scientist\"\n\n\ud83d\udc49 Register here: https://link.guvi.in/SQLspecialist01214\n\n\ud83d\udcc5 Date: Dec 26\n\u23f0 Time: 7 PM\n\nIn this Webinar, You Will Learn:\n\u2705 Basics of Data science \n\u2705 Essential tools & languages (Python, TensorFlow, etc.)\n\u2705 Real-world Data science applications\n\u2705 Career roadmap to become an Data scientist \n\u2705 Tips from industry experts!\n\nDon't miss out! Limited seats available. \ud83c\udfc3\u200d\u2642\ud83d\udca8",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-25T10:56:01+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2049,
+      "sender_type": "Channel"
     }
   ]
 }
