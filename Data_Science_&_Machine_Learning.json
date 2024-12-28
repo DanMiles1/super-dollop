@@ -368,6 +368,15 @@
       "edit_date": "2024-12-27T17:53:25+00:00",
       "id": 2053,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Time Complexity of 10 Most Popular ML Algorithms\n.\n.\nWhen selecting a machine learning model, understanding its time complexity is crucial for efficient processing, especially with large datasets.\n\nFor instance, \n1\ufe0f\u20e3 Linear Regression (OLS) is computationally expensive due to matrix multiplication, making it less suitable for big data applications. \n\n2\ufe0f\u20e3 Logistic Regression with Stochastic Gradient Descent (SGD) offers faster training times by updating parameters iteratively.\n\n3\ufe0f\u20e3 Decision Trees and Random Forests are efficient for training but can be slower for prediction due to traversing the tree structure. \n\n4\ufe0f\u20e3 K-Nearest Neighbours is simple but can become slow with large datasets due to distance calculations.\n\n5\ufe0f\u20e3 Naive Bayes is fast and scalable, making it suitable for large datasets with high-dimensional features.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-28T07:21:20+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2054,
+      "sender_type": "Channel"
     }
   ]
 }
