@@ -404,6 +404,15 @@
       "edit_date": null,
       "id": 2057,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Benefits",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-29T09:32:00+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2058,
+      "sender_type": "Channel"
     }
   ]
 }
