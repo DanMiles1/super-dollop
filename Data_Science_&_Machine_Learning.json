@@ -449,6 +449,15 @@
       "edit_date": null,
       "id": 2062,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Tip\ud83d\udca1\n\nAlways start with \ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\uddff\ud835\uddf6\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\udde6\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\ude00 before jumping into complex models.\n\n\u2022 Understand Descriptive vs. Inferential Statistics: Descriptive summarizes; Inferential predicts.  \n\n\u2022 Use the Empirical Rule (68-95-99.7) to grasp normal distribution probabilities. \n \n\u2022 Apply standard deviation and variance to quantify data spread.  \n\n\u2022 Leverage probability distributions like PMF, PDF, and CDF for modeling.  \n\n\u2022 Explore correlation vs. covariance to uncover variable relationships.  \n\nAre your insights actionable enough?  \n\nStatistics is often misused, leading to flawed conclusions. But is your interpretation meaningful enough to drive decisions? \n\n\u21b3 Focus on \ud835\uddf0\ud835\uddf9\ud835\uddee\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\ude05\ud835\ude01:  \n\n\u2022 Identify whether data follows a normal distribution using Q-Q plots.  \n\n\u2022 Use visualizations like boxplots and histograms for a quick overview.  \n\n\u2022 Incorporate parametric and non-parametric methods for density estimations.  \n\n\u2022 Avoid misrepresentation by understanding skewness and kurtosis.  \n\n\u2022 Validate results with statistical tests like Shapiro-Wilk for normality.  \n\nSee how much you improve \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf1\ud835\uddf2\ud835\uddf0\ud835\uddf6\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00.\n\nData Science Interview Resources\n\ud83d\udc47\ud83d\udc47 \nhttps://topmate.io/analyst/1024129\n\nLike for more \ud83d\ude04",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-30T09:54:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2063,
+      "sender_type": "Channel"
     }
   ]
 }
