@@ -458,6 +458,15 @@
       "edit_date": null,
       "id": 2063,
       "sender_type": "Channel"
+    },
+    {
+      "text": "*1\u00b3+2\u00b3+3\u00b3+4\u00b3+5\u00b3+6\u00b3+7\u00b3+8\u00b3+9\u00b3= 2025 \ud83d\ude0a Happy New Year \ud83e\udd73*",
+      "sender": "Data Science & Machine Learning",
+      "date": "2024-12-30T18:15:10+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2064,
+      "sender_type": "Channel"
     }
   ]
 }
