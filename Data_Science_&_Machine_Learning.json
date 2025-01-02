@@ -584,6 +584,15 @@
       "edit_date": null,
       "id": 2077,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udea830 FREE Dataset Sources for Data Science Projects\ud83d\udd25\n\nData Simplifier: https://datasimplifier.com/best-data-analyst-projects-for-freshers/\n\nUS Government Dataset: https://www.data.gov/\n\nOpen Government Data (OGD) Platform India: https://data.gov.in/\n\nThe World Bank Open Data: https://data.worldbank.org/\n\nData World: https://data.world/\n\nBFI - Industry Data and Insights: https://www.bfi.org.uk/data-statistics\n\nThe Humanitarian Data Exchange (HDX): https://data.humdata.org/\n\nData at World Health Organization (WHO): https://www.who.int/data\n\nFBI\u2019s Crime Data Explorer: https://crime-data-explorer.fr.cloud.gov/\n\nAWS Open Data Registry: https://registry.opendata.aws/\n\nFiveThirtyEight: https://data.fivethirtyeight.com/\n\nIMDb Datasets: https://www.imdb.com/interfaces/\n\nKaggle: https://www.kaggle.com/datasets\n\nUCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php\n\nGoogle Dataset Search: https://datasetsearch.research.google.com/\n\nNasdaq Data Link: https://data.nasdaq.com/\n\nRecommender Systems and Personalization Datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html\n\nReddit - Datasets: https://www.reddit.com/r/datasets/\n\nOpen Data Network by Socrata: https://www.opendatanetwork.com/\n\nClimate Data Online by NOAA: https://www.ncdc.noaa.gov/cdo-web/\n\nAzure Open Datasets: https://azure.microsoft.com/en-us/services/open-datasets/\n\nIEEE Data Port: https://ieee-dataport.org/\n\nWikipedia: Database: https://dumps.wikimedia.org/\n\nBuzzFeed News: https://github.com/BuzzFeedNews/everything\n\nAcademic Torrents: https://academictorrents.com/\n\nYelp Open Dataset: https://www.yelp.com/dataset\n\nThe NLP Index by Quantum Stat: https://index.quantumstat.com/\n\nComputer Vision Online: http://www.computervisiononline.com/dataset\n\nVisual Data Discovery: https://www.visualdata.io/\n\nRoboflow Public Datasets: https://public.roboflow.com/\n\nComputer Vision Group, TUM: https://vision.in.tum.de/data/datasets",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-02T09:23:58+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2078,
+      "sender_type": "Channel"
     }
   ]
 }
