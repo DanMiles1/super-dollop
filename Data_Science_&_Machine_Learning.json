@@ -611,6 +611,15 @@
       "edit_date": null,
       "id": 2081,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Resolution for 2025",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-03T16:12:42+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2082,
+      "sender_type": "Channel"
     }
   ]
 }
