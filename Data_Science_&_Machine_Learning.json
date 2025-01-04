@@ -629,6 +629,15 @@
       "edit_date": null,
       "id": 2083,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Interview Cheat Sheet! \ud83e\udde0 \n\n1\ufe0f\u20e3 Key Concepts \nMaster statistics, machine learning, and programming basics. They\u2019re always top priorities! \n\n2\ufe0f\u20e3 Essential Tools \nKnow your way around Python, SQL, and data visualization platforms like Tableau or Power BI. \n\n3\ufe0f\u20e3 Real-World Projects \nBe ready to explain your projects\u2014what problem you solved, how you did it, and the results you achieved! \ud83c\udf1f \n\n4\ufe0f\u20e3 Problem-Solving Skills \nPractice coding challenges and case studies.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-04T08:40:52+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2084,
+      "sender_type": "Channel"
     }
   ]
 }
