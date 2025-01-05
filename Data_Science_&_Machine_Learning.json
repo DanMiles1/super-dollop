@@ -656,6 +656,15 @@
       "edit_date": null,
       "id": 2086,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Industry Data Science vs Academia Data Science\n\nComparing Data Science in academia and Data Science in industry is like comparing tennis with table tennis: they sound similar but in the end, they are completely different! \n\n5 big differences between Data Science in academia and in industry \ud83d\udc47: \n\n1\ufe0f\u20e3 Model vs Data: Academia focuses on models, industry focuses on data. In academia, it\u2019s all about trying to find the best model architecture to optimise a defined metric. In industry, loading and processing the data accounts for around 80% of the job.  \n\n2\ufe0f\u20e3 Novelty vs Efficiency: The end goal of academia is often to publish a paper and to do so, you will need to find and implement a novel approach. Industry is all about efficiency: reusing existing models as much as possible and applying them to your use case. \n\n3\ufe0f\u20e3 Complex vs Simple: More often than not, academia requires complex solutions. I know that this isn\u2019t always the case but unfortunately, complex papers get a higher chance of being accepted at top conferences. In industry, it\u2019s all about simplicity: trying to find the simplest solution that solves a specific problem. \n\n4\ufe0f\u20e3 Theory vs Engineering: To succeed in academia, you need to have strong theoretical and maths skills. To succeed in industry, you need to develop strong engineering skills. It is great to be able to train a model in a notebook but if you cannot deploy your model in production, it will be completely useless. \n\n5\ufe0f\u20e3 Knowledge impact vs $ impact: In academia, it\u2019s all about creating new work and expanding human knowledge. In industry, it is all about using data to drive value and increase revenue.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-05T07:41:47+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2087,
+      "sender_type": "Channel"
     }
   ]
 }
