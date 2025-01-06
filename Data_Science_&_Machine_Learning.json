@@ -701,6 +701,15 @@
       "edit_date": null,
       "id": 2091,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Who is Data Scientist?\n\nHe/she is responsible for collecting, analyzing and interpreting the results, through a large amount of data. This process is used to take an important decision for the business, which can affect the growth and help to face compititon in the market.\n\nA data scientist analyzes data to extract actionable insight from it. More specifically, a data scientist:\n\nDetermines correct datasets and variables.\n\nIdentifies the most challenging data-analytics problems.\n\nCollects large sets of data- structured and unstructured, from different sources.\n\nCleans and validates data ensuring accuracy, completeness, and uniformity.\n\nBuilds and applies models and algorithms to mine stores of big data.\n\nAnalyzes data to recognize patterns and trends.\n\nInterprets data to find solutions.\n\nCommunicates findings to stakeholders using tools like visualization.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-06T04:54:49+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2092,
+      "sender_type": "Channel"
     }
   ]
 }
