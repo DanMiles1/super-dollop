@@ -755,6 +755,15 @@
       "edit_date": null,
       "id": 2097,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd39 Supervised Learning - Key Algorithms \ud83d\udd39\n\n1\ufe0f\u20e3 Linear Regression \u2013 Predicts continuous values by fitting a straight line. (\ud83d\udcc8 House prices)\n2\ufe0f\u20e3 Logistic Regression \u2013 Classifies data into categories (yes/no). (\ud83d\udce9 Spam detection)\n3\ufe0f\u20e3 SVM (Support Vector Machine) \u2013 Finds the best boundary to separate classes. (\ud83d\ude80 Image classification)\n4\ufe0f\u20e3 Decision Tree \u2013 Splits data based on conditions to classify. (\ud83c\udf33 Diagnosing diseases)\n5\ufe0f\u20e3 Random Forest \u2013 Multiple decision trees combined for accuracy. (\ud83c\udfe6 Loan predictions)\n6\ufe0f\u20e3 k-NN (k-Nearest Neighbors) \u2013 Classifies based on the nearest neighbors. (\ud83d\uded2 Product recommendations)\n7\ufe0f\u20e3 Naive Bayes \u2013 Uses probability to classify data. (\ud83d\udce8 Spam filter)\n8\ufe0f\u20e3 Gradient Boosting \u2013 Combines weak models to build a strong one. (\ud83d\udcca Customer churn prediction)\n9\ufe0f\u20e3 XGBoost \u2013 Faster and more efficient gradient boosting. (\ud83c\udfc6 Machine learning competitions)\n\n\u2728 Key Tip: Choose algorithms based on data type (classification/regression)\n\nBest Data Science & Machine Learning Resources: https://topmate.io/coding/914624\n\nCredits: https://t.me/datasciencefun\n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d\n\nHope this helps you \ud83d\ude0a",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-07T12:09:50+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2098,
+      "sender_type": "Channel"
     }
   ]
 }
