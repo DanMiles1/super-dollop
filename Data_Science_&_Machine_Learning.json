@@ -827,6 +827,15 @@
       "edit_date": null,
       "id": 2106,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Ai terms you should know",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-09T06:20:58+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2107,
+      "sender_type": "Channel"
     }
   ]
 }
