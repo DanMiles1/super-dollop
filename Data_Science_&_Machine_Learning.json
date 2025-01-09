@@ -845,6 +845,15 @@
       "edit_date": null,
       "id": 2108,
       "sender_type": "Channel"
+    },
+    {
+      "text": "The most popular programming languages:\n\n1. Python\n2. TypeScript \n3. JavaScript\n4. C#\n5. HTML\n6. Rust\n7. C++\n8. C\n9. Go\n10. Lua\n11. Kotlin\n12. Java\n13. Swift\n14. Jupyter Notebook \n15. Shell\n16. CSS\n17. GDScript\n18. Solidity\n19. Vue\n20. PHP\n21. Dart\n22. Ruby\n23. Objective-C\n24. PowerShell\n25. Scala\n\nAccording to the Latest GitHub Repositories",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-09T11:46:24+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2109,
+      "sender_type": "Channel"
     }
   ]
 }
