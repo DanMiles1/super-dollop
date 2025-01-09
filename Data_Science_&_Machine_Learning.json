@@ -863,6 +863,15 @@
       "edit_date": null,
       "id": 2110,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Here are 10 project ideas to work on for Data Analytics\n\n 1. Customer Churn Prediction: Predict customer churn for subscription-based services. Skills: EDA, classification models. Tools: Python, Scikit-Learn.\n 2. Retail Sales Forecasting: Forecast sales using historical data. Skills: Time series analysis. Tools: Python, Statsmodels.\n 3. Sentiment Analysis: Analyze sentiments in product reviews or tweets. Skills: Text processing, NLP. Tools: Python, NLTK.\n 4. Loan Approval Prediction: Predict loan approvals based on credit risk. Skills: Classification models. Tools: Python, Scikit-Learn.\n 5. COVID-19 Data Analysis: Explore and visualize COVID-19 trends. Skills: EDA, visualization. Tools: Python, Tableau.\n 6. Traffic Accident Analysis: Discover patterns in traffic accidents. Skills: Clustering, heatmaps. Tools: Python, Folium.\n 7. Movie Recommendation System: Build a recommendation system using user ratings. Skills: Collaborative filtering. Tools: Python, Scikit-Learn.\n 8. E-commerce Analysis: Analyze top-performing products in e-commerce. Skills: EDA, association rules. Tools: Python, Apriori.\n 9. Stock Market Analysis: Analyze stock trends using historical data. Skills: Moving averages, sentiment analysis. Tools: Python, Matplotlib.\n 10. Employee Attrition Analysis: Predict employee turnover. Skills: Classification models, HR analytics. Tools: Python, Scikit-Learn.\n\nAnd this is how you can work on\n\nHere\u2019s a compact list of free resources for working on data analytics projects:\n\n 1. Datasets\n \u2022 Kaggle Datasets: Wide range of datasets and community discussions.\n \u2022 UCI Machine Learning Repository: Great for educational datasets.\n \u2022 Data.gov: U.S. government datasets (e.g., traffic, COVID-19).\n 2. Learning Platforms\n \u2022 YouTube: Channels like Data School and freeCodeCamp for tutorials.\n \u2022 365DataScience: Data Science & AI Related Courses \n 3. Tools\n \u2022 Google Colab: Free Jupyter Notebooks for Python coding.\n \u2022 Tableau Public & Power BI Desktop: Free data visualization tools.\n 4. Project Resources\n \u2022 Kaggle Notebooks & GitHub: Code examples and project walk-throughs.\n \u2022 Data Analytics on Medium: Project guides and tutorials.\n\nENJOY LEARNING \u2705\ufe0f\u2705\ufe0f\n\n#datascienceprojects",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-09T17:19:31+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2111,
+      "sender_type": "Channel"
     }
   ]
 }
