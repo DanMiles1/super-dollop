@@ -899,6 +899,15 @@
       "edit_date": null,
       "id": 2114,
       "sender_type": "Channel"
+    },
+    {
+      "text": "An Artificial Neuron Network (ANN), popularly known as\u00a0Neural Network\u00a0is a computational model based on the structure and functions of biological neural networks. It is like an artificial human nervous system for receiving, processing, and transmitting information in terms of Computer Science.\n\nBasically, there are 3 different layers in a neural network :\n\nInput Layer (All the inputs are fed in the model through this layer)\n\nHidden Layers (There can be more than one hidden layers which are used for processing the inputs received from the input layers)\n\nOutput Layer (The data after processing is made available at the output layer)\n\nGraph data can be used with a lot of learning tasks contain a lot rich relation data among elements. For example, modeling physics system, predicting protein interface, and classifying diseases require that a model learns from graph inputs. Graph reasoning models can also be used for learning from non-structural data like texts and images and reasoning on extracted structures.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-10T19:22:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2115,
+      "sender_type": "Channel"
     }
   ]
 }
