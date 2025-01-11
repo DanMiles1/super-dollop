@@ -935,6 +935,15 @@
       "edit_date": null,
       "id": 2118,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Join this awesome channel which explains topics in easy way \ud83d\udc47\ud83d\udc47\nhttps://t.me/sqlspecialist/970",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-11T13:20:36+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2119,
+      "sender_type": "Channel"
     }
   ]
 }
