@@ -755,6 +755,15 @@
       "edit_date": null,
       "id": 611,
       "sender_type": "Channel"
+    },
+    {
+      "text": "CHATGPT Ultimate Guide",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-11T07:24:44+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 612,
+      "sender_type": "Channel"
     }
   ]
 }
