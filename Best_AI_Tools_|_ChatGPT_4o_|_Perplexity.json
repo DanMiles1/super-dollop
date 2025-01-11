@@ -737,6 +737,15 @@
       "edit_date": null,
       "id": 609,
       "sender_type": "Channel"
+    },
+    {
+      "text": "7 Ai skills to learn",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-11T04:32:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 610,
+      "sender_type": "Channel"
     }
   ]
 }
