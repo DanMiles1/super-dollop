@@ -962,6 +962,15 @@
       "edit_date": null,
       "id": 2121,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Harvard CS50 \u2013 Free Computer Science Course (2023 Edition)\n\nHere are the lectures included in this course:\n\nLecture 0 - Scratch\nLecture 1 - C\nLecture 2 - Arrays\nLecture 3 - Algorithms\nLecture 4 - Memory\nLecture 5 - Data Structures\nLecture 6 - Python\nLecture 7 - SQL\nLecture 8 - HTML, CSS, JavaScript\nLecture 9 - Flask\nLecture 10 - Emoji\nCybersecurity\n\nhttps://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/\n\nKaggle community for data science project discussion: @Kaggle_Group",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-12T06:52:47+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2122,
+      "sender_type": "Channel"
     }
   ]
 }
