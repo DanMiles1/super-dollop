@@ -782,6 +782,15 @@
       "edit_date": null,
       "id": 614,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Ai tools",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-12T06:52:12+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 615,
+      "sender_type": "Channel"
     }
   ]
 }
