@@ -1016,6 +1016,15 @@
       "edit_date": null,
       "id": 2127,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Skillsets for Data Science",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-13T08:57:48+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2128,
+      "sender_type": "Channel"
     }
   ]
 }
