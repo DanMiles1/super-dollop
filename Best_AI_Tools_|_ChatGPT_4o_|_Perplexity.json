@@ -890,6 +890,15 @@
       "edit_date": null,
       "id": 626,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Join fast before I delete the post",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-16T10:17:15+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 627,
+      "sender_type": "Channel"
     }
   ]
 }
