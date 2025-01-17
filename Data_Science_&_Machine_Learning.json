@@ -1205,6 +1205,15 @@
       "edit_date": null,
       "id": 2148,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Various types of test used in statistics for data science \n\nT-test: used to test whether the means of two groups are significantly different from each other.\n\nANOVA: used to test whether the means of three or more groups are significantly different from each other.\n\nChi-squared test: used to test whether two categorical variables are independent or associated with each other.\n\nPearson correlation test: used to test whether there is a significant linear relationship between two continuous variables.\n\nWilcoxon signed-rank test: used to test whether the median of two related samples is significantly different from each other.\n\nMann-Whitney U test: used to test whether the median of two independent samples is significantly different from each other.\n\nKruskal-Wallis test: used to test whether the medians of three or more independent samples are significantly different from each other.\n\nFriedman test: used to test whether the medians of three or more related samples are significantly different from each other.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-17T06:06:37+00:00",
+      "is_edited": true,
+      "edit_date": "2025-01-17T06:06:40+00:00",
+      "id": 2149,
+      "sender_type": "Channel"
     }
   ]
 }
