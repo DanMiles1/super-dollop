@@ -1232,6 +1232,15 @@
       "edit_date": null,
       "id": 2151,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Essential Tools and Libraries for Data Science Students\n\n1. Programming Languages:\n\nPython\n\nR\n\nSQL\n\n\n2. Python Libraries:\n\nNumPy: For numerical computations.\n\nPandas: For data manipulation and analysis.\n\nMatplotlib: For basic data visualization.\n\nSeaborn: For statistical data visualization.\n\nScikit-learn: For machine learning models.\n\nTensorFlow: For deep learning.\n\nPyTorch: For advanced neural networks.\n\n\n3. R Libraries:\n\nggplot2: For data visualization.\n\ndplyr: For data manipulation.\n\ncaret: For machine learning.\n\nshiny: For building interactive web apps.\n\n\n4. Data Visualization Tools:\n\nTableau\n\nPower BI\n\nGoogle Data Studio\n\n\n5. Big Data Tools:\n\nApache Hadoop\n\nApache Spark\n\n\n6. Cloud Platforms:\n\nAWS (Amazon Web Services)\n\nGoogle Cloud Platform (GCP)\n\nMicrosoft Azure\n\n\n7. Statistical Software:\n\nSAS\n\nSPSS\n\n\n8. Version Control System:\n\nGit\n\n\n9. Notebook Tools:\n\nJupyter Notebook\n\nGoogle Colab\n\n\n10. Data Sources for Practice:\n\nKaggle Datasets\n\nUCI Machine Learning Repository\n\nGitHub Repositories\n\nBest Data Science & Machine Learning Resources: https://topmate.io/coding/914624\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-17T09:29:01+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2152,
+      "sender_type": "Channel"
     }
   ]
 }
