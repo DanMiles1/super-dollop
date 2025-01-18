@@ -1268,6 +1268,15 @@
       "edit_date": null,
       "id": 2155,
       "sender_type": "Channel"
+    },
+    {
+      "text": "7 Free Kaggle Micro-Courses for Data Science Beginners with Certification\n\nPython\n\nhttps://www.kaggle.com/learn/python\n\nPandas\n\nhttps://www.kaggle.com/learn/pandas\n\nData visualization\n\nhttps://www.kaggle.com/learn/data-visualization\n\nIntro to sql\n\nhttps://www.kaggle.com/learn/intro-to-sql\n\nAdvanced Sql\n\nhttps://www.kaggle.com/learn/advanced-sql\n\nIntro to ML \n\nhttps://www.kaggle.com/learn/intro-to-machine-learning\n\nAdvanced ML\n\nhttps://www.kaggle.com/learn/intermediate-machine-learning\n\n#datascienceprojects #kaggle",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-18T10:29:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2156,
+      "sender_type": "Channel"
     }
   ]
 }
