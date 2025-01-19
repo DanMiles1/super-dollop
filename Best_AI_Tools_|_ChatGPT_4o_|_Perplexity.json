@@ -1025,6 +1025,15 @@
       "edit_date": null,
       "id": 641,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Google has created a new AI system called Titans that mimics the human brain and outperforms it in many tasks.\n \u2022 It has three types of memory: long-term, short-term, and permanent, and it can forget unimportant data while keeping what matters.\n \u2022 Its long-term memory learns and updates, allowing faster and more efficient processing.\n \u2022 Titans excels in tasks like forecasting, genome analysis, and processing time-based data.\n \u2022 It can handle much larger amounts of information than GPT-4, analyzing the equivalent of 25 books at once.\n\nAs AI grows smarter, will we rely on it so heavily that we become less capable ourselves?",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-19T17:04:56+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 642,
+      "sender_type": "Channel"
     }
   ]
 }
