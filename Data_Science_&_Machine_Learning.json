@@ -1286,6 +1286,15 @@
       "edit_date": null,
       "id": 2157,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Top 5 Tools to master Data Analytics\n\n1. Python:\n   - Versatile programming language.\n   - Offers powerful libraries like Pandas, NumPy, and Scikit-learn.\n   - Used for data manipulation, analysis, and machine learning tasks.\n\n2. R:\n   - Statistical programming language.\n   - Provides extensive statistical capabilities.\n   - Popular for data analysis in academia.\n   - Offers visualization libraries like ggplot2.\n\n3. SQL (Structured Query Language):\n   - Essential for working with relational databases.\n   - Allows querying, manipulation, and management of data.\n   - Standard language for database management systems.\n\n4. Tableau:\n   - Data visualization tool.\n   - Enables creation of interactive dashboards.\n   - Helps in communicating insights effectively.\n   - Widely used in business intelligence.\n\n5. Apache Spark:\n   - Framework for large-scale data processing.\n   - Offers distributed computing capabilities.\n   - Libraries like Spark SQL and MLlib for data manipulation and machine learning.\n   - Ideal for processing big data efficiently.\n\nI have curated best 80+ top-notch Data Analytics Resources \ud83d\udc47\ud83d\udc47\nhttps://topmate.io/analyst/861634\n\nLike if it helps :)",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-19T06:49:18+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2158,
+      "sender_type": "Channel"
     }
   ]
 }
