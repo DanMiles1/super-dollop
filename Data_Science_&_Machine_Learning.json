@@ -1331,6 +1331,15 @@
       "edit_date": null,
       "id": 2162,
       "sender_type": "Channel"
+    },
+    {
+      "text": "The Data Science skill no one talks about...\n\nEvery aspiring data scientist I talk to thinks their job starts when someone else gives them:\n\u00a0\u00a0\u00a0 1. a dataset, and\n\u00a0\u00a0\u00a0 2. a clearly defined metric to optimize for, e.g. accuracy\n\nBut it doesn\u2019t.\n\nIt starts with a business problem you need to understand, frame, and solve. This is the key data science skill that separates senior from junior professionals.\n\nLet\u2019s go through an example.\n\nExample\n\nImagine you are a data scientist at Uber. And your product lead tells you:\n\n\u00a0\u00a0\u00a0 \ud83d\udc69\u200d\ud83d\udcbc: \u201cWe want to decrease user churn by 5% this quarter\u201d\n\nWe say that a user churns when she decides to stop using Uber.\n\nBut why?\n\nThere are different reasons why a user would stop using Uber. For example:\n\n\u00a0\u00a0 1.\u00a0 \u201cLyft is offering better prices for that geo\u201d (pricing problem)\n\u00a0\u00a0 2. \u201cCar waiting times are too long\u201d (supply problem)\n\u00a0\u00a0 3. \u201cThe Android version of the app is very slow\u201d (client-app performance problem)\n\nYou build this list \u2191 by asking the right questions to the rest of the team. You need to understand the user\u2019s experience using the app, from HER point of view.\n\nTypically there is no single reason behind churn, but a combination of a few of these. The question is: which one should you focus on?\n\nThis is when you pull out your great data science skills and EXPLORE THE DATA \ud83d\udd0e.\n\nYou explore the data to understand how plausible each of the above explanations is. The output from this analysis is a single hypothesis you should consider further. Depending on the hypothesis, you will solve the data science problem differently.\n\nFor example\u2026\n\nScenario 1: \u201cLyft Is Offering Better Prices\u201d (Pricing Problem)\n\nOne solution would be to detect/predict the segment of users who are likely to churn (possibly using an ML Model) and send personalized discounts via push notifications. To test your solution works, you will need to run an A/B test, so you will split a percentage of Uber users into 2 groups:\n\n\u00a0\u00a0\u00a0 The A group. No user in this group will receive any discount.\n\n\u00a0\u00a0\u00a0 The B group. Users from this group that the model thinks are likely to churn, will receive a price discount in their next trip.\n\nYou could add more groups (e.g. C, D, E\u2026) to test different pricing points.\n\nIn a nutshell\n\u00a0\u00a0\u00a0 1. Translating business problems into data science problems is the key data science skill that separates a senior from a junior data scientist.\n2. Ask the right questions, list possible solutions, and explore the data to narrow down the list to one.\n3. Solve this one data science problem",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-21T08:32:56+00:00",
+      "is_edited": true,
+      "edit_date": "2025-01-21T08:32:59+00:00",
+      "id": 2163,
+      "sender_type": "Channel"
     }
   ]
 }
