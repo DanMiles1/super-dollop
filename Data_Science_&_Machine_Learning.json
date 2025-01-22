@@ -1421,6 +1421,15 @@
       "edit_date": null,
       "id": 2172,
       "sender_type": "Channel"
+    },
+    {
+      "text": "",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-22T05:20:24+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2173,
+      "sender_type": "Channel"
     }
   ]
 }
