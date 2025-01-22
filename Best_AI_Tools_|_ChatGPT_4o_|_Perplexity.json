@@ -1133,6 +1133,15 @@
       "edit_date": null,
       "id": 653,
       "sender_type": "Channel"
+    },
+    {
+      "text": "AI/ML (Daily Schedule) \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\n\nMorning:\n- 9:00 AM - 10:30 AM: ML Algorithms Practice\n- 10:30 AM - 11:00 AM: Break\n- 11:00 AM - 12:30 PM: AI/ML Theory Study\n\nLunch:\n- 12:30 PM - 1:30 PM: Lunch and Rest\n\nAfternoon:\n- 1:30 PM - 3:00 PM: Project Development\n- 3:00 PM - 3:30 PM: Break\n- 3:30 PM - 5:00 PM: Model Training/Testing\n\nEvening:\n- 5:00 PM - 6:00 PM: Review and Debug\n- 6:00 PM - 7:00 PM: Dinner and Rest\n\nLate Evening:\n- 7:00 PM - 8:00 PM: Research and Reading\n- 8:00 PM - 9:00 PM: Reflect and Plan\n\nBest Data Science & Machine Learning Resources: https://topmate.io/coding/914624\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-22T14:31:12+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 654,
+      "sender_type": "Channel"
     }
   ]
 }
