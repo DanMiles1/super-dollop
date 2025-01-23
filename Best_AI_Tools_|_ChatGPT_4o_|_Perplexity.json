@@ -1187,6 +1187,15 @@
       "edit_date": null,
       "id": 659,
       "sender_type": "Channel"
+    },
+    {
+      "text": "How to integrate AI in your business",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "date": "2025-01-23T17:49:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 660,
+      "sender_type": "Channel"
     }
   ]
 }
