@@ -1646,6 +1646,15 @@
       "edit_date": null,
       "id": 2197,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Roadmap \u2705",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-24T04:49:54+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2198,
+      "sender_type": "Channel"
     }
   ]
 }
