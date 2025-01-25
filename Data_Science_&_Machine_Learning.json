@@ -1745,6 +1745,15 @@
       "edit_date": null,
       "id": 2208,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Generative AI Mindmap\n\ud83d\udc47\ud83d\udc47\nhttps://t.me/generativeai_gpt/164",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-01-25T12:07:24+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2209,
+      "sender_type": "Channel"
     }
   ]
 }
