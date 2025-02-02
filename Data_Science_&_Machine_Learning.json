@@ -2168,6 +2168,15 @@
       "edit_date": null,
       "id": 2263,
       "sender_type": "Channel"
+    },
+    {
+      "text": "How to get started with data science \n\nMany people who get interested in learning data science don't really know what it's all about.\n\nThey start coding just for the sake of it and on first challenge or problem they can't solve, they quit.\n\nJust like other disciplines in tech, data science is challenging and requires a level of critical thinking and problem solving attitude.\n\nIf you're among people who want to get started with data science but don't know how - I have something amazing for you!\n\nI created Best Data Science & Machine Learning Resources that will help you organize your career in data.\n\nHappy learning \ud83d\ude04\ud83d\ude04",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-02T09:23:30+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2264,
+      "sender_type": "Channel"
     }
   ]
 }
