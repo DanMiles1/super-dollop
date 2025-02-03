@@ -2186,6 +2186,15 @@
       "edit_date": null,
       "id": 2265,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science is very vast field.\n\nI saw one linkedin profile today with below skills \ud83d\udc47\n\nTechnical Skills:\nData Manipulation: Numpy, Pandas, BeautifulSoup, PySpark\nData Visualization: EDA- Matplotlib, Seaborn, Plotly, Tableau, PowerBI\nMachine Learning: Scikit-Learn, TimeSeries Analysis\nMLOPs: Gensinms, Github Actions, Gitlab CI/CD, mlflows, WandB, comet\nDeep Learning: PyTorch, TensorFlow, Keras\nNatural Language Processing: NLTK, NER, Spacy, word2vec, Kmeans, KNN, DBscan\nComputer Vision: openCV, Yolo-V5, unet, cnn, resnet\nVersion Control: Git, Github, Gitlab\nDatabase: SQL, NOSQL, Databricks\nWeb Frameworks: Streamlit, Flask, FastAPI, Streamlit\nGenerative AI - HuggingFace, LLM, Langchain, GPT-3.5, and GPT-4\nProject Management and collaboration tool- JIRA, Confluence\nDeployment- AWS, GCP, Docker, Google Vertex AI, Data Robot AI, Big ML, Microsoft Azure\n\nHow many of them do you have?",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-03T06:09:52+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2266,
+      "sender_type": "Channel"
     }
   ]
 }
