@@ -2195,6 +2195,15 @@
       "edit_date": null,
       "id": 2266,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Roadmap to become NLP Expert in 2025 \u2705",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-03T10:10:08+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2267,
+      "sender_type": "Channel"
     }
   ]
 }
