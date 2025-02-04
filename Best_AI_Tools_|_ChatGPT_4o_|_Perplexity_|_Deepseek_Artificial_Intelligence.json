@@ -80,6 +80,15 @@
       "edit_date": null,
       "id": 699,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Complete Roadmap to learn Generative AI in 2 months \ud83d\udc47\ud83d\udc47\n\nWeeks 1-2: Foundations\n1. Learn Basics of Python: If not familiar, grasp the fundamentals of Python, a widely used language in AI.\n2. Understand Linear Algebra and Calculus: Brush up on basic linear algebra and calculus as they form the foundation of machine learning.\n\nWeeks 3-4: Machine Learning Basics\n1. Study Machine Learning Fundamentals: Understand concepts like supervised learning, unsupervised learning, and evaluation metrics.\n2. Get Familiar with TensorFlow or PyTorch: Choose one deep learning framework and learn its basics.\n\nWeeks 5-6: Deep Learning\n1. Neural Networks: Dive into neural networks, understanding architectures, activation functions, and training processes.\n2. CNNs and RNNs: Learn Convolutional Neural Networks (CNNs) for image data and Recurrent Neural Networks (RNNs) for sequential data.\n\nWeeks 7-8: Generative Models\n1. Understand Generative Models: Study the theory behind generative models, focusing on GANs (Generative Adversarial Networks) and VAEs (Variational Autoencoders).\n2. Hands-On Projects: Implement small generative projects to solidify your understanding. Experimenting with generative models will give you a deeper understanding of how they work. You can use platforms such as Google's Colab or Kaggle to experiment with different types of generative models.\n\nAdditional Tips:\n- Read Research Papers: Explore seminal papers on GANs and VAEs to gain a deeper insight into their workings. \n- Community Engagement: Join AI communities on platforms like Reddit or Stack Overflow to ask questions and learn from others.\n\nPro Tip: Roadmap won't help unless you start working on it consistently. Start working on projects as early as possible. \n\n2 months are good as a starting point to get grasp the basics of Generative AI but mastering it is very difficult as AI keeps evolving every day.\n\nBest Resources to learn Generative AI \ud83d\udc47\ud83d\udc47\n\nLearn Python for Free\n\nPrompt Engineering Course\n\nPrompt Engineering Guide\n\nData Science Course\n\nGoogle Cloud Generative AI Path\n\nUnlock the power of Generative AI Models\n\nMachine Learning with Python Free Course\n\nDeep Learning Nanodegree Program with Real-world Projects \n\nJoin @free4unow_backup for more free courses\n\nENJOY LEARNING\ud83d\udc4d\ud83d\udc4d",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek Artificial Intelligence",
+      "date": "2025-02-04T16:05:57+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 700,
+      "sender_type": "Channel"
     }
   ]
 }
