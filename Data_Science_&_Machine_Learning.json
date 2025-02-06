@@ -2303,6 +2303,15 @@
       "edit_date": null,
       "id": 2278,
       "sender_type": "Channel"
+    },
+    {
+      "text": "10 great Python packages for Data Science not known to many:\n\n1\ufe0f\u20e3 CleanLab\n\nCleanlab helps you clean data and labels by automatically detecting issues in a ML dataset.\n\n2\ufe0f\u20e3 LazyPredict\n\nA Python library that enables you to train, test, and evaluate multiple ML models at once using just a few lines of code.\n\n3\ufe0f\u20e3 Lux\n\nA Python library for quickly visualizing and analyzing data, providing an easy and efficient way to explore data.\n\n4\ufe0f\u20e3 PyForest\n\nA time-saving tool that helps in importing all the necessary data science libraries and functions with a single line of code.\n\n5\ufe0f\u20e3 PivotTableJS\n\nPivotTableJS lets you interactively analyse your data in Jupyter Notebooks without any code \ud83d\udd25\n\n6\ufe0f\u20e3 Drawdata\n\nDrawdata is a python library that allows you to draw a 2-D dataset of any shape in a Jupyter Notebook.\n\n7\ufe0f\u20e3 black\n\nThe Uncompromising Code Formatter\n\n8\ufe0f\u20e3 PyCaret\n\nAn open-source, low-code machine learning library in Python that automates the machine learning workflow.\n\n9\ufe0f\u20e3 PyTorch-Lightning by LightningAI\n\nStreamlines your model training, automates boilerplate code, and lets you focus on what matters: research & innovation.\n\n\ud83d\udd1f Streamlit \n\nA framework for creating web applications for data science and machine learning projects, allowing for easy and interactive data viz & model deployment.\n\nI have curated the best interview resources to crack Data Science Interviews \n\ud83d\udc47\ud83d\udc47\nhttps://topmate.io/analyst/1024129\n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-06T08:16:57+00:00",
+      "is_edited": true,
+      "edit_date": "2025-02-06T08:16:58+00:00",
+      "id": 2279,
+      "sender_type": "Channel"
     }
   ]
 }
