@@ -2447,6 +2447,15 @@
       "edit_date": null,
       "id": 2294,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Build your Machine Learning Projects using Python in 6 steps",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-07T07:34:51+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2295,
+      "sender_type": "Channel"
     }
   ]
 }
