@@ -2555,6 +2555,15 @@
       "edit_date": null,
       "id": 2306,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Myths About Data Science:\n\n\u2705 Data Science is Just Coding\n\nCoding is a part of data science. It also involves statistics, domain expertise, communication skills, and business acumen. Soft skills are as important or even more important than technical ones\n\n\u2705 Data Science is a Solo Job\n\nI wish. I wanted to be a data scientist so I could sit quietly in a corner and code. Data scientists often work in teams, collaborating with engineers, product managers, and business analysts \n\n\u2705 Data Science is All About Big Data\n\nBig data is a big buzzword (that was more popular 10 years ago), but not all data science projects involve massive datasets. It\u2019s about the quality of the data and the questions you\u2019re asking, not just the quantity.\n\n\u2705 You Need to Be a Math Genius\n\nMany data science problems can be solved with basic statistical methods and simple logistic regression. It\u2019s more about applying the right techniques rather than knowing advanced math theories.\n\n\u2705 Data Science is All About Algorithms\n\nAlgorithms are a big part of data science, but understanding the data and the business problem is equally important. Choosing the right algorithm is crucial, but it\u2019s not just about complex models. Sometimes simple models can provide the best results. Logistic regression!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-09T08:45:07+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2307,
+      "sender_type": "Channel"
     }
   ]
 }
