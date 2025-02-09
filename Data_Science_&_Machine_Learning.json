@@ -2564,6 +2564,15 @@
       "edit_date": null,
       "id": 2307,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Skills for Data Scientists \ud83d\udc46",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-09T13:27:08+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2308,
+      "sender_type": "Channel"
     }
   ]
 }
