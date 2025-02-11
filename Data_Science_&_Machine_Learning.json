@@ -2618,6 +2618,15 @@
       "edit_date": null,
       "id": 2313,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Important Topics to become a data scientist\n[Advanced Level]\n\ud83d\udc47\ud83d\udc47\n\n1. Mathematics\n\nLinear Algebra\nAnalytic Geometry\nMatrix\nVector Calculus\nOptimization\nRegression\nDimensionality Reduction\nDensity Estimation\nClassification\n\n2. Probability \n\nIntroduction to Probability\n1D Random Variable\nThe function of One Random Variable\nJoint Probability Distribution\nDiscrete Distribution\nNormal Distribution\n\n3. Statistics \n\nIntroduction to Statistics\nData Description\nRandom Samples\nSampling Distribution\nParameter Estimation\nHypotheses Testing\nRegression\n\n4. Programming \n\nPython:\n\nPython Basics\nList\nSet\nTuples\nDictionary\nFunction\nNumPy\nPandas\nMatplotlib/Seaborn\n\nR Programming:\n\nR Basics\nVector\nList\nData Frame\nMatrix\nArray\nFunction\ndplyr\nggplot2\nTidyr\nShiny\n\nDataBase:\nSQL\nMongoDB\n\nData Structures \n\nWeb scraping \n\nLinux\n\nGit\n\n5. Machine Learning \n\nHow Model Works\nBasic Data Exploration\nFirst ML Model\nModel Validation\nUnderfitting & Overfitting\nRandom Forest\nHandling Missing Values\nHandling Categorical Variables\nPipelines\nCross-Validation(R)\nXGBoost(Python|R)\nData Leakage\n\n6. Deep Learning \n\nArtificial Neural Network\nConvolutional Neural Network\nRecurrent Neural Network\nTensorFlow\nKeras\nPyTorch\nA Single Neuron\nDeep Neural Network\nStochastic Gradient Descent\nOverfitting and Underfitting\nDropout Batch Normalization\nBinary Classification\n\n7. Feature Engineering\n\nBaseline Model\nCategorical Encodings\nFeature Generation\nFeature Selection\n\n8.\u00a0Natural Language Processing \n\nText Classification\nWord Vectors\n\n9. Data Visualization Tools \n\nBI (Business Intelligence):\nTableau\nPower BI\nQlik View\nQlik Sense\n\n10. Deployment \n\nMicrosoft Azure\nHeroku\nGoogle Cloud Platform\nFlask\nDjango\n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-11T09:16:14+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2314,
+      "sender_type": "Channel"
     }
   ]
 }
