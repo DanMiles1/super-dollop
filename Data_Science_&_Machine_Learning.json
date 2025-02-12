@@ -2645,6 +2645,15 @@
       "edit_date": null,
       "id": 2316,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Learning Plan\n\nStep 1: Mathematics for Data Science (Statistics, Probability, Linear Algebra)\n\nStep 2: Python for Data Science (Basics and Libraries)\n\nStep 3: Data Manipulation and Analysis (Pandas, NumPy)\n\nStep 4: Data Visualization (Matplotlib, Seaborn, Plotly)\n\nStep 5: Databases and SQL for Data Retrieval\n\nStep 6: Introduction to Machine Learning (Supervised and Unsupervised Learning)\n\nStep 7: Data Cleaning and Preprocessing\n\nStep 8: Feature Engineering and Selection\n\nStep 9: Model Evaluation and Tuning\n\nStep 10: Deep Learning (Neural Networks, TensorFlow, Keras)\n\nStep 11: Working with Big Data (Hadoop, Spark)\n\nStep 12: Building Data Science Projects and Portfolio",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-12T06:23:26+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2317,
+      "sender_type": "Channel"
     }
   ]
 }
