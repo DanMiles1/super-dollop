@@ -2690,6 +2690,15 @@
       "edit_date": null,
       "id": 2321,
       "sender_type": "Channel"
+    },
+    {
+      "text": "ML Interview Question \u2b07\ufe0f\n\n\u27a1\ufe0f Logistic Regression\n\nThe interviewer asked to explain Logistic Regression along with its:\n\n\ud83d\udd37 Cost function\n\ud83d\udd37 Assumptions\n\ud83d\udd37 Evaluation metrics\n\nHere is the step by step approach to answer: \n\n\u2611\ufe0f Cost function: Point out how logistic regression uses log loss for classification.\n\n\u2611\ufe0f Assumptions: Explain LR assumes features are independent and they have a linear link.\n\n\u2611\ufe0f Evaluation metrics: Discuss accuracy, precision, and F1-score to measure performance.\n\nKnowing every concept is important but more than that, it is important to convey our knowledge\ud83d\udcaf",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-12T15:35:21+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2322,
+      "sender_type": "Channel"
     }
   ]
 }
