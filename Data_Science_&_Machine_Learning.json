@@ -2834,6 +2834,15 @@
       "edit_date": null,
       "id": 2337,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Accenture Data Scientist Interview Questions!\n\n1st round-\n\nTechnical Round \n\n- 2 SQl questions based on playing around views and table, which could be solved by both subqueries and window functions.\n\n- 2 Pandas questions , testing your knowledge on filtering , concatenation , joins and merge.\n\n- 3-4 Machine Learning questions completely based on my Projects, starting from\nExplaining the problem statements and then discussing the roadblocks of those projects and some cross questions.\n\n2nd round-\n\n- Couple of python questions agains on pandas and numpy and some hypothetical data.\n\n- Machine Learning projects explanations and cross questions.\n\n- Case Study and a quiz question.\n\n3rd and Final round.\n\nHR interview \n\nSimple Scenerio Based Questions.\n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-17T06:24:40+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2338,
+      "sender_type": "Channel"
     }
   ]
 }
