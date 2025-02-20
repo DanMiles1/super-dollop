@@ -3005,6 +3005,15 @@
       "edit_date": null,
       "id": 2356,
       "sender_type": "Channel"
+    },
+    {
+      "text": "What \ud835\udde0\ud835\udddf \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddf0\ud835\uddf2\ud835\uddfd\ud835\ude01\ud835\ude00 are commonly asked in \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\ude00\ud835\uddf0\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddf6\ud835\uddf2\ud835\ude04\ud835\ude00?\n\nThese are fair game in interviews at \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddff\ud835\ude01\ud835\ude02\ud835\uddfd\ud835\ude00, \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\ude00\ud835\ude02\ud835\uddf9\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 & \ud835\uddf9\ud835\uddee\ud835\uddff\ud835\uddf4\ud835\uddf2 \ud835\ude01\ud835\uddf2\ud835\uddf0\ud835\uddf5.\n\n\ud835\uddd9\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf9\ud835\ude00\n- Supervised vs. Unsupervised Learning\n- Overfitting and Underfitting\n- Cross-validation\n- Bias-Variance Tradeoff\n- Accuracy vs Interpretability\n- Accuracy vs Latency\n\n\ud835\udde0\ud835\udddf \ud835\uddd4\ud835\uddf9\ud835\uddf4\ud835\uddfc\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\uddf5\ud835\uddfa\ud835\ude00\n- Logistic Regression\n- Decision Trees\n- Random Forest\n- Support Vector Machines\n- K-Nearest Neighbors\n- Naive Bayes\n- Linear Regression\n- Ridge and Lasso Regression\n- K-Means Clustering\n- Hierarchical Clustering\n- PCA\n\n\ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde6\ud835\ude01\ud835\uddf2\ud835\uddfd\ud835\ude00\n- EDA\n- Data Cleaning (e.g. missing value imputation)\n- Data Preprocessing (e.g. scaling)\n- Feature Engineering (e.g. aggregation)\n- Feature Selection (e.g. variable importance)\n- Model Training (e.g. gradient descent)\n- Model Evaluation (e.g. AUC vs Accuracy)\n- Model Productionization \n\n\ud835\udddb\ud835\ude06\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddfd\ud835\uddee\ud835\uddff\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udde7\ud835\ude02\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4\n- Grid Search\n- Random Search\n- Bayesian Optimization\n\n\ud835\udde0\ud835\udddf \ud835\uddd6\ud835\uddee\ud835\ude00\ud835\uddf2\ud835\ude00\n- [Capital One] Detect credit card fraudsters\n- [Amazon] Forecast monthly sales\n- [Airbnb] Estimate lifetime value of a guest\n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-02-20T06:15:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2357,
+      "sender_type": "Channel"
     }
   ]
 }
