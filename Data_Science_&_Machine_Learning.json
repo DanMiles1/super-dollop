@@ -3284,6 +3284,15 @@
       "edit_date": null,
       "id": 2484,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Time Complexity of 10 Most Popular ML Algorithms\n\nWhen selecting a machine learning model, understanding its time complexity is crucial for efficient processing, especially with large datasets.\n\nFor instance,\n1\ufe0f\u20e3 Linear Regression (OLS) is computationally expensive due to matrix multiplication, making it less suitable for big data applications.\n\n2\ufe0f\u20e3 Logistic Regression with Stochastic Gradient Descent (SGD) offers faster training times by updating parameters iteratively.\n\n3\ufe0f\u20e3 Decision Trees and Random Forests are efficient for training but can be slower for prediction due to traversing the tree structure.\n\n4\ufe0f\u20e3 K-Nearest Neighbours (KNN) is simple but can become slow with large datasets due to distance calculations.\n\n5\ufe0f\u20e3 Naive Bayes is fast and scalable, making it suitable for large datasets with high-dimensional features.\n\n6\ufe0f\u20e3 Support Vector Machines (SVMs) \u2013 Training an SVM with a linear kernel has a time complexity of O(n\u00b2), while non-linear kernels (like RBF) can take O(n\u00b3), making them slow for large datasets. However, linear SVMs work well for high-dimensional but sparse data.\n\n7\ufe0f\u20e3 K-Means Clustering \u2013 The standard Lloyd\u2019s algorithm has a time complexity of O(n * k * i * d), where n is the number of data points, k is the number of clusters, i is the number of iterations, and d is the number of dimensions. Convergence speed depends on initialization methods.\n\n8\ufe0f\u20e3 Principal Component Analysis (PCA) \u2013 PCA involves eigenvalue decomposition of the covariance matrix, leading to a time complexity of O(d\u00b3) + O(n * d\u00b2). It becomes computationally expensive for very high-dimensional data.\n\n9\ufe0f\u20e3 Neural Networks (Deep Learning) \u2013 The training complexity varies based on architecture but typically falls in the range of O(n * d * h) per iteration, where h is the number of hidden units. Large networks require GPUs or TPUs for efficient training.\n\n\ud83d\udd1f Gradient Boosting (e.g., XGBoost, LightGBM, CatBoost) \u2013 Training complexity is O(n * d * log(n)) per iteration, making it slower than decision trees but highly efficient with optimizations like histogram-based learning.\nUnderstanding these complexities helps in choosing the right algorithm based on dataset size, feature dimensions, and computational resources. \ud83d\ude80",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-03-17T06:35:35+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2485,
+      "sender_type": "Channel"
     }
   ]
 }
