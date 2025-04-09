@@ -3410,6 +3410,15 @@
       "edit_date": null,
       "id": 2666,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd30 Machine Learning Roadmap for Beginners 2025\n\u251c\u2500\u2500 \ud83e\udde0 What is Machine Learning?\n\u251c\u2500\u2500 \ud83e\uddea ML vs AI vs Deep Learning\n\u251c\u2500\u2500 \ud83d\udd22 Math Foundation (Linear Algebra, Calculus, Stats Basics)\n\u251c\u2500\u2500 \ud83d\udc0d Python Libraries (NumPy, Pandas, Scikit-learn)\n\u251c\u2500\u2500 \ud83d\udcca Data Preprocessing & Cleaning\n\u251c\u2500\u2500 \ud83d\udcc9 Feature Selection & Engineering\n\u251c\u2500\u2500 \ud83e\udded Supervised Learning (Regression, Classification)\n\u251c\u2500\u2500 \ud83e\uddf1 Unsupervised Learning (Clustering, Dimensionality Reduction)\n\u251c\u2500\u2500 \ud83d\udd79 Model Evaluation (Confusion Matrix, ROC, AUC)\n\u251c\u2500\u2500 \u2699\ufe0f Model Tuning (Hyperparameter Tuning, Grid Search)\n\u251c\u2500\u2500 \ud83e\uddf0 Ensemble Methods (Bagging, Boosting, Random Forests)\n\u251c\u2500\u2500 \ud83d\udd2e Introduction to Neural Networks\n\u251c\u2500\u2500 \ud83d\udd01 Overfitting vs Underfitting\n\u251c\u2500\u2500 \ud83d\udcc8 Model Deployment (Streamlit, Flask, FastAPI Basics)\n\u251c\u2500\u2500 \ud83e\uddea ML Projects (Classification, Forecasting, Recommender)\n\u251c\u2500\u2500 \ud83c\udfc6 ML Competitions (Kaggle, Hackathons)\n\nLike for the detailed explanation \u2764\ufe0f\n\n#machinelearning",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-09T10:26:58+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2667,
+      "sender_type": "Channel"
     }
   ]
 }
