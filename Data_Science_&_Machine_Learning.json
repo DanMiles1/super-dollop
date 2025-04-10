@@ -3482,6 +3482,15 @@
       "edit_date": null,
       "id": 2674,
       "sender_type": "Channel"
+    },
+    {
+      "text": "AI Engineer vs Software Engineer \ud83d\udc46",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-10T14:43:25+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2675,
+      "sender_type": "Channel"
     }
   ]
 }
