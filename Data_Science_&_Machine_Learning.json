@@ -3500,6 +3500,15 @@
       "edit_date": null,
       "id": 2676,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud835\udff1 \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\uddf4\ud835\uddf2\ud835\ude00 \ud835\udde7\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddd4\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude06 \ud835\udde0\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\uddd9\ud835\uddfc\ud835\uddff \ud835\uddd7\ud835\uddee\ud835\ude01\ud835\uddee \ud835\udde6\ud835\uddf0\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\ude00 \ud83d\udcbb\n\nYou don\u2019t need to be a LeetCode grandmaster.\nBut data science interviews still test your problem-solving mindset\u2014and these 5 types of challenges are the ones that actually matter.\n\nHere\u2019s what to focus on (with examples) \ud83d\udc47\n\n\ud83d\udd39 1. String Manipulation (Common in Data Cleaning)\n\n\u2705 Parse messy columns (e.g., split \u201cName_Age_City\u201d)\n\u2705 Regex to extract phone numbers, emails, URLs\n\u2705 Remove stopwords or HTML tags in text data\n\nExample: Clean up a scraped dataset from LinkedIn bias\n\n\ud83d\udd39 2. GroupBy and Aggregation with Pandas\n\n\u2705 Group sales data by product/region\n\u2705 Calculate avg, sum, count using .groupby()\n\u2705 Handle missing values smartly\n\nExample: \u201cWhat\u2019s the top-selling product in each region?\u201d\n\n\ud83d\udd39 3. SQL Join + Window Functions\n\n\u2705 INNER JOIN, LEFT JOIN to merge tables\n\u2705 ROW_NUMBER(), RANK(), LEAD(), LAG() for trends\n\u2705 Use CTEs to break complex queries\n\nExample: \u201cGet 2nd highest salary in each department\u201d\n\n\ud83d\udd39 4. Data Structures: Lists, Dicts, Sets in Python\n\n\u2705 Use dictionaries to map, filter, and count\n\u2705 Remove duplicates with sets\n\u2705 List comprehensions for clean solutions\n\nExample: \u201cCount frequency of hashtags in tweets\u201d\n\n\ud83d\udd39 5. Basic Algorithms (Not DP or Graphs)\n\n\u2705 Sliding window for moving averages\n\u2705 Two pointers for duplicate detection\n\u2705 Binary search in sorted arrays\n\nExample: \u201cDetect if a pair of values sum to 100\u201d\n\n\ud83c\udfaf Tip: Practice challenges that feel like real-world data work, not textbook CS exams.\n\nUse platforms like:\n\nStrataScratch\nHackerrank (SQL + Python)\nKaggle Code",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-10T16:51:43+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2677,
+      "sender_type": "Channel"
     }
   ]
 }
