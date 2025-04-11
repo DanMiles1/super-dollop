@@ -3536,6 +3536,15 @@
       "edit_date": null,
       "id": 2680,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83c\udf2e Data Analyst Vs Data Engineer Vs Data Scientist \ud83c\udf2e\n\n\nSkills required to become data analyst\n\ud83d\udc49 Advanced Excel, Oracle/SQL\n\ud83d\udc49 Python/R\n\nSkills required to become data engineer\n\ud83d\udc49 Python/ Java.\n\ud83d\udc49 SQL, NoSQL technologies like Cassandra or MongoDB\n\ud83d\udc49 Big data technologies like Hadoop, Hive/ Pig/ Spark\n\nSkills required to become data Scientist\n\ud83d\udc49 In-depth knowledge of tools like R/ Python/ SAS.\n\ud83d\udc49 Well versed in various machine learning algorithms like scikit-learn, karas and tensorflow\n\ud83d\udc49 SQL and NoSQL\n\nBonus skill required: Data Visualization (PowerBI/ Tableau) & Statistics",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-11T07:15:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2681,
+      "sender_type": "Channel"
     }
   ]
 }
