@@ -3527,6 +3527,15 @@
       "edit_date": null,
       "id": 2679,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Important data science topics you should definitely be aware of \n\n1. Statistics & Probability\n\nDescriptive Statistics (mean, median, mode, variance, std deviation)\nProbability Distributions (Normal, Binomial, Poisson)\nBayes' Theorem\nHypothesis Testing (t-test, chi-square test, ANOVA)\nConfidence Intervals\n\n2. Data Manipulation & Analysis\n\nData wrangling/cleaning\nHandling missing values & outliers\nFeature engineering & scaling\nGroupBy operations\nPivot tables\nTime series manipulation\n\n3. Programming (Python/R)\n\nData structures (lists, dictionaries, sets)\nLibraries: \nPython: pandas, NumPy, matplotlib, seaborn, scikit-learn\nR: dplyr, ggplot2, caret\nWriting reusable functions\nWorking with APIs & files (CSV, JSON, Excel)\n\n4. Data Visualization\nPlot types: bar, line, scatter, histograms, heatmaps, boxplots\nDashboards (Power BI, Tableau, Plotly Dash, Streamlit)\nCommunicating insights clearly\n\n5. Machine Learning\n\nSupervised Learning \nLinear & Logistic Regression\nDecision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM)\nSVM, KNN\n\nUnsupervised Learning \nK-means Clustering\nPCA\nHierarchical Clustering\n\nModel Evaluation \nAccuracy, Precision, Recall, F1-Score\nConfusion Matrix, ROC-AUC\nCross-validation, Grid Search\n\n6. Deep Learning (Basics)\nNeural Networks (perceptron, activation functions)\nCNNs, RNNs (just an overview unless you're going deep into DL)\nFrameworks: TensorFlow, PyTorch, Keras\n\n7. SQL & Databases\nSELECT, WHERE, GROUP BY, JOINS, CTEs, Subqueries\nWindow functions\nIndexes and Query Optimization\n\n8. Big Data & Cloud (Basics)\nHadoop, Spark\nAWS, GCP, Azure (basic knowledge of data services)\n\n9. Deployment & MLOps (Basic Awareness)\nModel deployment (Flask, FastAPI)\nDocker basics\nCI/CD pipelines\nModel monitoring\n\n10. Business & Domain Knowledge\nFraming a problem\nUnderstanding business KPIs\nTranslating data insights into actionable strategies",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-11T05:47:30+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2680,
+      "sender_type": "Channel"
     }
   ]
 }
