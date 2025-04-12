@@ -3617,6 +3617,15 @@
       "edit_date": null,
       "id": 2689,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Let\u2019s move on to the next one: Logistic Regression.\n\nAnd don\u2019t worry \u2014 even though it sounds like \u201clinear regression,\u201d this one\u2019s all about yes or no answers.\n\nWhat is Logistic Regression?\n\nLet\u2019s say you want to predict if someone will get approved for a loan or not.\n\nYou\u2019ve got details like:\n\nTheir income\nCredit score\nEmployment status\n\nBut the final output is binary \u2014 either \u201cYes\u201d (approved) or \u201cNo\u201d (not approved).\n\nThat\u2019s where Logistic Regression comes in. It\u2019s used when the outcome is yes/no, true/false, 0/1 \u2014 anything with just two categories.\n\nReal-Life Vibe:\nImagine you\u2019re trying to figure out if a student will pass or fail an exam based on the number of hours they study.\n\nNow instead of drawing a straight line (like in linear regression), logistic regression draws an S-shaped curve. \n\nWhy?\n\nBecause we want to squeeze all predictions into a range between 0 and 1 \u2014 where:\nCloser to 1 = high chance of \u201cYes\u201d\nCloser to 0 = high chance of \u201cNo\u201d\n\nFor example:\nIf the model says 0.95 \u2192 Very likely to pass\nIf it says 0.20 \u2192 Not likely to pass\n\nYou can set a cut-off point, say 0.5 \u2014 anything above that is considered \u201cYes,\u201d and below it is \u201cNo.\u201d\n\nIt\u2019s the go-to model for problems like: \nWill the customer churn?\nIs this email spam?\nWill the patient have a disease?\nSimple, fast, and surprisingly powerful.\n\nReact with \u2665\ufe0f if you want me to cover the next one \u2014 Decision Trees!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-12T14:33:23+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2690,
+      "sender_type": "Channel"
     }
   ]
 }
