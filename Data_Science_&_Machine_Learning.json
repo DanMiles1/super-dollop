@@ -3689,6 +3689,15 @@
       "edit_date": null,
       "id": 2757,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd30 Data Science Roadmap for Beginners 2025\n\u251c\u2500\u2500 \ud83d\udcd8 What is Data Science?\n\u251c\u2500\u2500 \ud83e\udde0 Data Science vs Data Analytics vs Machine Learning\n\u251c\u2500\u2500 \ud83d\udee0 Tools of the Trade (Python, R, Excel, SQL)\n\u251c\u2500\u2500 \ud83d\udc0d Python for Data Science (NumPy, Pandas, Matplotlib)\n\u251c\u2500\u2500 \ud83d\udd22 Statistics & Probability Basics\n\u251c\u2500\u2500 \ud83d\udcca Data Visualization (Matplotlib, Seaborn, Plotly)\n\u251c\u2500\u2500 \ud83e\uddfc Data Cleaning & Preprocessing\n\u251c\u2500\u2500 \ud83e\uddee Exploratory Data Analysis (EDA)\n\u251c\u2500\u2500 \ud83e\udde0 Introduction to Machine Learning\n\u251c\u2500\u2500 \ud83d\udce6 Supervised vs Unsupervised Learning\n\u251c\u2500\u2500 \ud83e\udd16 Popular ML Algorithms (Linear Reg, KNN, Decision Trees)\n\u251c\u2500\u2500 \ud83e\uddea Model Evaluation (Accuracy, Precision, Recall, F1 Score)\n\u251c\u2500\u2500 \ud83e\uddf0 Model Tuning (Cross Validation, Grid Search)\n\u251c\u2500\u2500 \u2699\ufe0f Feature Engineering\n\u251c\u2500\u2500 \ud83c\udfd7 Real-world Projects (Kaggle, UCI Datasets)\n\u251c\u2500\u2500 \ud83d\udcc8 Basic Deployment (Streamlit, Flask, Heroku)\n\u251c\u2500\u2500 \ud83d\udd01 Continuous Learning: Blogs, Research Papers, Competitions\n\nLike for more \u2764\ufe0f",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-24T06:14:19+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2759,
+      "sender_type": "Channel"
     }
   ]
 }
