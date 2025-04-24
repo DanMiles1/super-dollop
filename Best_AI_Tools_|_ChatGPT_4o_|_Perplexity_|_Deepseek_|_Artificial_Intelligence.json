@@ -422,6 +422,15 @@
       "edit_date": null,
       "id": 1026,
       "sender_type": "Channel"
+    },
+    {
+      "text": "We reached 100k, thanks for the support \u2764\ufe0f",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-04-24T14:44:10+00:00",
+      "is_edited": true,
+      "edit_date": "2025-04-24T14:44:14+00:00",
+      "id": 1027,
+      "sender_type": "Channel"
     }
   ]
 }
