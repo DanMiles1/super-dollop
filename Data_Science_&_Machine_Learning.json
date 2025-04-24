@@ -3698,6 +3698,15 @@
       "edit_date": null,
       "id": 2759,
       "sender_type": "Channel"
+    },
+    {
+      "text": "10 Machine Learning Concepts You Must Know\n\n1. Supervised vs Unsupervised Learning\n\nSupervised Learning involves training a model on labeled data (input-output pairs). Examples: Linear Regression, Classification.\n\nUnsupervised Learning deals with unlabeled data. The model tries to find hidden patterns or groupings. Examples: Clustering (K-Means), Dimensionality Reduction (PCA).\n\n\n2. Bias-Variance Tradeoff\n\nBias is the error due to overly simplistic assumptions in the learning algorithm.\n\nVariance is the error due to excessive sensitivity to small fluctuations in the training data.\n\nGoal: Minimize both for optimal model performance. High bias \u2192 underfitting; High variance \u2192 overfitting.\n\n\n3. Feature Engineering\n\nThe process of selecting, transforming, and creating variables (features) to improve model performance.\n\nExamples: Normalization, encoding categorical variables, creating interaction terms, handling missing data.\n\n\n4. Train-Test Split & Cross-Validation\n\nTrain-Test Split divides the dataset into training and testing subsets to evaluate model generalization.\n\nCross-Validation (e.g., k-fold) provides a more reliable evaluation by splitting data into k subsets and training/testing on each.\n\n\n5. Confusion Matrix\n\nA performance evaluation tool for classification models showing TP, TN, FP, FN.\n\nFrom it, we derive:\n\nAccuracy = (TP + TN) / Total\n\nPrecision = TP / (TP + FP)\n\nRecall = TP / (TP + FN)\n\nF1 Score = 2 * (Precision * Recall) / (Precision + Recall)\n\n\n\n6. Gradient Descent\n\nAn optimization algorithm used to minimize the cost/loss function by iteratively updating model parameters in the direction of the negative gradient.\n\nVariants: Batch GD, Stochastic GD (SGD), Mini-batch GD.\n\n\n7. Regularization (L1/L2)\n\nTechniques to prevent overfitting by adding a penalty term to the loss function.\n\nL1 (Lasso): Adds absolute value of coefficients, can shrink some to zero (feature selection).\n\nL2 (Ridge): Adds square of coefficients, tends to shrink but not eliminate coefficients.\n\n\n8. Decision Trees & Random Forests\n\nDecision Tree: A tree-structured model that splits data based on features. Easy to interpret.\n\nRandom Forest: An ensemble of decision trees; reduces overfitting and improves accuracy.\n\n\n9. Support Vector Machines (SVM)\n\nA supervised learning algorithm used for classification. It finds the optimal hyperplane that separates classes.\n\nUses kernels (linear, polynomial, RBF) to handle non-linearly separable data.\n\n\n10. Neural Networks\n\nInspired by the human brain, these consist of layers of interconnected neurons.\n\nDeep Neural Networks (DNNs) can model complex patterns.\n\nThe backbone of deep learning applications like image recognition, NLP, etc.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-24T06:18:17+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2760,
+      "sender_type": "Channel"
     }
   ]
 }
