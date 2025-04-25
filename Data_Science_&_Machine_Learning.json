@@ -3734,6 +3734,15 @@
       "edit_date": null,
       "id": 2763,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Python Detailed Roadmap \ud83d\ude80\n\n\ud83d\udccc 1. Basics\n\u25fc Data Types & Variables\n\u25fc Operators & Expressions\n\u25fc Control Flow (if, loops)\n\n\ud83d\udccc 2. Functions & Modules\n\u25fc Defining Functions\n\u25fc Lambda Functions\n\u25fc Importing & Creating Modules\n\n\ud83d\udccc 3. File Handling\n\u25fc Reading & Writing Files\n\u25fc Working with CSV & JSON\n\n\ud83d\udccc 4. Object-Oriented Programming (OOP)\n\u25fc Classes & Objects\n\u25fc Inheritance & Polymorphism\n\u25fc Encapsulation\n\n\ud83d\udccc 5. Exception Handling\n\u25fc Try-Except Blocks\n\u25fc Custom Exceptions\n\n\ud83d\udccc 6. Advanced Python Concepts\n\u25fc List & Dictionary Comprehensions\n\u25fc Generators & Iterators\n\u25fc Decorators\n\n\ud83d\udccc 7. Essential Libraries\n\u25fc NumPy (Arrays & Computations)\n\u25fc Pandas (Data Analysis)\n\u25fc Matplotlib & Seaborn (Visualization)\n\n\ud83d\udccc 8. Web Development & APIs\n\u25fc Web Scraping (BeautifulSoup, Scrapy)\n\u25fc API Integration (Requests)\n\u25fc Flask & Django (Backend Development)\n\n\ud83d\udccc 9. Automation & Scripting\n\u25fc Automating Tasks with Python\n\u25fc Working with Selenium & PyAutoGUI\n\n\ud83d\udccc 10. Data Science & Machine Learning\n\u25fc Data Cleaning & Preprocessing\n\u25fc Scikit-Learn (ML Algorithms)\n\u25fc TensorFlow & PyTorch (Deep Learning)\n\n\ud83d\udccc 11. Projects\n\u25fc Build Real-World Applications\n\u25fc Showcase on GitHub\n\n\ud83d\udccc 12. \u2705 Apply for Jobs\n\u25fc Strengthen Resume & Portfolio\n\u25fc Prepare for Technical Interviews\n\nLike for more \u2764\ufe0f\ud83d\udcaa",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-25T06:16:24+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2764,
+      "sender_type": "Channel"
     }
   ]
 }
