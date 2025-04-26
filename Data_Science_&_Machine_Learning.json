@@ -3770,6 +3770,15 @@
       "edit_date": null,
       "id": 2768,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Bayesian Data Analysis",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-26T03:04:28+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2769,
+      "sender_type": "Channel"
     }
   ]
 }
