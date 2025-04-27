@@ -3833,6 +3833,15 @@
       "edit_date": null,
       "id": 2775,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science \u2013 Essential Topics \ud83d\ude80\n\n1\ufe0f\u20e3 Data Collection & Processing\nWeb scraping, APIs, and databases\nHandling missing data, duplicates, and outliers\nData transformation and normalization\n\n2\ufe0f\u20e3 Exploratory Data Analysis (EDA)\nDescriptive statistics (mean, median, variance, correlation)\nData visualization (bar charts, scatter plots, heatmaps)\nIdentifying patterns and trends\n\n3\ufe0f\u20e3 Feature Engineering & Selection\nEncoding categorical variables\nScaling and normalization techniques\nHandling multicollinearity and dimensionality reduction\n\n4\ufe0f\u20e3 Machine Learning Model Building\nSupervised learning (classification, regression)\nUnsupervised learning (clustering, anomaly detection)\nModel selection and hyperparameter tuning\n\n5\ufe0f\u20e3 Model Evaluation & Performance Metrics\nAccuracy, precision, recall, F1-score, ROC-AUC\nCross-validation and bias-variance tradeoff\nConfusion matrix and error analysis\n\n6\ufe0f\u20e3 Deep Learning & Neural Networks\nBasics of artificial neural networks (ANNs)\nConvolutional neural networks (CNNs) for image processing\nRecurrent neural networks (RNNs) for sequential data\n\n7\ufe0f\u20e3 Big Data & Cloud Computing\nWorking with large datasets (Hadoop, Spark)\nCloud platforms (AWS, Google Cloud, Azure)\nScalable data pipelines and automation\n\n8\ufe0f\u20e3 Model Deployment & Automation\nModel deployment with Flask, FastAPI, or Streamlit\nMonitoring and maintaining machine learning models\nAutomating data workflows with Airflow\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-27T05:35:14+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2776,
+      "sender_type": "Channel"
     }
   ]
 }
