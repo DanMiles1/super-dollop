@@ -3842,6 +3842,15 @@
       "edit_date": null,
       "id": 2776,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Kaggle Datasets are often too perfect for real-world scenarios.\n\nI'm about to share a method for real-life data analysis.\n\nYou see \u2026\n\n\u2026 most of the time, a data analyst cleans and transforms data.\n\nSo \u2026 let\u2019s practice that.\n\nHow?\n\nWell \u2026 you can use ChatGPT.\n\nJust write this prompt:\n\nCreate a downloadable CSV dataset of 10,000 rows of financial credit card transactions with 10 columns of customer data so I can perform some data analysis to segment customers.\n\nNow\u2026\n\nDownload the dataset and start your analysis.\n\nYou'll see that, most of the time\u2026\n\n\u2026 numbers don\u2019t match.\n\nThere are no patterns.\n\nData is incorrect and doesn\u2019t make sense.\n\nAnd that\u2019s good.\n\nNow you know what a data analyst deals with.\n\nYour job is to make sense of that dataset.\n\nTo create a story that justifies the numbers.\n\nThis is how you can mimic real-life work using A.I.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-27T07:48:31+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2777,
+      "sender_type": "Channel"
     }
   ]
 }
