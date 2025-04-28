@@ -3878,6 +3878,15 @@
       "edit_date": null,
       "id": 2780,
       "sender_type": "Channel"
+    },
+    {
+      "text": "3 Data Science Free courses by Microsoft\ud83d\udd25\ud83d\udd25\n\n1. AI For Beginners - https://microsoft.github.io/AI-For-Beginners/\n\n2. ML For Beginners - https://microsoft.github.io/ML-For-Beginners/#/\n\n3. Data Science For Beginners - https://github.com/microsoft/Data-Science-For-Beginners\n\n Join for more: https://t.me/udacityfreecourse",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-28T07:12:36+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2781,
+      "sender_type": "Channel"
     }
   ]
 }
