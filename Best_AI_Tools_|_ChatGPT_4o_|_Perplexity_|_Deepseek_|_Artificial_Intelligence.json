@@ -728,6 +728,15 @@
       "edit_date": null,
       "id": 1060,
       "sender_type": "Channel"
+    },
+    {
+      "text": "10 AI Interview Questions You Should Be Ready For (2025)\n\n\u2705 What is the difference between AI, ML, and Deep Learning?\n\u2705 Explain overfitting and how to prevent it.\n\u2705 How do transformers work?\n\u2705 What is the role of attention mechanism in NLP?\n\u2705 What are embeddings and why are they important in AI models?\n\u2705 Describe a real-world use case of LLMs in production.\n\u2705 How would you evaluate the performance of a classification model?\n\u2705 What are some limitations of generative AI models like GPT?\n\u2705 What is fine-tuning vs. prompt engineering?\n\u2705 What are ethical concerns surrounding AI deployment in sensitive areas?\n\nReact if you're preparing for AI/ML interviews!\n\n#ai",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-04-29T13:19:42+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1061,
+      "sender_type": "Channel"
     }
   ]
 }
