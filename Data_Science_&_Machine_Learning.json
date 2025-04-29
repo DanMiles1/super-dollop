@@ -3932,6 +3932,15 @@
       "edit_date": null,
       "id": 2786,
       "sender_type": "Channel"
+    },
+    {
+      "text": "15 Best Project Ideas for Data Science : \ud83d\udcca\n\n\ud83d\ude80 Beginner Level:\n\n1. Exploratory Data Analysis (EDA) on Titanic Dataset\n2. Netflix Movies/TV Shows Data Analysis\n3. COVID-19 Data Visualization Dashboard\n4. Sales Data Analysis (CSV/Excel)\n5. Student Performance Analysis\n\n\ud83c\udf1f Intermediate Level:\n6. Sentiment Analysis on Tweets\n7. Customer Segmentation using K-Means\n8. Credit Score Classification\n9. House Price Prediction\n10. Market Basket Analysis (Apriori Algorithm)\n\n\ud83c\udf0c Advanced Level:\n11. Time Series Forecasting (Stock/Weather Data)\n12. Fake News Detection using NLP\n13. Image Classification with CNN\n14. Resume Parser using NLP\n15. Customer Churn Prediction\n\n\nReact \u2764\ufe0f for more",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-29T08:20:42+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2787,
+      "sender_type": "Channel"
     }
   ]
 }
