@@ -3950,6 +3950,15 @@
       "edit_date": null,
       "id": 2788,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd25 Data Science Roadmap 2025 \n\nStep 1: \ud83d\udc0d Python Basics \nStep 2: \ud83d\udcca Data Analysis (Pandas, NumPy) \nStep 3: \ud83d\udcc8 Data Visualization (Matplotlib, Seaborn) \nStep 4: \ud83e\udd16 Machine Learning (Scikit-learn) \nStep 5: \ufffd Deep Learning (TensorFlow/PyTorch) \nStep 6: \ud83d\uddc3\ufe0f SQL & Big Data (Spark) \nStep 7: \ud83d\ude80 Deploy Models (Flask, FastAPI) \nStep 8: \ud83d\udce2 Showcase Projects \nStep 9: \ud83d\udcbc Land a Job! \n\n\ud83d\udd13 Pro Tip: Compete on Kaggle\n\n#datascience",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-04-29T13:14:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2789,
+      "sender_type": "Channel"
     }
   ]
 }
