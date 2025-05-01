@@ -4013,6 +4013,15 @@
       "edit_date": null,
       "id": 2795,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Top 5 Open-Source AI Tools You Should Know\n\n\ud83d\udd18 TensorFlow: The AI Powerhouse\nPower your AI projects with Google's leading deep learning framework.\n\n\ud83d\udd18 PyTorch: Flexible & Developer-Friendly\nBuild smarter, faster with Facebook\u2019s flexible, developer-friendly toolkit.\n\n\ud83d\udd18 OpenAI Gym: Perfect for Reinforcement Learning\nMaster reinforcement learning with the ultimate training playground.\n\n\ud83d\udd18 DALL\u00b7E & Stable Diffusion: AI-Powered Image Generation\nTurn words into stunning images with cutting-edge AI art models.\n\n\ud83d\udd18 Hugging Face Transformers: NLP Made Easy\nUnlock the power of language AI with the world\u2019s favorite NLP library.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-05-01T05:19:38+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 2797,
+      "sender_type": "Channel"
     }
   ]
 }
