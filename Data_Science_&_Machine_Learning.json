@@ -4031,6 +4031,15 @@
       "edit_date": null,
       "id": 3048,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Analytics isn't rocket science. It's just a different language.\n \nHere's a beginner's guide to the world of data analytics:\n \n1) Understand the fundamentals:\n- Mathematics\n- Statistics\n- Technology\n \n2) Learn the tools:\n- SQL\n- Python\n- Excel (yes, it's still relevant!)\n \n3) Understand the data:\n- What do you want to measure?\n- How are you measuring it?\n- What metrics are important to you?\n \n4) Data Visualization:\n- A picture is worth a thousand words\n \n5) Practice:\n- There's no better way to learn than to do it yourself.\n \nData Analytics is a valuable skill that can help you make better decisions, understand your audience better, and ultimately grow your business.\n \nIt's never too late to start learning!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-12T14:14:55+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3049,
+      "sender_type": "Channel"
     }
   ]
 }
