@@ -4130,6 +4130,15 @@
       "edit_date": null,
       "id": 3059,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd0d Machine Learning Cheat Sheet \ud83d\udd0d\n\n1. Key Concepts:\n- Supervised Learning: Learn from labeled data (e.g., classification, regression).\n- Unsupervised Learning: Discover patterns in unlabeled data (e.g., clustering, dimensionality reduction).\n- Reinforcement Learning: Learn by interacting with an environment to maximize reward.\n\n2. Common Algorithms:\n- Linear Regression: Predict continuous values.\n- Logistic Regression: Binary classification.\n- Decision Trees: Simple, interpretable model for classification and regression.\n- Random Forests: Ensemble method for improved accuracy.\n- Support Vector Machines: Effective for high-dimensional spaces.\n- K-Nearest Neighbors: Instance-based learning for classification/regression.\n- K-Means: Clustering algorithm.\n- Principal Component Analysis(PCA)",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-13T08:07:16+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3060,
+      "sender_type": "Channel"
     }
   ]
 }
