@@ -4454,6 +4454,15 @@
       "edit_date": null,
       "id": 3095,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Most Asked SQL Interview Questions at MAANG Companies\ud83d\udd25\ud83d\udd25\n\nPreparing for an SQL Interview at MAANG Companies? Here are some crucial SQL Questions you should be ready to tackle:\n\n1. How do you retrieve all columns from a table?\n\nSELECT * FROM table_name;\n\n2. What SQL statement is used to filter records?\n\nSELECT * FROM table_name\nWHERE condition;\n\nThe WHERE clause is used to filter records based on a specified condition.\n\n3. How can you join multiple tables? Describe different types of JOINs.\n\nSELECT columns\nFROM table1\nJOIN table2 ON table1.column = table2.column\nJOIN table3 ON table2.column = table3.column;\n\nTypes of JOINs:\n\n1. INNER JOIN: Returns records with matching values in both tables\n\nSELECT * FROM table1\nINNER JOIN table2 ON table1.column = table2.column;\n\n2. LEFT JOIN: Returns all records from the left table & matched records from the right table. Unmatched records will have NULL values.\n\nSELECT * FROM table1\nLEFT JOIN table2 ON table1.column = table2.column;\n\n3. RIGHT JOIN: Returns all records from the right table & matched records from the left table. Unmatched records will have NULL values.\n\nSELECT * FROM table1\nRIGHT JOIN table2 ON table1.column = table2.column;\n\n4. FULL JOIN: Returns records when there is a match in either left or right table. Unmatched records will have NULL values.\n\nSELECT * FROM table1\nFULL JOIN table2 ON table1.column = table2.column;\n\n4. What is the difference between WHERE & HAVING clauses?\n\nWHERE: Filters records before any groupings are made.\n\nSELECT * FROM table_name\nWHERE condition;\n\nHAVING: Filters records after groupings are made.\n\nSELECT column, COUNT(*)\nFROM table_name\nGROUP BY column\nHAVING COUNT(*) > value;\n\n5. How do you calculate average, sum, minimum & maximum values in a column?\n\nAverage: SELECT AVG(column_name) FROM table_name;\n\nSum: SELECT SUM(column_name) FROM table_name;\n\nMinimum: SELECT MIN(column_name) FROM table_name;\n\nMaximum: SELECT MAX(column_name) FROM table_name;",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-17T11:05:25+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3096,
+      "sender_type": "Channel"
     }
   ]
 }
