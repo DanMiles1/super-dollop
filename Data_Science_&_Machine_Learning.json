@@ -4571,6 +4571,15 @@
       "edit_date": null,
       "id": 3108,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Want to make a transition to a career in data?\n\nHere is a 7-step plan for each data role \n\nData Scientist\n\nStatistics and Math: Advanced statistics, linear algebra, calculus.\nMachine Learning: Supervised and unsupervised learning algorithms.\nxData Wrangling: Cleaning and transforming datasets.\nBig Data: Hadoop, Spark, SQL/NoSQL databases.\nData Visualization: Matplotlib, Seaborn, D3.js.\nDomain Knowledge: Industry-specific data science applications.\n\nData Analyst\n\nData Visualization: Tableau, Power BI, Excel for visualizations.\nSQL: Querying and managing databases.\nStatistics: Basic statistical analysis and probability.\nExcel: Data manipulation and analysis.\nPython/R: Programming for data analysis.\nData Cleaning: Techniques for data preprocessing.\nBusiness Acumen: Understanding business context for insights.\n\nData Engineer\n\nSQL/NoSQL Databases: MySQL, PostgreSQL, MongoDB, Cassandra.\nETL Tools: Apache NiFi, Talend, Informatica.\nBig Data: Hadoop, Spark, Kafka.\nProgramming: Python, Java, Scala.\nData Warehousing: Redshift, BigQuery, Snowflake.\nCloud Platforms: AWS, GCP, Azure.\nData Modeling: Designing and implementing data models.\n\n#data",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-18T07:34:50+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3109,
+      "sender_type": "Channel"
     }
   ]
 }
