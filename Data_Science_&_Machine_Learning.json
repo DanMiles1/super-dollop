@@ -4661,6 +4661,15 @@
       "edit_date": null,
       "id": 3118,
       "sender_type": "Channel"
+    },
+    {
+      "text": "10 Machine Learning Concepts You Must Know\n\n\u2705 Supervised vs Unsupervised Learning \u2013 Understand the foundation of ML tasks\n\u2705 Bias-Variance Tradeoff \u2013 Balance underfitting and overfitting\n\u2705 Feature Engineering \u2013 The secret sauce to boost model performance\n\u2705 Train-Test Split & Cross-Validation \u2013 Evaluate models the right way\n\u2705 Confusion Matrix \u2013 Measure model accuracy, precision, recall, and F1\n\u2705 Gradient Descent \u2013 The algorithm behind learning in most models\n\u2705 Regularization (L1/L2) \u2013 Prevent overfitting by penalizing complexity\n\u2705 Decision Trees & Random Forests \u2013 Interpretable and powerful models\n\u2705 Support Vector Machines \u2013 Great for classification with clear boundaries\n\u2705 Neural Networks \u2013 The foundation of deep learning\n\nReact with \u2764\ufe0f for detailed explained",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-19T15:48:27+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3119,
+      "sender_type": "Channel"
     }
   ]
 }
