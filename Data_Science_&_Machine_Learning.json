@@ -4643,6 +4643,15 @@
       "edit_date": null,
       "id": 3116,
       "sender_type": "Channel"
+    },
+    {
+      "text": "If you are interested to learn SQL for data analytics purpose and clear the interviews, just cover the following topics \n\n1)Install MYSQL workbench\n2) Select\n3) From\n4) where\n5) group by \n6) having\n7) limit\n8) Joins (Left, right , inner, self, cross)\n9) Aggregate function ( Sum, Max, Min , Avg)\n9) windows function ( row num, rank, dense  rank, lead, lag, Sum () over)\n10)Case\n11) Like\n12) Sub queries\n13) CTE \n14) Replace CTE with temp tables \n15) Methods to optimize Sql queries\n16) Solve problems and case studies at Ankit Bansal youtube channel\n\nTrick: Just copy each term and paste on youtube and watch any 10 to 15 minute on each topic and practise it while learning , By doing this , you get the basics understanding \n\n17) Now time to go on youtube and search data analysis end to end project using sql\n\n18) Watch them and practise them end to end. \n\n17) learn integration with power bi \n\nIn this way , you will not only memorize the concepts but also learn how to implement them in your current working and projects and will be able to defend it in your interviews as well.\n\nLike for more",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-19T08:22:59+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3117,
+      "sender_type": "Channel"
     }
   ]
 }
