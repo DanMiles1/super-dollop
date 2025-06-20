@@ -4679,6 +4679,15 @@
       "edit_date": null,
       "id": 3120,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Analytics Interview Topics in structured way : \n\n\ud83d\udd35Python: Data Structures: Lists, tuples, dictionaries, sets Pandas: Data manipulation (DataFrame operations, merging, reshaping) NumPy: Numeric computing, arrays Visualization: Matplotlib, Seaborn for creating charts \n\n\ud83d\udd35SQL: Basic : SELECT, WHERE, JOIN, GROUP BY, ORDER BY Advanced : Subqueries, nested queries, window functions DBMS: Creating tables, altering schema, indexing Joins: Inner join, outer join, left/right join Data Manipulation: UPDATE, DELETE, INSERT statements Aggregate Functions: SUM, AVG, COUNT, MAX, MIN \n\n\ud83d\udd35Excel: Formulas & Functions: VLOOKUP, HLOOKUP, IF, SUMIF, COUNTIF Data Cleaning: Removing duplicates, handling errors, text-to-columns PivotTables Charts and Graphs What-If Analysis: Scenario Manager, Goal Seek, Solver \n\n\ud83d\udd35Power BI: \nData Modeling: Creating relationships between datasets \nTransformation: Cleaning & shaping data using \nPower Query Editor Visualization: Creating interactive reports and dashboards \nDAX (Data Analysis Expressions): Formulas for calculated columns, measures Publishing and sharing reports, scheduling data refresh \n\n\ud83d\udd35 Statistics Fundamentals: Mean, median, mode Variance, standard deviation Probability distributions Hypothesis testing, p-values, confidence intervals \n\n\ud83d\udd35Data Manipulation and Cleaning: Data preprocessing techniques (handling missing values, outliers), Data normalization and standardization Data transformation Handling categorical data \n\n\ud83d\udd35Data Visualization: Chart types (bar, line, scatter, histogram, boxplot) Data visualization libraries (matplotlib, seaborn, ggplot) Effective data storytelling through visualization \n\nAlso showcase these skills using data portfolio if possible\n\nLike for more content like this \ud83d\ude0d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-20T06:09:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3121,
+      "sender_type": "Channel"
     }
   ]
 }
