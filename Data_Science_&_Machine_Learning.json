@@ -4778,6 +4778,15 @@
       "edit_date": null,
       "id": 3135,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83e\udde0 Technologies for Data Analysts!\n\n\ud83d\udcca Data Manipulation & Analysis\n\n\u25aa\ufe0f Excel \u2013 Spreadsheet Data Analysis & Visualization\n\u25aa\ufe0f SQL \u2013 Structured Query Language for Data Extraction\n\u25aa\ufe0f Pandas (Python) \u2013 Data Analysis with DataFrames\n\u25aa\ufe0f NumPy (Python) \u2013 Numerical Computing for Large Datasets\n\u25aa\ufe0f Google Sheets \u2013 Online Collaboration for Data Analysis\n\n\ud83d\udcc8 Data Visualization\n\n\u25aa\ufe0f Power BI \u2013 Business Intelligence & Dashboarding\n\u25aa\ufe0f Tableau \u2013 Interactive Data Visualization\n\u25aa\ufe0f Matplotlib (Python) \u2013 Plotting Graphs & Charts\n\u25aa\ufe0f Seaborn (Python) \u2013 Statistical Data Visualization\n\u25aa\ufe0f Google Data Studio \u2013 Free, Web-Based Visualization Tool\n\n\ud83d\udd04 ETL (Extract, Transform, Load)\n\n\u25aa\ufe0f SQL Server Integration Services (SSIS) \u2013 Data Integration & ETL\n\u25aa\ufe0f Apache NiFi \u2013 Automating Data Flows\n\u25aa\ufe0f Talend \u2013 Data Integration for Cloud & On-premises\n\n\ud83e\uddf9 Data Cleaning & Preparation\n\n\u25aa\ufe0f OpenRefine \u2013 Clean & Transform Messy Data\n\u25aa\ufe0f Pandas Profiling (Python) \u2013 Data Profiling & Preprocessing\n\u25aa\ufe0f DataWrangler \u2013 Data Transformation Tool\n\n\ud83d\udce6 Data Storage & Databases\n\n\u25aa\ufe0f SQL \u2013 Relational Databases (MySQL, PostgreSQL, MS SQL)\n\u25aa\ufe0f NoSQL (MongoDB) \u2013 Flexible, Schema-less Data Storage\n\u25aa\ufe0f Google BigQuery \u2013 Scalable Cloud Data Warehousing\n\u25aa\ufe0f Redshift \u2013 Amazon\u2019s Cloud Data Warehouse\n\n\u2699\ufe0f Data Automation\n\n\u25aa\ufe0f Alteryx \u2013 Data Blending & Advanced Analytics\n\u25aa\ufe0f Knime \u2013 Data Analytics & Reporting Automation\n\u25aa\ufe0f Zapier \u2013 Connect & Automate Data Workflows\n\n\ud83d\udcca Advanced Analytics & Statistical Tools\n\n\u25aa\ufe0f R \u2013 Statistical Computing & Analysis\n\u25aa\ufe0f Python (SciPy, Statsmodels) \u2013 Statistical Modeling & Hypothesis Testing\n\u25aa\ufe0f SPSS \u2013 Statistical Software for Data Analysis\n\u25aa\ufe0f SAS \u2013 Advanced Analytics & Predictive Modeling\n\n\ud83c\udf10 Collaboration & Reporting\n\n\u25aa\ufe0f Power BI Service \u2013 Online Sharing & Collaboration for Dashboards\n\u25aa\ufe0f Tableau Online \u2013 Cloud-Based Visualization & Sharing\n\u25aa\ufe0f Google Analytics \u2013 Web Traffic Data Insights\n\u25aa\ufe0f Trello / JIRA \u2013 Project & Task Management for Data Projects\nData-Driven Decisions with the Right Tools!\n\nReact \u2764\ufe0f for more",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-22T07:17:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3136,
+      "sender_type": "Channel"
     }
   ]
 }
