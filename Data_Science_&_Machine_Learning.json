@@ -4940,6 +4940,15 @@
       "edit_date": null,
       "id": 3153,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Interview QnAs For ML Engineer \n\n1.What are the various steps involved in an data analytics project?\n\nThe steps involved in a data analytics project are:\n\nData collection\nData cleansing\nData pre-processing\nEDA\nCreation of train test and validation sets\nModel creation\nHyperparameter tuning\nModel deployment\n\n\n2. Explain Star Schema.\n\nStar schema is a data warehousing concept in which all schema is connected to a central schema.\n\n\n3.  What is root cause analysis?\n\nRoot cause analysis is the process of tracing back of occurrence of an event and the factors which lead to it. It\u2019s generally done when a software malfunctions. In data science, root cause analysis helps businesses understand the semantics behind certain outcomes.\n\n\n4. Define Confounding Variables.\n\nA confounding variable is an external influence in an experiment. In simple words, these variables change the effect of a dependent and independent variable. A variable should satisfy below conditions to be a confounding variable :\n\nVariables should be correlated to the independent variable.\nVariables should be informally related to the dependent variable.\nFor example, if you are studying whether a lack of exercise has an effect on weight gain, then the lack of exercise is an independent variable and weight gain is a dependent variable. A confounder variable can be any other factor that has an effect on weight gain. Amount of food consumed, weather conditions etc. can be a confounding variable.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-24T07:50:34+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3154,
+      "sender_type": "Channel"
     }
   ]
 }
