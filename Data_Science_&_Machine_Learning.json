@@ -5084,6 +5084,15 @@
       "edit_date": null,
       "id": 3169,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Analytics Interview Preparation \n[Questions with Answers]\n\nHow did you get your job?\n\nI was hired after an internship.\u00a0 \nTo get the internship, I prepared a bunch for general Python questions (LeetCode etc.) and studied the basics of machine learning (several different algorithms, how they work, when they're useful, metrics\u00a0 \nto measure their performance, how to train them in practice etc.).\u00a0 \n\nTo get the internship I had to pass a technical interview as well as a take-home machine learning (ML) exercise. Then, it was just a question of doing a good job in the internship!\u00a0 \n\nWhat are your data related responsibilities in your job?\u00a0 \n\nI work on our recommendation system. It\u2019s deep learning based. I work on a lot of features to try and\u00a0 \nimprove it (reinforcement learning & NLP etc). Since I'm in a start-up, it's also up to our team to put the models we design into production. So, after a phase of research & development and model design, in notebooks, it's time to create a real pipeline, by creating scripts.\u00a0 \nThis enables us to define, train, replace, compare and check the status of the models in production. It's basically all in Python, using Keras/TensorFlow, Pandas, Scikit-learn and NumPy. We also do a lot of analysis for the business team to help them compute metrics of interest (related to\u00a0 \nrevenue, acquisition etc.). For that, we use an external utility called Metabase. It is is hooked up to our database where we write SQL queries and visualize the results and create dashboards (using\u00a0 \nTableau/Looker etc).\u00a0 \nI would say my role is quite \"full-stack\" since we are all involved from the phase of R&D to deployment on our cluster.\u00a0 \n\nWas it difficult to get this role? \n\nI got hired after an internship. If you come from a scientific background, it's not that hard to transition into data science. All the math is something you will probably have seen already (especially if you're\u00a0 \ndoing maths or physics). So, with some preparation and coding practice, you can start applying to internships.\u00a0 \nIt took me maybe a month or two of preparation to get some basic ideas of the typical Python data stack (Pandas, Keras, SciKit-learn etc) before I started to send out CVs. Then, if you get an internship, try your best to do the best you can and then maybe you'll be hired after!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-26T13:23:07+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3170,
+      "sender_type": "Channel"
     }
   ]
 }
