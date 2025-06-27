@@ -5156,6 +5156,15 @@
       "edit_date": null,
       "id": 3177,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL beginner to advanced level",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-27T13:05:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3178,
+      "sender_type": "Channel"
     }
   ]
 }
