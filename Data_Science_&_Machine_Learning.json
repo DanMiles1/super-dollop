@@ -5255,6 +5255,15 @@
       "edit_date": null,
       "id": 3188,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL Zero to Hero \u2705",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-28T04:21:03+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3189,
+      "sender_type": "Channel"
     }
   ]
 }
