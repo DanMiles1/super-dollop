@@ -5273,6 +5273,15 @@
       "edit_date": null,
       "id": 3190,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Machine Learning \u2013 Essential Concepts \ud83d\ude80\n\n1\ufe0f\u20e3 Types of Machine Learning\n\nSupervised Learning \u2013 Uses labeled data to train models.\n\nExamples: Linear Regression, Decision Trees, Random Forest, SVM\n\n\nUnsupervised Learning \u2013 Identifies patterns in unlabeled data.\n\nExamples: Clustering (K-Means, DBSCAN), PCA\n\n\nReinforcement Learning \u2013 Models learn through rewards and penalties.\n\nExamples: Q-Learning, Deep Q Networks\n\n\n\n2\ufe0f\u20e3 Key Algorithms\n\nRegression \u2013 Predicts continuous values (Linear Regression, Ridge, Lasso).\n\nClassification \u2013 Categorizes data into classes (Logistic Regression, Decision Tree, SVM, Na\u00efve Bayes).\n\nClustering \u2013 Groups similar data points (K-Means, Hierarchical Clustering, DBSCAN).\n\nDimensionality Reduction \u2013 Reduces the number of features (PCA, t-SNE, LDA).\n\n\n3\ufe0f\u20e3 Model Training & Evaluation\n\nTrain-Test Split \u2013 Dividing data into training and testing sets.\n\nCross-Validation \u2013 Splitting data multiple times for better accuracy.\n\nMetrics \u2013 Evaluating models with RMSE, Accuracy, Precision, Recall, F1-Score, ROC-AUC.\n\n\n4\ufe0f\u20e3 Feature Engineering\n\nHandling missing data (mean imputation, dropna()).\n\nEncoding categorical variables (One-Hot Encoding, Label Encoding).\n\nFeature Scaling (Normalization, Standardization).\n\n\n5\ufe0f\u20e3 Overfitting & Underfitting\n\nOverfitting \u2013 Model learns noise, performs well on training but poorly on test data.\n\nUnderfitting \u2013 Model is too simple and fails to capture patterns.\n\nSolution: Regularization (L1, L2), Hyperparameter Tuning.\n\n\n6\ufe0f\u20e3 Ensemble Learning\n\nCombining multiple models to improve performance.\n\nBagging (Random Forest)\n\nBoosting (XGBoost, Gradient Boosting, AdaBoost)\n\n\n\n7\ufe0f\u20e3 Deep Learning Basics\n\nNeural Networks (ANN, CNN, RNN).\n\nActivation Functions (ReLU, Sigmoid, Tanh).\n\nBackpropagation & Gradient Descent.\n\n\n8\ufe0f\u20e3 Model Deployment\n\nDeploy models using Flask, FastAPI, or Streamlit.\n\nModel versioning with MLflow.\n\nCloud deployment (AWS SageMaker, Google Vertex AI).",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-06-28T11:23:41+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3191,
+      "sender_type": "Channel"
     }
   ]
 }
