@@ -1313,6 +1313,15 @@
       "edit_date": null,
       "id": 1314,
       "sender_type": "Channel"
+    },
+    {
+      "text": "n8n\n\nFair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.\n\nCreator:   n8n-io\nStars \u2b50\ufe0f:  83,684\nForked by: 22,502\n\nGithub Repo:\nhttps://github.com/n8n-io/n8n\n   \n#github",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-06-30T09:36:23+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1315,
+      "sender_type": "Channel"
     }
   ]
 }
