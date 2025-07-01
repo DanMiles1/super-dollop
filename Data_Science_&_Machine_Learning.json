@@ -5534,6 +5534,15 @@
       "edit_date": null,
       "id": 3220,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Essential Python Libraries to build your career in Data Science \ud83d\udcca\ud83d\udc47\n\n1. NumPy:\n   - Efficient numerical operations and array manipulation.\n\n2. Pandas:\n   - Data manipulation and analysis with powerful data structures (DataFrame, Series).\n\n3. Matplotlib:\n   - 2D plotting library for creating visualizations.\n\n4. Seaborn:\n   - Statistical data visualization built on top of Matplotlib.\n\n5. Scikit-learn:\n   - Machine learning toolkit for classification, regression, clustering, etc.\n\n6. TensorFlow:\n   - Open-source machine learning framework for building and deploying ML models.\n\n7. PyTorch:\n   - Deep learning library, particularly popular for neural network research.\n\n8. SciPy:\n   - Library for scientific and technical computing.\n\n9. Statsmodels:\n    - Statistical modeling and econometrics in Python.\n\n10. NLTK (Natural Language Toolkit):\n    - Tools for working with human language data (text).\n\n11. Gensim:\n    - Topic modeling and document similarity analysis.\n\n12. Keras:\n    - High-level neural networks API, running on top of TensorFlow.\n\n13. Plotly:\n    - Interactive graphing library for making interactive plots.\n\n14. Beautiful Soup:\n    - Web scraping library for pulling data out of HTML and XML files.\n\n15. OpenCV:\n    - Library for computer vision tasks.\n\nAs a beginner, you can start with Pandas and NumPy for data manipulation and analysis. For data visualization, Matplotlib and Seaborn are great starting points. As you progress, you can explore machine learning with Scikit-learn, TensorFlow, and PyTorch.\n\nFree Notes & Books to learn Data Science: https://t.me/datasciencefree\n\nPython Project Ideas: https://t.me/dsabooks/85\n\nBest Resources to learn Python & Data Science \ud83d\udc47\ud83d\udc47\n\nPython Tutorial \n\nData Science Course by Kaggle\n\nMachine Learning Course by Google\n\nBest Data Science & Machine Learning Resources \n\nInterview Process for Data Science Role at Amazon \n\nPython Interview Resources \n\nJoin @free4unow_backup for more free courses \n\nLike for more \u2764\ufe0f\n\nENJOY LEARNING\ud83d\udc4d\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-01T16:21:30+00:00",
+      "is_edited": true,
+      "edit_date": "2025-07-01T16:21:35+00:00",
+      "id": 3221,
+      "sender_type": "Channel"
     }
   ]
 }
