@@ -5606,6 +5606,15 @@
       "edit_date": null,
       "id": 3228,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Python CheatSheet \ud83d\udcda \u2705\n\n1. Basic Syntax\n   - Print Statement: print(\"Hello, World!\")\n   - Comments: # This is a comment\n\n2. Data Types\n   - Integer: x = 10\n   - Float: y = 10.5\n   - String: name = \"Alice\"\n   - List: fruits = [\"apple\", \"banana\", \"cherry\"]\n   - Tuple: coordinates = (10, 20)\n   - Dictionary: person = {\"name\": \"Alice\", \"age\": 25}\n\n3. Control Structures\n   - If Statement:\n    \n     if x > 10:\n         print(\"x is greater than 10\")\n     \n   - For Loop:\n    \n     for fruit in fruits:\n         print(fruit)\n     \n   - While Loop:\n    \n     while x < 5:\n         x += 1\n     \n4. Functions\n   - Define Function:\n    \n     def greet(name):\n         return f\"Hello, {name}!\"\n     \n   - Lambda Function: add = lambda a, b: a + b\n\n5. Exception Handling\n   - Try-Except Block:\n    \n     try:\n         result = 10 / 0\n     except ZeroDivisionError:\n         print(\"Cannot divide by zero.\")\n     \n6. File I/O\n   - Read File:\n    \n     with open('file.txt', 'r') as file:\n         content = file.read()\n     \n   - Write File:\n    \n     with open('file.txt', 'w') as file:\n         file.write(\"Hello, World!\")\n     \n7. List Comprehensions\n   - Basic Example: squared = [x**2 for x in range(10)]\n   - Conditional Comprehension: even_squares = [x**2 for x in range(10) if x % 2 == 0]\n\n8. Modules and Packages\n   - Import Module: import math\n   - Import Specific Function: from math import sqrt\n\n9. Common Libraries\n   - NumPy: import numpy as np\n   - Pandas: import pandas as pd\n   - Matplotlib: import matplotlib.pyplot as plt\n\n10. Object-Oriented Programming\n    - Define Class:\n     \n      class Dog:\n          def __init__(self, name):\n              self.name = name\n          def bark(self):\n              return \"Woof!\"\n      \n    \n11. Virtual Environments\n    - Create Environment: python -m venv myenv\n    - Activate Environment: \n      - Windows: myenv\\Scripts\\activate\n      - macOS/Linux: source myenv/bin/activate\n\n12. Common Commands\n    - Run Script: python script.py\n    - Install Package: pip install package_name\n    - List Installed Packages: pip list\n\nThis Python checklist serves as a quick reference for essential syntax, functions, and best practices to enhance your coding efficiency!\n\nChecklist for Data Analyst: https://dataanalytics.beehiiv.com/p/data\n\nHere you can find essential Python Interview Resources\ud83d\udc47\nhttps://t.me/DataSimplifier\n\nLike for more resources like this \ud83d\udc4d \u2665\ufe0f\n\nShare with credits: https://t.me/sqlspecialist\n\nHope it helps :)",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-03T17:46:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3229,
+      "sender_type": "Channel"
     }
   ]
 }
