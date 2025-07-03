@@ -1394,6 +1394,15 @@
       "edit_date": null,
       "id": 1323,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Roadmap to become a Data Scientist:\n\n\ud83d\udcc2 Learn Python & R\n\u221f\ud83d\udcc2 Learn Statistics & Probability\n\u221f\ud83d\udcc2 Learn SQL & Data Handling\n\u221f\ud83d\udcc2 Learn Data Cleaning & Preprocessing\n\u221f\ud83d\udcc2 Learn Data Visualization (Matplotlib, Seaborn, Power BI/Tableau)\n\u221f\ud83d\udcc2 Learn Machine Learning (Supervised, Unsupervised)\n\u221f\ud83d\udcc2 Learn Deep Learning (Neural Nets, CNNs, RNNs)\n\u221f\ud83d\udcc2 Learn Model Deployment (Flask, Streamlit, FastAPI)\n\u221f\ud83d\udcc2 Build Real-world Projects & Case Studies\n\u221f\u2705 Apply for Jobs & Internships\n\nReact \u2764\ufe0f for more",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-07-03T07:38:35+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1324,
+      "sender_type": "Channel"
     }
   ]
 }
