@@ -1412,6 +1412,15 @@
       "edit_date": null,
       "id": 1325,
       "sender_type": "Channel"
+    },
+    {
+      "text": "The Gemini Public API is a tool provided by the Gemini cryptocurrency exchange that allows users to place, cancel, and view orders, stream market data, and get account data. \n\nThe API offers both public and private REST APIs, with the public APIs providing market data such as the current order book, recent trading activity, and trade history. \n\nPrivate APIs allow users to manage both orders and funds, including placing and canceling orders, seeing active orders, and viewing trading history and trade volume. \n\nThe Gemini API can be accessed via REST, WebSocket, and FIX APIs, and its documentation is available at\u00a0https://docs.gemini.com/.",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-07-04T07:34:51+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1326,
+      "sender_type": "Channel"
     }
   ]
 }
