@@ -5876,6 +5876,15 @@
       "edit_date": null,
       "id": 3258,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Being a Generalist Data Scientist won't get you hired. \nHere is how you can specialize \ud83d\udc47\n\nCompanies have specific problems that require certain skills to solve. If you do not know which path you want to follow. Start broad first, explore your options, then specialize.\n\nTo discover what you enjoy the most, try answering different questions for each DS role: \n\n\n- \ud835\udc0c\ud835\udc1a\ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc27\ud835\udc1e \ud835\udc0b\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\nQs:\n\u201cHow should we monitor model performance in production?\u201d\n\n- \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc00\ud835\udc27\ud835\udc1a\ud835\udc25\ud835\udc32\ud835\udc2c\ud835\udc2d / \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc12\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc2c\ud835\udc2d\nQs:\n\u201cHow can we visualize customer segmentation to highlight key demographics?\u201d\n\n- \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc12\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc2c\ud835\udc2d\nQs:\n\u201cHow can we use clustering to identify new customer segments for targeted marketing?\u201d\n\n- \ud835\udc0c\ud835\udc1a\ud835\udc1c\ud835\udc21\ud835\udc22\ud835\udc27\ud835\udc1e \ud835\udc0b\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21\ud835\udc1e\ud835\udc2b\nQs:\n\u201cWhat novel architectures can we explore to improve model robustness?\u201d\n\n- \ud835\udc0c\ud835\udc0b\ud835\udc0e\ud835\udc29\ud835\udc2c \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\nQs:\n\u201cHow can we automate the deployment of machine learning models to ensure continuous integration and delivery?\u201d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-06T19:11:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3259,
+      "sender_type": "Channel"
     }
   ]
 }
