@@ -5894,6 +5894,15 @@
       "edit_date": null,
       "id": 3260,
       "sender_type": "Channel"
+    },
+    {
+      "text": "What are the differences between a Power BI dataset, a Report, and a Dashboard?\n\nIn Power BI:\n\n1. Dataset: It's where your raw data resides. Think of it as your data source. You import or connect to data, transform it, and then store it in a dataset within Power BI.\n\n2. Report: Reports visualize data from your dataset. They consist of visuals like charts, graphs, tables, etc., created using the data in your dataset. Reports allow you to explore and analyze your data in depth.\n\n3. Dashboard: Dashboards are a collection of visuals from one or more reports, designed to give a snapshot view of your data. They provide a high-level overview of key metrics and trends. You can pin visuals from different reports onto a dashboard to create a unified view.\n\nI have curated the best interview resources to crack Power BI Interviews \ud83d\udc47\ud83d\udc47\nhttps://whatsapp.com/channel/0029Vai1xKf1dAvuk6s1v22c\n\nHope you'll like it \n\nLike this post if you need more resources like this \ud83d\udc4d\u2764\ufe0f",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-07T07:52:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3261,
+      "sender_type": "Channel"
     }
   ]
 }
