@@ -6011,6 +6011,15 @@
       "edit_date": null,
       "id": 3273,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Prepare for placement season in 6 months",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-08T11:10:22+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3274,
+      "sender_type": "Channel"
     }
   ]
 }
