@@ -6065,6 +6065,15 @@
       "edit_date": "2025-07-08T11:10:28+00:00",
       "id": 3279,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL Interview Questions with Answers \n\nLike for more \u2764\ufe0f",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-08T11:44:13+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3280,
+      "sender_type": "Channel"
     }
   ]
 }
