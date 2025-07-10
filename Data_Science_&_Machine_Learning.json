@@ -6488,6 +6488,15 @@
       "edit_date": null,
       "id": 3326,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL interview questions with answers \ud83d\ude04\ud83d\udc47\n\n1. Question: What is SQL?\n\n\u00a0\u00a0 Answer: SQL (Structured Query Language) is a programming language designed for managing and manipulating relational databases. It is used to query, insert, update, and delete data in databases.\n\n2. Question: Differentiate between SQL and MySQL.\n\n\u00a0\u00a0 Answer: SQL is a language for managing relational databases, while MySQL is an open-source relational database management system (RDBMS) that uses SQL as its language.\n\n3. Question: Explain the difference between INNER JOIN and LEFT JOIN.\n\n\u00a0\u00a0 Answer: INNER JOIN returns rows when there is a match in both tables, while LEFT JOIN returns all rows from the left table and the matched rows from the right table, filling in with NULLs for non-matching rows.\n\n4. Question: How do you remove duplicate records from a table?\n\n\u00a0\u00a0 Answer: Use the DISTINCT keyword in a SELECT statement to retrieve unique records. For example: SELECT DISTINCT column1, column2 FROM table;\n\n5. Question: What is a subquery in SQL?\n\n\u00a0\u00a0 Answer: A subquery is a query nested inside another query. It can be used to retrieve data that will be used in the main query as a condition to further restrict the data to be retrieved.\n\n6. Question: Explain the purpose of the GROUP BY clause.\n\n\u00a0\u00a0 Answer: The GROUP BY clause is used to group rows that have the same values in specified columns into summary rows, like when using aggregate functions such as COUNT, SUM, AVG, etc.\n\n7. Question: How can you add a new record to a table?\n\n\u00a0\u00a0 Answer: Use the INSERT INTO statement. For example: INSERT INTO table_name (column1, column2) VALUES (value1, value2);\n\n8. Question: What is the purpose of the HAVING clause?\n\n\u00a0\u00a0 Answer: The HAVING clause is used in combination with the GROUP BY clause to filter the results of aggregate functions based on a specified condition.\n\n9. Question: Explain the concept of normalization in databases.\n\n\u00a0\u00a0 Answer: Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It involves breaking down tables into smaller, related tables.\n\n10. Question: How do you update data in a table in SQL?\n\n\u00a0\u00a0\u00a0 Answer: Use the UPDATE statement to modify existing records in a table. For example: UPDATE table_name SET column1 = value1 WHERE condition;",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-10T14:50:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3327,
+      "sender_type": "Channel"
     }
   ]
 }
