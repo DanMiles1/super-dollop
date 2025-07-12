@@ -6686,6 +6686,15 @@
       "edit_date": null,
       "id": 3348,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Ever wondered what the difference is between a Data Analyst and a Data Scientist? Both roles are in high demand, but they tackle data in different ways.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-12T19:02:19+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3349,
+      "sender_type": "Channel"
     }
   ]
 }
