@@ -6641,6 +6641,15 @@
       "edit_date": null,
       "id": 3343,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Core data science concepts you should know:\n\n\ud83d\udd22 1. Statistics & Probability\n\nDescriptive statistics: Mean, median, mode, standard deviation, variance\n\nInferential statistics: Hypothesis testing, confidence intervals, p-values, t-tests, ANOVA\n\nProbability distributions: Normal, Binomial, Poisson, Uniform\n\nBayes' Theorem\n\nCentral Limit Theorem\n\n\n\ud83d\udcca 2. Data Wrangling & Cleaning\n\nHandling missing values\n\nOutlier detection and treatment\n\nData transformation (scaling, encoding, normalization)\n\nFeature engineering\n\nDealing with imbalanced data\n\n\n\ud83d\udcc8 3. Exploratory Data Analysis (EDA)\n\nUnivariate, bivariate, and multivariate analysis\n\nCorrelation and covariance\n\nData visualization tools: Matplotlib, Seaborn, Plotly\n\nInsights generation through visual storytelling\n\n\n\ud83e\udd16 4. Machine Learning Fundamentals\n\nSupervised Learning: Linear regression, logistic regression, decision trees, SVM, k-NN\n\nUnsupervised Learning: K-means, hierarchical clustering, PCA\n\nModel evaluation: Accuracy, precision, recall, F1-score, ROC-AUC\n\nCross-validation and overfitting/underfitting\n\nBias-variance tradeoff\n\n\n\ud83e\udde0 5. Deep Learning (Basics)\n\nNeural networks: Perceptron, MLP\n\nActivation functions (ReLU, Sigmoid, Tanh)\n\nBackpropagation\n\nGradient descent and learning rate\n\nCNNs and RNNs (intro level)\n\n\n\ud83d\uddc3\ufe0f 6. Data Structures & Algorithms (DSA)\n\nArrays, lists, dictionaries, sets\n\nSorting and searching algorithms\n\nTime and space complexity (Big-O notation)\n\nCommon problems: string manipulation, matrix operations, recursion\n\n\n\ud83d\udcbe 7. SQL & Databases\n\nSELECT, WHERE, GROUP BY, HAVING\n\nJOINS (inner, left, right, full)\n\nSubqueries and CTEs\n\nWindow functions\n\nIndexing and normalization\n\n\n\ud83d\udce6 8. Tools & Libraries\n\nPython: pandas, NumPy, scikit-learn, TensorFlow, PyTorch\n\nR: dplyr, ggplot2, caret\n\nJupyter Notebooks for experimentation\n\nGit and GitHub for version control\n\n\n\ud83e\uddea 9. A/B Testing & Experimentation\n\nControl vs. treatment group\n\nHypothesis formulation\n\nSignificance level, p-value interpretation\n\nPower analysis\n\n\n\ud83c\udf10 10. Business Acumen & Storytelling\n\nTranslating data insights into business value\n\nCrafting narratives with data\n\nBuilding dashboards (Power BI, Tableau)\n\nKnowing KPIs and business metrics\n\nReact \u2764\ufe0f for more",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-12T10:06:50+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3344,
+      "sender_type": "Channel"
     }
   ]
 }
