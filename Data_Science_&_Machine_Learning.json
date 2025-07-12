@@ -6668,6 +6668,15 @@
       "edit_date": null,
       "id": 3346,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Analyst: Analyzes data to provide insights and reports for decision-making.\n\nData Scientist: Builds models to predict outcomes and uncover deeper insights from data.\n\nData Engineer: Creates and maintains the systems that store and process data.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-12T15:10:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3347,
+      "sender_type": "Channel"
     }
   ]
 }
