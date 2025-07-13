@@ -1709,6 +1709,15 @@
       "edit_date": null,
       "id": 1358,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Use Chat GPT to prepare for your next Interview\n\nThis could be the most helpful thing for people aspiring for new jobs.\n\nA few prompts that can help you here are:\n\n\ud83d\udca1Prompt 1: Here is a Job description of a job I am looking to apply for. Can you tell me what skills and questions should I prepare for? {Paste JD}\n\n\ud83d\udca1Prompt 2: Here is my resume. Can you tell me what optimization I can do to make it more likely to get selected for this interview? {Paste Resume in text}\n\n\ud83d\udca1Prompt 3: Act as an Interviewer for the role of a {product manager} at {Company}. Ask me 5 questions one by one, wait for my response, and then tell me how I did. You should give feedback in the following format: What was good, where are the gaps, and how to address the gaps?\n\n\ud83d\udca1Prompt 4: I am interviewing for this job given in the JD. Can you help me understand the company, its role, its products, main competitors, and challenges for the company?\n\n\ud83d\udca1Prompt 5: What are the few questions I should ask at the end of the interview which can help me learn about the culture of the company?\n\nFree book to master ChatGPT: https://t.me/InterviewBooks/166\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-07-13T10:24:04+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1359,
+      "sender_type": "Channel"
     }
   ]
 }
