@@ -6704,6 +6704,15 @@
       "edit_date": null,
       "id": 3350,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL Cheatsheet \ud83d\udcdd\n\nThis SQL cheatsheet is designed to be your quick reference guide for SQL programming. Whether you\u2019re a beginner learning how to query databases or an experienced developer looking for a handy resource, this cheatsheet covers essential SQL topics.\n\n1. Database Basics\n   - CREATE DATABASE db_name;\n   - USE db_name;\n\n2. Tables\n   - Create Table: CREATE TABLE table_name (col1 datatype, col2 datatype);\n   - Drop Table: DROP TABLE table_name;\n   - Alter Table: ALTER TABLE table_name ADD column_name datatype;\n\n3. Insert Data\n   - INSERT INTO table_name (col1, col2) VALUES (val1, val2);\n\n4. Select Queries\n   - Basic Select: SELECT * FROM table_name;\n   - Select Specific Columns: SELECT col1, col2 FROM table_name;\n   - Select with Condition: SELECT * FROM table_name WHERE condition;\n\n5. Update Data\n   - UPDATE table_name SET col1 = value1 WHERE condition;\n\n6. Delete Data\n   - DELETE FROM table_name WHERE condition;\n\n7. Joins\n   - Inner Join: SELECT * FROM table1 INNER JOIN table2 ON table1.col = table2.col;\n   - Left Join: SELECT * FROM table1 LEFT JOIN table2 ON table1.col = table2.col;\n   - Right Join: SELECT * FROM table1 RIGHT JOIN table2 ON table1.col = table2.col;\n\n8. Aggregations\n   - Count: SELECT COUNT(*) FROM table_name;\n   - Sum: SELECT SUM(col) FROM table_name;\n   - Group By: SELECT col, COUNT(*) FROM table_name GROUP BY col;\n\n9. Sorting & Limiting\n   - Order By: SELECT * FROM table_name ORDER BY col ASC|DESC;\n   - Limit Results: SELECT * FROM table_name LIMIT n;\n\n10. Indexes\n   - Create Index: CREATE INDEX idx_name ON table_name (col);\n   - Drop Index: DROP INDEX idx_name;\n\n11. Subqueries\n   - SELECT * FROM table_name WHERE col IN (SELECT col FROM other_table);\n\n12. Views\n   - Create View: CREATE VIEW view_name AS SELECT * FROM table_name;\n   - Drop View: DROP VIEW view_name;",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-13T08:25:18+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3351,
+      "sender_type": "Channel"
     }
   ]
 }
