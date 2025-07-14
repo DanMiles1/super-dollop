@@ -6749,6 +6749,15 @@
       "edit_date": null,
       "id": 3355,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL Joins \u2014 A Practical Cheatsheet for Professionals\n\nIf you\u2019re working with relational data \u2014 whether you\u2019re a business analyst, backend dev, or aspiring data scientist \u2014 mastering SQL joins isn\u2019t optional. It\u2019s fundamental.\n\nHere\u2019s a concise guide to the most important join types, with real-world use cases:\n\n\nINNER JOIN\n\nReturns records with matching keys from both tables.\nUse case: Show only customers who\u2019ve placed at least one order.\n\n\nLEFT JOIN (OUTER)\n\nReturns all rows from the left table, and matched rows from the right.\nUse case: List all customers, including those with zero orders.\n\n\nRIGHT JOIN (OUTER)\n\nReturns all rows from the right table. Rarely used, but powerful.\nUse case: Show all orders, even if the customer was deleted.\n\n\nFULL OUTER JOIN\n\nReturns all records from both tables.\nUse case: Capture everything \u2014 matched and unmatched.\n\n\nCROSS JOIN\n\nReturns the cartesian product.\nUse case: Generate every possible product/supplier combo.\n\n\nSELF JOIN\n\nJoins a table to itself.\nUse case: Show employees and their reporting managers.\n\n\nBest Practices\n\nUse aliases (A, B) for clean code\nPrefer JOIN ON over WHERE for clarity\nAlways test joins with LIMIT to prevent overloads",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-14T08:08:21+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3356,
+      "sender_type": "Channel"
     }
   ]
 }
