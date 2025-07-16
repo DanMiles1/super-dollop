@@ -7028,6 +7028,15 @@
       "edit_date": "2025-07-16T14:29:32+00:00",
       "id": 3386,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Interview Questions with Answers \ud83d\udc47 \n\nQ1: How would you analyze time series data to forecast production rates for a manufacturing unit?\u00a0 \n\nAns: I'd use tools like Prophet for time series forecasting. After decomposing the data to identify trends and seasonality, I'd build a model to forecast production rates.\n\n\nQ2: Describe a situation where you had to design a data warehousing solution for large-scale manufacturing data.\u00a0 \n\nAns: For a project with multiple manufacturing units, I designed a star schema with a central fact table and surrounding dimension tables to allow for efficient querying.\n\nQ3: How would you use data to identify bottlenecks in a production line?\u00a0 \n\nAns:\u00a0 I'd analyze production metrics, time logs, and machine efficiency data to identify stages in the production line with delays or reduced output, pinpointing potential bottlenecks.\n\nQ4: How do you ensure data accuracy and consistency in a manufacturing environment with multiple data sources? \n\nAns: I'd implement data validation checks, use standardized data collection protocols across units, and set up regular data reconciliation processes to ensure accuracy and consistency.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-16T18:59:23+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3387,
+      "sender_type": "Channel"
     }
   ]
 }
