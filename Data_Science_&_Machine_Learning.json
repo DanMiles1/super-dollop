@@ -6974,6 +6974,15 @@
       "edit_date": null,
       "id": 3380,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Master Power BI with this Cheat Sheet\ud83d\udd25\n\nIf you're preparing for a Power BI interview, this cheat sheet covers the key concepts and DAX commands you'll need. Bookmark it for last-minute revision!\n\n\ud83d\udcdd \ud835\udde3\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\uddd5\ud835\udddc \ud835\uddd5\ud835\uddee\ud835\ude00\ud835\uddf6\ud835\uddf0\ud835\ude00:\n\nDAX Functions:\n\n- SUMX: Sum of values based on a condition.\n- FILTER: Filter data based on a given condition.\n- RELATED: Retrieve a related column from another table.\n- CALCULATE: Perform dynamic calculations.\n- EARLIER: Access a column from a higher context.\n- CROSSJOIN: Create a Cartesian product of two tables.\n- UNION: Combine the results from multiple tables.\n- RANKX: Rank data within a column.\n- DISTINCT: Filter unique rows.\n\nData Modeling:\n\n- Relationships: Create, manage, and modify relationships.\n- Hierarchies: Build time-based hierarchies (e.g., Date, Month, Year).\n- Calculated Columns: Create calculated columns to extend data.\n- Measures: Write powerful measures to analyze data effectively.\n\nData Visualization:\n\n- Charts: Bar charts, line charts, pie charts, and more.\n- Table & Matrix: Display tabular data and matrix visuals.\n- Slicers: Create interactive filters.\n- Tooltips: Enhance visual interactivity with tooltips.\n- Map: Display geographical data effectively.\n\n\u2728 \ud835\uddd8\ud835\ude00\ud835\ude00\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde3\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\uddd5\ud835\udddc \ud835\udde7\ud835\uddf6\ud835\uddfd\ud835\ude00:\n\n\u2705 Use DAX for efficient data analysis. \n\n\u2705 Optimize data models for performance. \n\n\u2705 Utilize drill-through and drill-down for deeper insights. \n\n\u2705 Leverage bookmarks for enhanced navigation. \n\n\u2705 Annotate your reports with comments for clarity.\n\nLike this post if you need more content like this \ud83d\udc4d\u2764\ufe0f",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-16T11:20:05+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3381,
+      "sender_type": "Channel"
     }
   ]
 }
