@@ -7181,6 +7181,15 @@
       "edit_date": null,
       "id": 3403,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Topic: Handling Datasets of All Types \u2013 Part 1 of 5: Introduction and Basic Concepts \u2611\ufe0f\n\n\n1. What is a Dataset?\n\n\u2022 A dataset is a structured collection of data, usually organized in rows and columns, used for analysis or training machine learning models.\n\n2. Types of Datasets\n\n\u2022 Structured Data: Tables, spreadsheets with rows and columns (e.g., CSV, Excel).\n\n\u2022 Unstructured Data: Images, text, audio, video.\n\n\u2022 Semi-structured Data: JSON, XML files containing hierarchical data.\n\n3. Common Dataset Formats\n\n\u2022 CSV (Comma-Separated Values)\n\n\u2022 Excel (.xls, .xlsx)\n\n\u2022 JSON (JavaScript Object Notation)\n\n\u2022 XML (eXtensible Markup Language)\n\n\u2022 Images (JPEG, PNG, TIFF)\n\n\u2022 Audio (WAV, MP3)\n\n\n4. Loading Datasets in Python\n\n\u2022 Use libraries like pandas for structured data:\n\nimport pandas as pd\ndf = pd.read_csv('data.csv')\n\n\u2022 Use libraries like json for JSON files:\n\nimport json\nwith open('data.json') as f:\n\u00a0\u00a0\u00a0 data = json.load(f)\n\n\n5. Basic Dataset Exploration\n\n\u2022 Check shape and size:\n\nprint(df.shape)\n\n\u2022 Preview data:\n\nprint(df.head())\n\n\u2022 Check for missing values:\n\nprint(df.isnull().sum())\n\n\n6. Summary\n\n\u2022 Understanding dataset types is crucial before processing.\n\n\u2022 Loading and exploring datasets helps identify cleaning and preprocessing needs.\n\n\nExercise\n\n\u2022 Load a CSV and JSON dataset in Python, print their shapes, and identify missing values.\n\n#DataScience #Datasets #DataLoading #Python #DataExploration",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-18T14:27:00+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3404,
+      "sender_type": "Channel"
     }
   ]
 }
