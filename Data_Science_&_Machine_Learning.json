@@ -7154,6 +7154,15 @@
       "edit_date": null,
       "id": 3400,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Cold email template for Freshers \ud83d\udc47\n\nDear {NAME},\n\nI hope this email finds you in good health and high spirits. I am writing to express my keen interest in the internship opportunity at the {NAME} and to submit my application for your consideration.\n\n\nAllow me to introduce myself. My name is Ashok Aggarwal, and I am a statistics major with a specialization in Data Science. I have been following the remarkable work conducted by {NAME} and the valuable contributions it has made to the field of biomedical research and public health. I am truly inspired by the {One USP}\n\n\nHaving reviewed the internship description and requirements, I firmly believe that my academic background and skills make me a strong candidate for this opportunity. I have a solid foundation in statistics and data analysis, along with proficiency in relevant software such as Python, NumPy, Pandas, and visualization tools like Matplotlib. Furthermore, my prior project on {xyz} has reinforced my passion for utilizing data-driven insights to understand {XYZ}\n\n\nJoining {name} for this internship would provide me with a tremendous platform to contribute my statistical expertise and collaborate with esteemed scientists like yourself. I am eager to work closely with the research team, assist in communications campaigns, engage in community programs, and learn from the collective expertise at {Name}.\n\n\nI have attached my resume and would be grateful if you could review my application. I am available for an interview at your convenience to further discuss my qualifications and how I can contribute to {NAME} initiatives. I genuinely appreciate your time and consideration.\n\n\nThank you for your attention to my application. I look forward to the possibility of joining {NAME} and making a meaningful contribution to the organization's mission. Should you require any further information or documentation, please do not hesitate to contact me.\n\nWishing you a productive day ahead.\n\n\nSincerely,\n\n{Full Name}",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-18T08:14:35+00:00",
+      "is_edited": true,
+      "edit_date": "2025-07-18T08:14:39+00:00",
+      "id": 3401,
+      "sender_type": "Channel"
     }
   ]
 }
