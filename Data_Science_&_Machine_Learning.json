@@ -7145,6 +7145,15 @@
       "edit_date": null,
       "id": 3399,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Getting a job in 2017:\n\nApply, get interview, get offer, negotiate salary, start job. \n\nGetting a job in 2025:\n\nFind job you are overqualified for that is underpaying market rates, connect with current employees and ask for a recommendation, bake a cake for the potential team you\u2019ll be apart of and hope your efforts are better than other candidates, meet with the third cousin of the hiring manager to see if you are a good fit to maybe start the process of interviewing, take a 3-hour long pass",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-18T08:06:46+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3400,
+      "sender_type": "Channel"
     }
   ]
 }
