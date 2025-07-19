@@ -7244,6 +7244,15 @@
       "edit_date": null,
       "id": 3410,
       "sender_type": "Channel"
+    },
+    {
+      "text": "How much Statistics must I know to become a Data Scientist?\n\nThis is one of the most common questions \n\nHere are the must-know Statistics concepts every Data Scientist should know: \n\n\ud835\udde3\ud835\uddff\ud835\uddfc\ud835\uddef\ud835\uddee\ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\ude06\n\n\u2197\ufe0f Bayes' Theorem & conditional probability\n\u2197\ufe0f Permutations & combinations\n\u2197\ufe0f Card & die roll problem-solving\n\n\ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\uddff\ud835\uddf6\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\ude00 & \ud835\uddf1\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddff\ud835\uddf6\ud835\uddef\ud835\ude02\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00\n\n\u2197\ufe0f Mean, median, mode\n\u2197\ufe0f Standard deviation and variance\n\u2197\ufe0f\u00a0 Bernoulli's, Binomial, Normal, Uniform, Exponential distributions\n\n\ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\ude00\n\n\u2197\ufe0f A/B experimentation\n\u2197\ufe0f T-test, Z-test, Chi-squared tests\n\u2197\ufe0f Type 1 & 2 errors\n\u2197\ufe0f Sampling techniques & biases\n\u2197\ufe0f Confidence intervals & p-values\n\u2197\ufe0f Central Limit Theorem\n\u2197\ufe0f Causal inference techniques\n\n\ud835\udde0\ud835\uddee\ud835\uddf0\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf2 \ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4\n\n\u2197\ufe0f Logistic & Linear regression\n\u2197\ufe0f Decision trees & random forests\n\u2197\ufe0f Clustering models\n\u2197\ufe0f Feature engineering\n\u2197\ufe0f Feature selection methods\n\u2197\ufe0f Model testing & validation\n\u2197\ufe0f Time series analysis",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-19T14:30:16+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3411,
+      "sender_type": "Channel"
     }
   ]
 }
