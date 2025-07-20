@@ -7343,6 +7343,15 @@
       "edit_date": "2025-07-20T07:08:52+00:00",
       "id": 3421,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Scientist Roadmap \ud83d\udcc8\n\n\ud83d\udcc2 Python Basics\n\u221f\ud83d\udcc2 Numpy & Pandas\n\u2003\u221f\ud83d\udcc2 Data Cleaning\n\u2003\u2003\u221f\ud83d\udcc2 Data Visualization (Seaborn, Plotly)\n\u2003\u2003\u2003\u221f\ud83d\udcc2 Statistics & Probability\n\u2003\u2003\u2003\u2003\u221f\ud83d\udcc2 Machine Learning (Sklearn)\n\u2003\u2003\u2003\u2003\u2003\u221f\ud83d\udcc2 Deep Learning (TensorFlow / PyTorch)\n\u2003\u2003\u2003\u2003\u2003\u2003\u221f\ud83d\udcc2 Model Deployment\n\u2003\u2003\u2003\u2003\u2003\u2003\u2003\u221f\ud83d\udcc2 Real-World Projects\n\u2003\u2003\u2003\u2003\u2003\u2003\u2003\u2003\u221f\u2705 Apply for Data Science Roles\n\nReact \"\u2764\ufe0f\" For More",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-20T10:06:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3422,
+      "sender_type": "Channel"
     }
   ]
 }
