@@ -7406,6 +7406,15 @@
       "edit_date": null,
       "id": 3428,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Roadmap to become Data Scientist",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-21T17:17:50+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3429,
+      "sender_type": "Channel"
     }
   ]
 }
