@@ -7379,6 +7379,15 @@
       "edit_date": null,
       "id": 3425,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL Checklist for Data Analysts \ud83d\ude80\n\n\ud83c\udf31 Getting Started with SQL\n\n\ud83d\udc49 Install SQL database software (MySQL, PostgreSQL, or SQL Server)\n\ud83d\udc49 Set up your database environment and connect to your data\n\n\ud83d\udd0d Load & Explore Data\n\n\ud83d\udc49 Understand tables, rows, and columns\n\ud83d\udc49 Use SELECT to retrieve data and LIMIT to get a sample view\n\ud83d\udc49 Explore schema and table structure with DESCRIBE or SHOW COLUMNS\n\n\ud83e\uddf9 Data Filtering Essentials\n\n\ud83d\udc49 Filter data using WHERE clauses\n\ud83d\udc49 Use comparison operators (=, >, <) and logical operators (AND, OR)\n\ud83d\udc49 Handle NULL values with IS NULL and IS NOT NULL\n\n\ud83d\udd04 Transforming Data\n\n\ud83d\udc49 Sort data with ORDER BY\n\ud83d\udc49 Create calculated columns with AS and use arithmetic operators (+, -, *, /)\n\ud83d\udc49 Use CASE WHEN for conditional expressions\n\n\ud83d\udcca Aggregation & Grouping\n\n\ud83d\udc49 Summarize data with aggregation functions: SUM, COUNT, AVG, MIN, MAX\n\ud83d\udc49 Group data with GROUP BY and filter groups with HAVING\n\n\ud83d\udd17 Mastering Joins\n\n\ud83d\udc49 Combine tables with JOIN (INNER, LEFT, RIGHT, FULL OUTER)\n\ud83d\udc49 Understand primary and foreign keys to create meaningful joins\n\ud83d\udc49 Use SELF JOIN for analyzing data within the same table\n\n\ud83d\udcc5 Date & Time Data\n\n\ud83d\udc49 Convert dates and extract parts (year, month, day) with EXTRACT\n\ud83d\udc49 Perform time-based analysis using DATEDIFF and date functions\n\n\ud83d\udcc8 Quick Exploratory Analysis\n\n\ud83d\udc49 Calculate statistics to understand data distributions\n\ud83d\udc49 Use GROUP BY with aggregation for category-based analysis\n\n\ud83d\udcc9 Basic Data Visualizations (Optional)\n\n\ud83d\udc49 Integrate SQL with visualization tools (Power BI, Tableau)\n\ud83d\udc49 Create charts directly in SQL with certain extensions (like MySQL's built-in charts)\n\n\ud83d\udcaa Advanced Query Handling\n\n\ud83d\udc49 Master subqueries and nested queries\n\ud83d\udc49 Use WITH (Common Table Expressions) for complex queries\n\ud83d\udc49 Window functions for running totals, moving averages, and rankings (ROW_NUMBER, RANK, LAG, LEAD)\n\n\ud83d\ude80 Optimize for Performance\n\n\ud83d\udc49 Index critical columns for faster querying\n\ud83d\udc49 Analyze query plans and use optimizations\n\ud83d\udc49 Limit result sets and avoid excessive joins for efficiency\n\n\ud83d\udcc2 Practice Projects\n\n\ud83d\udc49 Use real datasets to perform SQL analysis\n\ud83d\udc49 Create a portfolio with case studies and projects",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-21T07:28:51+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3426,
+      "sender_type": "Channel"
     }
   ]
 }
