@@ -7442,6 +7442,15 @@
       "edit_date": null,
       "id": 3432,
       "sender_type": "Channel"
+    },
+    {
+      "text": "5 Key SQL Aggregate Functions for data analyst \n\n\ud83c\udf5eSUM(): Adds up all the values in a numeric column.\n\n\ud83c\udf5eAVG(): Calculates the average of a numeric column.\n\n\ud83c\udf5eCOUNT(): Counts the total number of rows or non-NULL values in a column.\n\n\ud83c\udf5eMAX(): Returns the highest value in a column.\n\n\ud83c\udf5eMIN(): Returns the lowest value in a column.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-22T14:55:53+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3433,
+      "sender_type": "Channel"
     }
   ]
 }
