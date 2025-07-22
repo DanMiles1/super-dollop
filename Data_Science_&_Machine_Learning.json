@@ -7424,6 +7424,15 @@
       "edit_date": null,
       "id": 3430,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Top 20 #SQL INTERVIEW QUESTIONS\n\n1\ufe0f\u20e3 Explain Order of Execution of SQL query\n2\ufe0f\u20e3 Provide a use case for each of the functions Rank, Dense_Rank & Row_Number ( \ud83d\udca1 majority struggle )\n3\ufe0f\u20e3 Write a query to find the cumulative sum/Running Total\n4\ufe0f\u20e3 Find the Most selling product by sales/ highest Salary of employees\n5\ufe0f\u20e3 Write a query to find the 2nd/nth highest Salary of employees\n6\ufe0f\u20e3 Difference between union vs union all\n7\ufe0f\u20e3 Identify if there any duplicates in a table\n8\ufe0f\u20e3 Scenario based Joins question, understanding of Inner, Left and Outer Joins via simple yet tricky question\n9\ufe0f\u20e3 LAG, write a query to find all those records where the transaction value is greater then previous transaction value\n1\ufe0f\u20e3 0\ufe0f\u20e3 Rank vs Dense Rank, query to find the 2nd highest Salary of employee\n( Ideal soln should handle ties)\n1\ufe0f\u20e3 1\ufe0f\u20e3 Write a query to find the Running Difference (Ideal sol'n using windows function)\n1\ufe0f\u20e3 2\ufe0f\u20e3 Write a query to display year on year/month on month growth\n1\ufe0f\u20e3 3\ufe0f\u20e3 Write a query to find rolling average of daily sign-ups\n1\ufe0f\u20e3 4\ufe0f\u20e3 Write a query to find the running difference using self join (helps in understanding the logical approach, ideally this question is solved via windows function)\n1\ufe0f\u20e3 5\ufe0f\u20e3 Write a query to find the cumulative sum using self join\n(you can use windows function to solve this question)\n1\ufe0f\u20e36\ufe0f\u20e3 Differentiate between a clustered index and a non-clustered index?\n1\ufe0f\u20e37\ufe0f\u20e3 What is a Candidate key?\n1\ufe0f\u20e38\ufe0f\u20e3What is difference between Primary key and Unique key?\n1\ufe0f\u20e39\ufe0f\u20e3What's the difference between RANK & DENSE_RANK in SQL?\n2\ufe0f\u20e30\ufe0f\u20e3 Whats the difference between LAG & LEAD in SQL?\n\nAccess SQL Learning Series for Free: https://t.me/sqlspecialist/523\n\nHope it helps :)",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-22T06:59:51+00:00",
+      "is_edited": true,
+      "edit_date": "2025-07-22T07:00:01+00:00",
+      "id": 3431,
+      "sender_type": "Channel"
     }
   ]
 }
