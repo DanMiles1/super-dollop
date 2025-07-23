@@ -7568,6 +7568,15 @@
       "edit_date": null,
       "id": 3447,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Planning for Data Science or Data Engineering Interview.\n\nFocus on SQL & Python first. Here are some important questions which you should know.\n\n\ud835\udc08\ud835\udc26\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc12\ud835\udc10\ud835\udc0b \ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c\n\n1- Find out nth Order/Salary from the tables.\n2- Find the no of output records in each join from given Table 1 & Table 2\n3- YOY,MOM Growth related questions.\n4- Find out Employee ,Manager Hierarchy (Self join related question) or\nEmployees who are earning more than managers.\n5- RANK,DENSERANK related questions\n6- Some row level scanning medium to complex questions using CTE or recursive CTE, like (Missing no /Missing Item from the list etc.)\n7- No of matches played by every team or Source to Destination flight combination using CROSS JOIN.\n8-Use window functions to perform advanced analytical tasks, such as calculating moving averages or detecting outliers.\n9- Implement logic to handle hierarchical data, such as finding all descendants of a given node in a tree structure.\n10-Identify and remove duplicate records from a table.\n\n\ud835\udc08\ud835\udc26\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc0f\ud835\udc32\ud835\udc2d\ud835\udc21\ud835\udc28\ud835\udc27 \ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c\n\n1- Reversing a String using an Extended Slicing techniques.\n2- Count Vowels from Given words .\n3- Find the highest occurrences of each word from string and sort them in order.\n4- Remove Duplicates from List.\n5-Sort a List without using Sort keyword.\n6-Find the pair of numbers in this list whose sum is n no.\n7-Find the max and min no in the list without using inbuilt functions.\n8-Calculate the Intersection of Two Lists without using Built-in Functions\n9-Write Python code to make API requests to a public API (e.g., weather API) and process the JSON response.\n10-Implement a function to fetch data from a database table, perform data manipulation, and update the database.\n\nJoin for more: https://t.me/datasciencefun\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-23T17:53:26+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3448,
+      "sender_type": "Channel"
     }
   ]
 }
