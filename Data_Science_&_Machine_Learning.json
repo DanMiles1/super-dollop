@@ -7541,6 +7541,15 @@
       "edit_date": "2025-07-23T13:25:28+00:00",
       "id": 3444,
       "sender_type": "Channel"
+    },
+    {
+      "text": "NLP techniques every Data Science professional should know!\n\n1. Tokenization\n2. Stop words removal\n3. Stemming and Lemmatization\n4. Named Entity Recognition\n5. TF-IDF\n6. Bag of Words",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-23T13:34:15+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3445,
+      "sender_type": "Channel"
     }
   ]
 }
