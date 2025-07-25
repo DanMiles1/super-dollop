@@ -7658,6 +7658,15 @@
       "edit_date": null,
       "id": 3457,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd17 Roadmap to master Machine Learning",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-25T07:23:00+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3458,
+      "sender_type": "Channel"
     }
   ]
 }
