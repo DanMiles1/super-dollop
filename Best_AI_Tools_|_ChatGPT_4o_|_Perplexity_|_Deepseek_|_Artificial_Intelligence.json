@@ -2123,6 +2123,15 @@
       "edit_date": null,
       "id": 1404,
       "sender_type": "Channel"
+    },
+    {
+      "text": "1.  What is a Self-Join?\n\nA self-join is a type of join that can be used to connect two tables. As a result, it is a unary relationship. Each row of the table is attached to itself and all other rows of the same table in a self-join. As a result, a self-join is mostly used to combine and compare rows from the same database table.\n\n\n2.  What is OLTP?\n\nOLTP, or online transactional processing, allows huge groups of people to execute massive amounts of database transactions in real time, usually via the internet. A database transaction occurs when data in a database is changed, inserted, deleted, or queried.\n\n\n3. What is the difference between joining and blending in Tableau?\n\nJoining term is used when you are combining data from the same source, for example, worksheet in an Excel file or tables in Oracle databaseWhile blending requires two completely defined data sources in your report.\n\n4. How to prevent someone from copying the cell from your worksheet in excel?\n\nIf you want to protect your worksheet from being copied, go into Menu bar > Review > Protect sheet > Password.\n\nBy entering password you can prevent your worksheet from getting copied.\n\n5. What is the difference between the RANK() and DENSE_RANK() functions?\n\nThe RANK() function in the result set defines the rank of each row within your ordered partition. If both rows have the same rank, the next number in the ranking will be the previous rank plus a number of duplicates. If we have three records at rank 4, for example, the next level indicated is 7. The DENSE_RANK() function assigns a distinct rank to each row within a partition based on the provided column value, with no gaps. If we have three records at rank 4, for example, the next level indicated is 5.",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-07-26T08:10:27+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1405,
+      "sender_type": "Channel"
     }
   ]
 }
