@@ -7820,6 +7820,15 @@
       "edit_date": null,
       "id": 3505,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Join our WhatsApp channel\n\nThere are dedicated resources only for WhatsApp users\n\ud83d\udc47\ud83d\udc47",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-07-31T09:43:41+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3506,
+      "sender_type": "Channel"
     }
   ]
 }
