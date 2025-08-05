@@ -8027,6 +8027,15 @@
       "edit_date": "2025-08-05T15:23:25+00:00",
       "id": 3546,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udea8Here is a comprehensive list of #interview questions that are commonly asked in job interviews for Data Scientist, Data Analyst, and Data Engineer positions:\n\n\n\u27a1\ufe0f Data Scientist Interview Questions\n\n\nTechnical Questions\n\n1) What are your preferred programming languages for data science, and why?\n\n2) Can you write a Python script to perform data cleaning on a given dataset?\n\n3) Explain the Central Limit Theorem.\n\n4) How do you handle missing data in a dataset?\n\n5) Describe the difference between supervised and unsupervised learning.\n\n6) How do you select the right algorithm for your model?\n\n\nQuestions Related To Problem-Solving and Projects\n\n7) Walk me through a data science project you have worked on.\n\n8) How did you handle data preprocessing in your project?\n\n9) How do you evaluate the performance of a machine learning model?\n\n10) What techniques do you use to prevent overfitting?\n\n\n\u27a1\ufe0fData Analyst Interview Questions\n\n\nTechnical Questions\n\n1) Write a SQL query to find the second highest salary from the employee table.\n\n2) How would you optimize a slow-running query?\n\n3) How do you use pivot tables in Excel?\n\n4) Explain the VLOOKUP function.\n\n5) How do you handle outliers in your data?\n\n6) Describe the steps you take to clean a dataset.\n\n\nAnalytical Questions\n\n7) How do you interpret data to make business decisions?\n\n8) Give an example of a time when your analysis directly influenced a business decision.\n\n9) What are your preferred tools for data analysis and why?\n\n10) How do you ensure the accuracy of your analysis?\n\n\n\u27a1\ufe0fData Engineer Interview Questions\n\n\nTechnical Questions\n\n1) What is your experience with SQL and NoSQL databases?\n\n2) How do you design a scalable database architecture?\n\n3) Explain the ETL process you follow in your projects.\n\n4) How do you handle data transformation and loading efficiently?\n\n5) What is your experience with Hadoop/Spark?\n\n6) How do you manage and process large datasets?\n\n\nQuestions Related To Problem-Solving and Optimization\n\n7) Describe a data pipeline you have built.\n\n8) What challenges did you face, and how did you overcome them?\n\n9) How do you ensure your data processes run efficiently?\n\n10) Describe a time when you had to optimize a slow data pipeline.\n\nI have curated top-notch Data Analytics Resources \ud83d\udc47\ud83d\udc47\nhttps://whatsapp.com/channel/0029VaGgzAk72WTmQFERKh02\n\nHope this helps you \ud83d\ude0a",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-05T15:37:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3547,
+      "sender_type": "Channel"
     }
   ]
 }
