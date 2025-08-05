@@ -7829,6 +7829,15 @@
       "edit_date": null,
       "id": 3506,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Here are the answers for the above quizzes: \n\n1\ufe0f\u20e3 What is the primary use of OpenCV?\n\u2705 B) Computer Vision & Image Processing\n\nOpenCV is built for real-time computer vision tasks such as image processing, object detection, face recognition, and video analysis.\n\n2\ufe0f\u20e3 Which function is used to read an image in OpenCV?\n\u2705 C) cv2.imread()  \n\ncv2.imread() loads an image from the specified file. It's the standard method for image reading in OpenCV.\n\n**3\ufe0f\u20e3 What does cv2.cvtColor() do?*B) Converts image color spacece**\n\nThis function converts images from one color space to another, like BGR to GRAY or BGR to HS4\ufe0f\u20e3 What key is commonly used to exit a video loop in OpenCV?V?**\n\u2705 *C) q*  \n\nIn many OpenCV examples, pressing the 'q' key breaks the loop and closes the video window using cv2.waitKey().\n\n**5\ufe0f\u20e3 Which format does OpenCV use for image data internalB) NumPy arraysarrays**\n\nOpenCV stores images as NumPy arrays, allowing powerful array-based operations for fast image proceReact \u2764\ufe0f for morer more**",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-05T04:19:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3525,
+      "sender_type": "Channel"
     }
   ]
 }
