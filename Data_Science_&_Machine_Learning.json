@@ -8036,6 +8036,15 @@
       "edit_date": null,
       "id": 3547,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\ude80\u00a0Become an Agentic AI Builder \u2014 Free 12\u2011Week Certification by Ready Tensor\n\nReady Tensor\u2019s Agentic AI Developer Certification is a free, project first 12\u2011week program designed to help you build and deploy real-world agentic AI systems. You'll complete three portfolio-ready projects using tools like LangChain, LangGraph, and vector databases, while deploying production-ready agents with FastAPI or Streamlit.\n\nThe course focuses on developing autonomous AI agents that can plan, reason, use memory, and act safely in complex environments. Certification is earned not by watching lectures, but by building \u2014 each project is reviewed against rigorous standards.\n\nYou can start anytime, and new cohorts begin monthly. Ideal for developers and engineers ready to go beyond chat prompts and start building true agentic systems.\n\n\ud83d\udc49\u00a0Apply now: https://www.readytensor.ai/agentic-ai-cert/",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-05T15:41:31+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3548,
+      "sender_type": "Channel"
     }
   ]
 }
