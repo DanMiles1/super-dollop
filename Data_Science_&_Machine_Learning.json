@@ -7838,6 +7838,15 @@
       "edit_date": null,
       "id": 3525,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd25 OpenCV \u2013 Computer Vision Library \ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f\n\nOpenCV (Open Source Computer Vision Library) is an open-source library used for real-time image processing and computer vision applications.\n\n\ud83d\udd39 Why Use OpenCV?\n\u2714\ufe0f Fast image/video processing\n\u2714\ufe0f Large collection of functions (face detection, object tracking, etc.)\n\u2714\ufe0f Works with NumPy arrays\n\u2714\ufe0f Cross-platform support\n\u2714\ufe0f Integrates with deep learning models (e.g. with TensorFlow, PyTorch)\n\n\ud83d\udd38 Installation\npip install opencv-python\n\n\ud83d\udd38 Basic Example: Load & Display Imageimport cv2\n\nimg = cv2.imread('image.jpg') # Load image\ncv2.imshow('Image', img) # Display\ncv2.waitKey(0) # Wait for key press\ncv2.destroyAllWindows() # Close window\n\n\n\ud83d\udd38 Read from Webcam & Convert to Grayscalecap = cv2.VideoCapture(0)\n\nwhile True:\n    ret, frame = cap.read()\n    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)\n    cv2.imshow('Grayscale Video', gray)\n\n    if cv2.waitKey(1) & 0xFF == ord('q'):\n        break\n\ncap.release()\ncv2.destroyAllWindows()\n\n\n\ud83d\udd39 Popular Features\n\u2714\ufe0f Face Detection (Haar Cascades)\n\u2714\ufe0f Edge Detection (Canny)\n\u2714\ufe0f Object Tracking\n\u2714\ufe0f Image Filtering (Blur, Sharpen)\n\u2714\ufe0f Drawing shapes & text on images\n\n\ud83d\udd39 Real-World Use Cases\n\u2714\ufe0f Facial recognition systems\n\u2714\ufe0f Surveillance cameras\n\u2714\ufe0f Self-driving cars\n\u2714\ufe0f Augmented reality\n\n\ud83d\udd39 Summary\n\nIdeal For: Developers working with images/videos or real-time vision apps\nStrength: Fast processing, huge toolkit, active community\n\nPython Resources: https://whatsapp.com/channel/0029VaiM08SDuMRaGKd9Wv0L\n\n\ud83d\udcac Tap \u2764\ufe0f for more!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-05T04:23:06+00:00",
+      "is_edited": true,
+      "edit_date": "2025-08-05T04:23:15+00:00",
+      "id": 3526,
+      "sender_type": "Channel"
     }
   ]
 }
