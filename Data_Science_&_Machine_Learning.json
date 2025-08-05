@@ -7928,6 +7928,15 @@
       "edit_date": "2025-08-05T08:18:53+00:00",
       "id": 3535,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udcc8 Predictive Modeling for Future Stock Prices in Python: A Step-by-Step Guide\n\nThe process of building a stock price prediction model using Python.\n\n1. Import required modules\n\n2. Obtaining historical data on stock prices\n\n3. Selection of features.\n\n4. Definition of features and target variable\n\n5. Preparing data for training\n\n6. Separation of data into training and test sets\n\n7. Building and training the model\n\n8. Making forecasts\n\n9. Trading Strategy Testing",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-05T08:18:51+00:00",
+      "is_edited": true,
+      "edit_date": "2025-08-05T08:18:53+00:00",
+      "id": 3536,
+      "sender_type": "Channel"
     }
   ]
 }
