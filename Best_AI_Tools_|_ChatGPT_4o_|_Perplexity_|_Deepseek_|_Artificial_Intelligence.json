@@ -2195,6 +2195,15 @@
       "edit_date": null,
       "id": 1435,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Step-by-Step Approach to Learn Python\n\u278a Learn the Basics \u2192 Syntax, Variables, Data Types (int, float, string, boolean)\n\u2193\n\u278b Control Flow \u2192 If-Else, Loops (For, While), List Comprehensions\n\u2193\n\u278c Data Structures \u2192 Lists, Tuples, Sets, Dictionaries\n\u2193\n\u278d Functions & Modules \u2192 Defining Functions, Lambda Functions, Importing Modules\n\u2193\n\u278e File Handling \u2192 Reading/Writing Files, CSV, JSON\n\u2193\n\u278f Object-Oriented Programming (OOP) \u2192 Classes, Objects, Inheritance, Polymorphism\n\u2193\n\u2790 Error Handling & Debugging \u2192 Try-Except, Logging, Debugging Techniques\n\u2193\n\u2791 Advanced Topics \u2192 Regular Expressions, Multi-threading, Decorators, Generators\n\nFree Python Resources: https://whatsapp.com/channel/0029VaiM08SDuMRaGKd9Wv0L\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-08-06T11:09:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1436,
+      "sender_type": "Channel"
     }
   ]
 }
