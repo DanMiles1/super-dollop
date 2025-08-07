@@ -8135,6 +8135,15 @@
       "edit_date": null,
       "id": 3560,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\ude80 PowerBI Interview Questions Recently Asked at an MNC:\n\n1\ufe0f\u20e3 What are the limitations of using Direct Query connection mode reports?\n\nDirect Query connects your Power BI report directly to the live data source, but it comes with some limitations. Here\u2019s a simplified explanation:\n\n\u27a1\ufe0f Slower Performance\nEvery report interaction sends a query to the data source, causing delays.\nExample: Imagine asking a librarian for every book you need, instead of having the books already with you.\n\n\u27a1\ufe0f Limited Features\nSome advanced Power BI features aren\u2019t supported in Direct Query mode.\nExample: A basic calculator can\u2019t perform complex scientific functions like specialized software.\n\n\u27a1\ufe0f Dependent on Source\nReport performance depends entirely on the data source\u2019s speed and availability.\nExample: If the library (data source) is slow or closed, you can\u2019t access your books (data).\n\n\u27a1\ufe0f Complex Queries\nHandling complex calculations can be difficult or slow.\nExample: Solving advanced math on a basic calculator takes time and effort.\n\n\u27a1\ufe0f Security and Access Issues\nDirect Query relies on the data source\u2019s security settings, which may limit access.\nExample: If the library restricts access to rare books, you\u2019ll face similar limitations.\n\n\ud83d\udca1 Key Takeaway: Direct Query ensures real-time data but can be slower, less flexible, and depends heavily on the data source\u2019s performance and security.\n\n#PowerBIInterview",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-07T16:45:27+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3561,
+      "sender_type": "Channel"
     }
   ]
 }
