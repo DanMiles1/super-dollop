@@ -8153,6 +8153,15 @@
       "edit_date": null,
       "id": 3562,
       "sender_type": "Channel"
+    },
+    {
+      "text": "10 Simple Habits to Boost Your Data Science Skills \ud83e\udde0\ud83d\udcca\n\n1) Practice data wrangling daily (Pandas, dplyr)  \n2) Work on small end-to-end projects (ETL, analysis, visualization)  \n3) Revisit and improve previous notebooks or scripts  \n4) Share findings in a clear, story-driven way  \n5) Follow data science blogs, newsletters, and researchers  \n6) Tackle weekly datasets or Kaggle competitions  \n7) Maintain a notebooks/journal with experiments and results  \n8) Version control your work (Git + GitHub)  \n9) Learn to communicate uncertainty (confidence intervals, p-values)  \n10) Stay curious about new tools (SQL, Python libs, ML basics)\n\n\ud83d\udcac React \"\u2764\ufe0f\" for more! \ud83d\ude0a",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-08T08:13:28+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3563,
+      "sender_type": "Channel"
     }
   ]
 }
