@@ -8162,6 +8162,15 @@
       "edit_date": null,
       "id": 3563,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\uddc4\ufe0f SQL Developer Roadmap\n\n\ud83d\udcc2 SQL Basics (SELECT, WHERE, ORDER BY)  \n\u221f\ud83d\udcc2 Joins (INNER, LEFT, RIGHT, FULL)  \n \u221f\ud83d\udcc2 Aggregate Functions (COUNT, SUM, AVG)  \n  \u221f\ud83d\udcc2 Grouping Data (GROUP BY, HAVING)  \n   \u221f\ud83d\udcc2 Subqueries & Nested Queries  \n    \u221f\ud83d\udcc2 Data Modification (INSERT, UPDATE, DELETE)  \n     \u221f\ud83d\udcc2 Database Design (Normalization, Keys)  \n      \u221f\ud83d\udcc2 Indexing & Query Optimization  \n       \u221f\ud83d\udcc2 Stored Procedures & Functions  \n        \u221f\ud83d\udcc2 Transactions & Locks  \n         \u221f\ud83d\udcc2 Views & Triggers  \n          \u221f\ud83d\udcc2 Backup & Restore  \n           \u221f\ud83d\udcc2 Working with NoSQL basics (optional)  \n            \u221f\ud83d\udcc2 Real Projects & Practice  \n             \u221f\u2705 Apply for SQL Dev Roles\n\n\u2764\ufe0f React for More!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-08T09:21:03+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3564,
+      "sender_type": "Channel"
     }
   ]
 }
