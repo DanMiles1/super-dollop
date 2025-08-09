@@ -8288,6 +8288,15 @@
       "edit_date": null,
       "id": 3577,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Advanced Questions Asked by Big 4 \n\n\ud83d\udcca Excel Questions\n1. How do you use Excel to forecast future trends based on historical data? Describe a scenario where you built a forecasting model.\n2. Can you explain how you would automate repetitive tasks in Excel using VBA (Visual Basic for Applications)? Provide an example of a complex macro you created.\n3. Describe a time when you had to merge and analyze data from multiple Excel workbooks. How did you ensure data integrity and accuracy?\n \n\ud83d\uddc4 SQL Questions\n1. How would you design a database schema for a new e-commerce platform to efficiently handle large volumes of transactions and user data?\n2. Describe a complex SQL query you wrote to solve a business problem. What was the problem, and how did your query help resolve it?\n3. How do you ensure data integrity and consistency in a multi-user database environment? Explain the techniques and tools you use.\n \n\ud83d\udc0d Python Questions\n1. How would you use Python to automate data extraction from various APIs and combine the data for analysis? Provide an example.\n2. Describe a machine learning project you worked on using Python. What was the objective, and how did you approach the data preprocessing, model selection, and evaluation?\n3. Explain how you would use Python to detect and handle anomalies in a dataset. What techniques and libraries would you employ?\n \n\ud83d\udcc8 Power BI Questions\n1. How do you create interactive dashboards in Power BI that can dynamically update based on user inputs? Provide an example of a dashboard you built.\n2. Describe a scenario where you used Power BI to integrate data from non-traditional sources (e.g., web scraping, APIs). How did you handle the data transformation and visualization?\n3. How do you ensure the performance and scalability of Power BI reports when dealing with large datasets? Describe the techniques and best practices you follow.\n \n \n\ud83d\udca1 Tips for Success:\nUnderstand the business context: Tailor your answers to show how your technical skills solve real business problems.\nProvide specific examples: Highlight your past experiences with concrete examples.\nStay updated: Continuously learn and adapt to new tools and methodologies.\n\nHope it helps :)",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-09T15:38:41+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3578,
+      "sender_type": "Channel"
     }
   ]
 }
