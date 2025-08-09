@@ -8270,6 +8270,15 @@
       "edit_date": "2025-08-09T10:22:21+00:00",
       "id": 3575,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Since many of you got the last question incorrect, let's understand Confusion Matrix in detail \n\nA Confusion Matrix is used to evaluate how well a classification model performs by comparing actual vs predicted outcomes.\n\n\ud83d\udd0d Structure:\n\u2022 Actual Positive, Predicted Positive \u2192 \u2705 True Positive (TP)\n\u2022 Actual Positive, Predicted Negative \u2192 \u274c False Negative (FN)\n\u2022 Actual Negative, Predicted Positive \u2192 \u274c False Positive (FP)\n\u2022 Actual Negative, Predicted Negative \u2192 \u2705 True Negative (TN)\n\n\ud83d\udcd8 Key Terms:\n\u2022 TP: Predicted Positive & Actually Positive\n\u2022 TN: Predicted Negative & Actually Negative\n\u2022 FP: Predicted Positive but Actually Negative\n\u2022 FN: Predicted Negative but Actually Positive\n\n\ud83e\uddee Formulas:\n\u2022 \u00d7Accuracy\u00d7 = (TP + TN) / Total\n\u2022 \u00d7Precision\u00d7 = TP / (TP + FP)\n\u2022 \u00d7Recall\u00d7 = TP / (TP + FN)\n\u2022 \u00d7F1 Score\u00d7 = 2 \u00d7 (Precision \u00d7 Recall) / (Precision + Recall)\n\n\ud83d\udca1 Analogy: Spam Email Detector\n\u2022 TP: Spam email marked as spam\n\u2022 TN: Real email marked as not spam\n\u2022 FP: Real email marked as spam\n\u2022 FN: Spam email marked as real\n\n\ud83d\udcac React with \u2764\ufe0f for more such tutorials!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-09T14:00:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3576,
+      "sender_type": "Channel"
     }
   ]
 }
