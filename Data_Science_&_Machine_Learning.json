@@ -8306,6 +8306,15 @@
       "edit_date": null,
       "id": 3579,
       "sender_type": "Channel"
+    },
+    {
+      "text": "20 essential Python libraries for data science:\n\n\ud83d\udd39 pandas: Data manipulation and analysis. Essential for handling DataFrames.\n\ud83d\udd39 numpy: Numerical computing. Perfect for working with arrays and mathematical functions.\n\ud83d\udd39 scikit-learn: Machine learning. Comprehensive tools for predictive data analysis.\n\ud83d\udd39 matplotlib: Data visualization. Great for creating static, animated, and interactive plots.\n\ud83d\udd39 seaborn: Statistical data visualization. Makes complex plots easy and beautiful.\nData Science\n\ud83d\udd39 scipy: Scientific computing. Provides algorithms for optimization, integration, and more.\n\ud83d\udd39 statsmodels: Statistical modeling. Ideal for conducting statistical tests and data exploration.\n\ud83d\udd39 tensorflow: Deep learning. End-to-end open-source platform for machine learning.\n\ud83d\udd39 keras: High-level neural networks API. Simplifies building and training deep learning models.\n\ud83d\udd39 pytorch: Deep learning. A flexible and easy-to-use deep learning library.\n\ud83d\udd39 mlflow: Machine learning lifecycle. Manages the machine learning lifecycle, including experimentation, reproducibility, and deployment.\n\ud83d\udd39 pydantic: Data validation. Provides data validation and settings management using Python type annotations.\n\ud83d\udd39 xgboost: Gradient boosting. An optimized distributed gradient boosting library.\n\ud83d\udd39 lightgbm: Gradient boosting. A fast, distributed, high-performance gradient boosting framework.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-10T06:37:16+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3580,
+      "sender_type": "Channel"
     }
   ]
 }
