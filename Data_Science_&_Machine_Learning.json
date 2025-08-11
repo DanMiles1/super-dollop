@@ -8513,6 +8513,15 @@
       "edit_date": null,
       "id": 3602,
       "sender_type": "Channel"
+    },
+    {
+      "text": "SQL Query Logical Order",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-11T15:41:07+00:00",
+      "is_edited": true,
+      "edit_date": "2025-08-11T15:41:11+00:00",
+      "id": 3603,
+      "sender_type": "Channel"
     }
   ]
 }
