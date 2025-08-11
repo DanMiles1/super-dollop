@@ -8504,6 +8504,15 @@
       "edit_date": null,
       "id": 3601,
       "sender_type": "Channel"
+    },
+    {
+      "text": "How a SQL query gets executed internally - Lets see step by step!\n\nWe all know SQL, but most of us do not understand the internals of it.\n\nLet me take an example to explain this better.\n\nSelect p.plan_name, count(plan_id) as total_count\nFrom plans p\nJoin subscriptions s on s.plan_id=p.plan_id\nWhere p.plan_name !=\u2019premium\u2019\nGroup by p.plan_name\nHaving count(plan_id) > 100\nOrder by p.plan_name\nLimit 10;\n\nStep 01: Get the table data required to run the sql query\nOperations: FROM, JOIN (From plans p, Join subscriptions s)\n\nStep 02: Filter the data rows\nOperations: WHERE (where p.plan_name=\u2019premium\u2019)\n\nStep 03: Group the data\nOperations: GROUP (group by p.plan_name)\n\nStep 04: Filter the grouped data\nOperations: HAVING (having count(plan_id) > 100)\n\nStep 05: Select the data columns\nOperations: SELECT (select p.plan_name, count(p.plan_id)\n\nStep 06: Order the data\nOperations: ORDER BY (order by p.plan_name)\n\nStep 07: Limit the data rows\nOperations: LIMIT (limit 100)\n\nKnowing the Internals really help.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-11T15:40:44+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3602,
+      "sender_type": "Channel"
     }
   ]
 }
