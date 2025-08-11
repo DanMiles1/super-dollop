@@ -8441,6 +8441,15 @@
       "edit_date": null,
       "id": 3594,
       "sender_type": "Channel"
+    },
+    {
+      "text": "COMMON TERMINOLOGIES IN PYTHON - PART 1\n\nHave you ever gotten into a discussion with a programmer before? Did you find some of the Terminologies mentioned strange or you didn't fully understand them?\n\nIn this series, we would be looking at the common Terminologies in python.\n\nIt is important to know these Terminologies to be able to professionally/properly explain your codes to people and/or to be able to understand what people say in an instant when these codes are mentioned. Below are a few:\n\nIDLE (Integrated Development and Learning Environment) - this is an environment that allows you to easily write Python code. IDLE can be used to execute a single statements and create, modify, and execute Python scripts.\n\nPython Shell - This is the interactive environment that allows you to type in python code and execute them immediately \n\nSystem Python - This is the version of python that comes with your operating system \n\nPrompt - usually represented by the symbol \">>>\" and it simply means that python is waiting for you to give it some instructions\n\nREPL (Read-Evaluate-Print-Loop) - this refers to the sequence of events in your interactive window in form of a loop (python reads the code inputted>the code is evaluated>output is printed)\n\nArgument - this is a value that is passed to a function when called eg print(\"Hello World\")... \"Hello World\" is the argument that is being passed.\n\nFunction - this is a code that takes some input, known as arguments, processes that input and produces an output called a return value. E.g print(\"Hello World\")... print is the function \n\nReturn Value - this is the value that a function returns to the calling script or function when it completes its task (in other words, Output). E.g.\n>>> print(\"Hello World\")\nHello World \nWhere Hello World is your return value.\n\nNote: A return value can be any of these variable types: handle, integer, object, or string\n\nScript - This is a file where you store your python code in a text file and execute all of the code with a single command \n\nScript files - this is a file containing a group of python scripts\n\nReact \u2665\ufe0f for more",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-11T09:17:56+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3595,
+      "sender_type": "Channel"
     }
   ]
 }
