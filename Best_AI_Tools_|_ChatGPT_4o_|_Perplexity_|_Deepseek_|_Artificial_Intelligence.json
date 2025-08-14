@@ -2555,6 +2555,15 @@
       "edit_date": null,
       "id": 1475,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Python Cheatsheet \ud83d\ude80\n\n1\ufe0f\u20e3 Variables & Data Types\n\nx = 10 (Integer)\n\ny = 3.14 (Float)\n\nname = \"Python\" (String)\n\nis_valid = True (Boolean)\n\nitems = [1, 2, 3] (List)\n\ndata = (1, 2, 3) (Tuple)\n\nperson = {\"name\": \"Alice\", \"age\": 25} (Dictionary)\n\n\n2\ufe0f\u20e3 Operators\n\nArithmetic: +, -, *, /, //, %, **\n\nComparison: ==, !=, >, <, >=, <=\n\nLogical: and, or, not\n\nMembership: in, not in\n\n\n3\ufe0f\u20e3 Control Flow\n\nIf-Else:\n\nif age > 18:  \n    print(\"Adult\")  \nelif age == 18:  \n    print(\"Just turned 18\")  \nelse:  \n    print(\"Minor\")\n\nLoops:\n\nfor i in range(5):  \n    print(i)  \nwhile x < 10:  \n    x += 1\n\n\n4\ufe0f\u20e3 Functions\n\nDefining & Calling:\n\ndef greet(name):  \n    return f\"Hello, {name}\"  \nprint(greet(\"Alice\"))\n\nLambda Functions: add = lambda x, y: x + y\n\n\n5\ufe0f\u20e3 Lists & Dictionary Operations\n\nAppend: items.append(4)\n\nRemove: items.remove(2)\n\nList Comprehension: [x**2 for x in range(5)]\n\nDictionary Access: person[\"name\"]\n\n\n6\ufe0f\u20e3 File Handling\n\nRead File:\n\nwith open(\"file.txt\", \"r\") as f:  \n    content = f.read()\n\nWrite File:\n\nwith open(\"file.txt\", \"w\") as f:  \n    f.write(\"Hello, World!\")\n\n\n7\ufe0f\u20e3 Exception Handling\n\ntry:  \n    result = 10 / 0  \nexcept ZeroDivisionError:  \n    print(\"Cannot divide by zero!\")  \nfinally:  \n    print(\"Done\")\n\n8\ufe0f\u20e3 Modules & Packages\n\nImporting:\n\nimport math  \nprint(math.sqrt(25))\n\nCreating a Module (mymodule.py):\n\ndef add(x, y):  \n    return x + y\n\nUsage: from mymodule import add\n\n\n9\ufe0f\u20e3 Object-Oriented Programming (OOP)\n\nDefining a Class:\n\nclass Person:  \n    def init(self, name, age):  \n        self.name = name  \n        self.age = age  \n    def greet(self):  \n        return f\"Hello, my name is {self.name}\"\n\nCreating an Object: p = Person(\"Alice\", 25)\n\n\n\ud83d\udd1f Useful Libraries\n\nNumPy: import numpy as np\n\nPandas: import pandas as pd\n\nMatplotlib: import matplotlib.pyplot as plt\n\nRequests: import requests\n\nPython Resources: https://whatsapp.com/channel/0029VaiM08SDuMRaGKd9Wv0L\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-08-14T07:20:55+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1476,
+      "sender_type": "Channel"
     }
   ]
 }
