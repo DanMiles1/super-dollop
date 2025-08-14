@@ -8882,6 +8882,15 @@
       "edit_date": null,
       "id": 3644,
       "sender_type": "Channel"
+    },
+    {
+      "text": "When starting off your data analytics journey you DON'T need to be a SQL guru from the get-go.\n\nIn fact, most SQL skills you will only learn on the job with:\n\n- real business problems.\n- actual data sets.\n- imperfect data architecture.\n- other people to collaborate with.\n\nSo be kind to yourself, give yourself time to grow and above all...\n\ntry to become proficient at SQL rather than perfect.\n\nThe rest will take care of itself along the way! \ud83d\ude09",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-14T06:00:24+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3645,
+      "sender_type": "Channel"
     }
   ]
 }
