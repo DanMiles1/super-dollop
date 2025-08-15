@@ -8972,6 +8972,15 @@
       "edit_date": "2025-08-15T14:28:52+00:00",
       "id": 3654,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Interview Questions \n\n1. What are the different subsets of SQL?\n\nData Definition Language (DDL) \u2013 It allows you to perform various operations on the database such as CREATE, ALTER, and DELETE objects.\nData Manipulation Language(DML) \u2013 It allows you to access and manipulate data. It helps you to insert, update, delete and retrieve data from the database.\nData Control Language(DCL) \u2013 It allows you to control access to the database. Example \u2013 Grant, Revoke access permissions.\n\n2. List the different types of relationships in SQL.\n\nThere are different types of relations in the database:\nOne-to-One \u2013 This is a connection between two tables in which each record in one table corresponds to the maximum of one record in the other.\nOne-to-Many and Many-to-One \u2013 This is the most frequent connection, in which a record in one table is linked to several records in another.\nMany-to-Many \u2013 This is used when defining a relationship that requires several instances on each sides.\nSelf-Referencing Relationships \u2013 When a table has to declare a connection with itself, this is the method to employ.\n\n3. How to create empty tables with the same structure as another table?\n\nTo create empty tables:\nUsing the INTO operator to fetch the records of one table into a new table while setting a WHERE clause to false for all entries, it is possible to create empty tables with the same structure. As a result, SQL creates a new table with a duplicate structure to accept the fetched entries, but nothing is stored into the new table since the WHERE clause is active.\n\n4. What is Normalization and what are the advantages of it?\n\nNormalization in SQL is the process of organizing data to avoid duplication and redundancy. Some of the advantages are:\nBetter Database organization\nMore Tables with smaller rows\nEfficient data access\nGreater Flexibility for Queries\nQuickly find the information\nEasier to implement Security",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-15T17:27:30+00:00",
+      "is_edited": true,
+      "edit_date": "2025-08-15T17:27:33+00:00",
+      "id": 3656,
+      "sender_type": "Channel"
     }
   ]
 }
