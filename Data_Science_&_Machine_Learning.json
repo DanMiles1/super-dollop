@@ -8981,6 +8981,15 @@
       "edit_date": "2025-08-15T17:27:33+00:00",
       "id": 3656,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Complete Data Science Roadmap  \n\ud83d\udc47\ud83d\udc47  \n\n1. Introduction to Data Science  \n   - Overview and Importance  \n   - Data Science Lifecycle  \n   - Key Roles (Data Scientist, Analyst, Engineer)  \n\n2. Mathematics and Statistics  \n   - Probability and Distributions  \n   - Descriptive/Inferential Statistics  \n   - Hypothesis Testing  \n   - Linear Algebra and Calculus Basics  \n\n3. Programming Languages  \n   - Python: NumPy, Pandas, Matplotlib  \n   - R: dplyr, ggplot2  \n   - SQL: Joins, Aggregations, CRUD  \n\n4. Data Collection & Preprocessing  \n   - Data Cleaning and Wrangling  \n   - Handling Missing Data  \n   - Feature Engineering  \n\n5. Exploratory Data Analysis (EDA)  \n   - Summary Statistics  \n   - Data Visualization (Histograms, Box Plots, Correlation)  \n\n6. Machine Learning  \n   - Supervised (Linear/Logistic Regression, Decision Trees)  \n   - Unsupervised (K-Means, PCA)  \n   - Model Selection and Cross-Validation  \n\n7. Advanced Machine Learning  \n   - SVM, Random Forests, Boosting  \n   - Neural Networks Basics  \n\n8. Deep Learning  \n   - Neural Networks Architecture  \n   - CNNs for Image Data  \n   - RNNs for Sequential Data  \n\n9. Natural Language Processing (NLP)  \n   - Text Preprocessing  \n   - Sentiment Analysis  \n   - Word Embeddings (Word2Vec)  \n\n10. Data Visualization & Storytelling  \n   - Dashboards (Tableau, Power BI)  \n   - Telling Stories with Data  \n\n11. Model Deployment  \n   - Deploy with Flask or Django  \n   - Monitoring and Retraining Models  \n\n12. Big Data & Cloud  \n   - Introduction to Hadoop, Spark  \n   - Cloud Tools (AWS, Google Cloud)  \n\n13. Data Engineering Basics  \n   - ETL Pipelines  \n   - Data Warehousing (Redshift, BigQuery)  \n\n14. Ethics in Data Science  \n   - Ethical Data Usage  \n   - Bias in AI Models  \n\n15. Tools for Data Science  \n   - Jupyter, Git, Docker  \n\n16. Career Path & Certifications  \n   - Building a Data Science Portfolio  \n\nLike if you need similar content \ud83d\ude04\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-16T12:59:38+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3657,
+      "sender_type": "Channel"
     }
   ]
 }
