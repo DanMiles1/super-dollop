@@ -8999,6 +8999,15 @@
       "edit_date": null,
       "id": 3658,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Common Machine Learning Algorithms!\n\n1\ufe0f\u20e3 Linear Regression \n->Used for predicting continuous values.\n->Models the relationship between dependent and independent variables by fitting a linear equation.\n\n2\ufe0f\u20e3 Logistic Regression \n->Ideal for binary classification problems.\n->Estimates the probability that an instance belongs to a particular class.\n\n3\ufe0f\u20e3 Decision Trees \n->Splits data into subsets based on the value of input features.\n->Easy to visualize and interpret but can be prone to overfitting.\n\n4\ufe0f\u20e3 Random Forest \n->An ensemble method using multiple decision trees.\n->Reduces overfitting and improves accuracy by averaging multiple trees.\n\n5\ufe0f\u20e3 Support Vector Machines (SVM) \n->Finds the hyperplane that best separates different classes.\n->Effective in high-dimensional spaces and for classification tasks.\n\n6\ufe0f\u20e3 k-Nearest Neighbors (k-NN) \n->Classifies data based on the majority class among the k-nearest neighbors.\n->Simple and intuitive but can be computationally intensive.\n\n7\ufe0f\u20e3 K-Means Clustering \n->Partitions data into k clusters based on feature similarity.\n->Useful for market segmentation, image compression, and more.\n\n8\ufe0f\u20e3 Naive Bayes \n->Based on Bayes' theorem with an assumption of independence among predictors.\n->Particularly useful for text classification and spam filtering.\n\n9\ufe0f\u20e3 Neural Networks \n->Mimic the human brain to identify patterns in data.\n->Power deep learning applications, from image recognition to natural language processing.\n\n\ud83d\udd1f Gradient Boosting Machines (GBM) \n->Combines weak learners to create a strong predictive model. \n->Used in various applications like ranking, classification, and regression.\n\nENJOY LEARNING \ud83d\udc4d\ud83d\udc4d",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-17T07:48:59+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3659,
+      "sender_type": "Channel"
     }
   ]
 }
