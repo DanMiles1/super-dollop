@@ -9107,6 +9107,15 @@
       "edit_date": null,
       "id": 3670,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Interview Questions With Answers Part-2\n\n11. What is a confusion matrix?  \n    A confusion matrix is a table used to evaluate classification models by showing true positives (TP), false positives (FP), true negatives (TN), and false negatives (FN), helping calculate accuracy, precision, recall, and F1-score.\n\n12. Explain bagging vs boosting.\n\u2981 Bagging (Bootstrap Aggregating) builds multiple independent models on random data subsets and averages results to reduce variance (e.g., Random Forest).\n\u2981 Boosting builds models sequentially, each correcting errors of the previous to reduce bias (e.g., AdaBoost, Gradient Boosting).\n\n13. Describe decision trees and random forests.\n\u2981 Decision trees split data based on feature thresholds to make predictions in a tree-like model.\n\u2981 Random forests are an ensemble of decision trees built on random data and feature subsets, improving accuracy and reducing overfitting.\n\n14. What is gradient descent?  \n    An optimization algorithm that iteratively adjusts model parameters to minimize a loss function by moving in the direction of steepest descent (gradient).\n\n15. What are regularization techniques and why use them?  \n    Regularization (like L1/Lasso and L2/Ridge) adds penalty terms to loss functions to prevent overfitting by constraining model complexity and shrinking coefficients.\n\n16. How do you handle imbalanced datasets?  \n    Methods include resampling (oversampling minority, undersampling majority), synthetic data generation (SMOTE), using appropriate evaluation metrics, and algorithms robust to imbalance.\n\n17. What is hypothesis testing and p-values?  \n    Hypothesis testing assesses if a claim about data is statistically significant. The p-value indicates the probability that the observed data occurred under the null hypothesis; a low p-value (<0.05) usually leads to rejecting the null.\n\n18. Explain clustering and k-means algorithm.  \n    Clustering groups similar data points without labels. K-means partitions data into k clusters by iteratively assigning points to nearest centroids and recalculating centroids until convergence.\n\n19. How do you handle unstructured data?  \n    Techniques include text processing (tokenization, stemming), image/audio processing with specialized models (CNNs, RNNs), and converting raw data into structured features for analysis.\n\n20. What is text mining and sentiment analysis?  \n    Text mining extracts meaningful information from text data, while sentiment analysis classifies text by emotional tone (positive, negative, neutral), often using NLP techniques.\n\nReact \u2665\ufe0f for Part-2",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-18T16:32:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3671,
+      "sender_type": "Channel"
     }
   ]
 }
