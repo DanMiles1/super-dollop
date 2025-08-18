@@ -9080,6 +9080,15 @@
       "edit_date": null,
       "id": 3667,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Interview Questions \ud83d\ude80\n\n1. What is Data Science and how does it differ from Data Analytics?\n2. How do you handle missing or duplicate data?\n3. Explain supervised vs unsupervised learning.\n4. What is overfitting and how do you prevent it?\n5. Describe the bias-variance tradeoff.\n6. What is cross-validation and why is it important?\n7. What are key evaluation metrics for classification models?\n8. What is feature engineering? Give examples.\n9. Explain principal component analysis (PCA).\n10. Difference between classification and regression algorithms.\n11. What is a confusion matrix?\n12. Explain bagging vs boosting.\n13. Describe decision trees and random forests.\n14. What is gradient descent?\n15. What are regularization techniques and why use them?\n16. How do you handle imbalanced datasets?\n17. What is hypothesis testing and p-values?\n18. Explain clustering and k-means algorithm.\n19. How do you handle unstructured data?\n20. What is text mining and sentiment analysis?\n21. How do you select important features?\n22. What is ensemble learning?\n23. Basics of time series analysis.\n24. How do you tune hyperparameters?\n25. What are activation functions in neural networks?\n26. Explain transfer learning.\n27. How do you deploy machine learning models?\n28. What are common challenges in big data?\n29. Define ROC curve and AUC score.\n30. What is deep learning?\n31. What is reinforcement learning?\n32. What tools and libraries do you use?\n33. How do you interpret model results for non-technical audiences?\n34. What is dimensionality reduction?\n35. Handling categorical variables in machine learning.\n36. What is exploratory data analysis (EDA)?\n37. Explain t-test and chi-square test.\n38. How do you ensure fairness and avoid bias in models?\n39. Describe a complex data problem you solved.\n40. How do you stay updated with new data science trends?\n\nReact \u2764\ufe0f for the detailed answers",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-18T06:45:13+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3668,
+      "sender_type": "Channel"
     }
   ]
 }
