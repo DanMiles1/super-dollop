@@ -9116,6 +9116,15 @@
       "edit_date": null,
       "id": 3671,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Data Science Interview Questions With Answers Part-3\n\n21. How do you select important features?  \n    Techniques include statistical tests (chi-square, ANOVA), correlation analysis, feature importance from models (like tree-based algorithms), recursive feature elimination, and regularization methods.\n\n22. What is ensemble learning?  \n    Combining predictions from multiple models (e.g., bagging, boosting, stacking) to improve accuracy, reduce overfitting, and create more robust predictions.\n\n23. Basics of time series analysis.  \n    Analyzing data points collected over time considering trends, seasonality, and noise. Key methods include ARIMA, exponential smoothing, and decomposition.\n\n24. How do you tune hyperparameters?  \n    Using techniques like grid search, random search, or Bayesian optimization with cross-validation to find the best model parameter settings.\n\n25. What are activation functions in neural networks?  \n    Functions that introduce non-linearity into the model, enabling it to learn complex patterns. Examples: sigmoid, ReLU, tanh.\n\n26. Explain transfer learning.  \n    Using a pre-trained model on one task as a starting point for a related task, reducing training time and data needed.\n\n27. How do you deploy machine learning models?  \n    Methods include REST APIs, batch processing, cloud services (AWS, Azure), containerization (Docker), and monitoring after deployment.\n\n28. What are common challenges in big data?  \n    Handling volume, variety, velocity, data quality, storage, processing speed, and ensuring security and privacy.\n\n29. Define ROC curve and AUC score.  \n    ROC curve plots true positive rate vs false positive rate at various thresholds. AUC (Area Under Curve) measures overall model discrimination ability; closer to 1 is better.\n\n30. What is deep learning?  \n    A subset of machine learning using multi-layered neural networks (like CNNs, RNNs) to learn hierarchical feature representations from data, excelling in unstructured data tasks.\n\nReact \u2665\ufe0f for Part-3",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-19T00:18:02+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3672,
+      "sender_type": "Channel"
     }
   ]
 }
