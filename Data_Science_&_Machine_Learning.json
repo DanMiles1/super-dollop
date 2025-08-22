@@ -9305,6 +9305,15 @@
       "edit_date": null,
       "id": 3692,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\u2705 Resume Tips for Data Science Roles \ud83d\udcc4\ud83d\udcbc\n\nYour resume is your first impression \u2014 make it clear, concise, and confident with these tips:\n\n1. Keep It One Page (for beginners)\n\u2981 Recruiters spend 6\u201310 seconds glancing through.\n\u2981 Use crisp bullet points, no long paragraphs.\n\u2981 Focus on relevant data science experience.\n\n2. Strong Summary at the Top\u00a0 \nExample:\u00a0 \n\u201cAspiring Data Scientist with hands-on experience in Python, Pandas, and Machine Learning. Built 5+ real-world projects including house price prediction and sentiment analysis.\u201d\n\n3. Highlight Technical Skills\u00a0 \nSeparate Skills section:\n\u2981 Languages: Python, SQL\n\u2981 Libraries: Pandas, NumPy, Matplotlib, Scikit-learn\n\u2981 Tools: Jupyter, VS Code, Git, Tableau\n\u2981 Concepts: EDA, Regression, Classification, Data Cleaning\n\n4. Showcase Projects (with results)\u00a0 \nEach project: 2\u20133 bullet points\n\u2981 \u201cBuilt linear regression model predicting house prices with 85% accuracy using Scikit-learn.\u201d\n\u2981 \u201cCleaned & visualized 10K+ rows of sales data with Pandas & Seaborn.\u201d\u00a0 \n\u00a0 Include GitHub links.\n\n5. Education & Certifications\u00a0 \nInclude:\n\u2981 Degree (any field)\n\u2981 Online certifications (Coursera, Kaggle, etc.)\n\u2981 Mention course projects or capstones\n\n6. Quantify Everything\u00a0 \nInstead of \u201cAnalyzed data\u201d, write:\u00a0 \n\u201cAnalyzed 20K+ customer rows to identify churn factors, improving model performance by 12%.\u201d\n\n7. Customize for Each Job\n\u2981 Match keywords from job descriptions.\n\u2981 Use role-specific terms like \u201cclassification model,\u201d \u201cdata pipeline.\u201d\n\n\ud83d\udcac React \u2764\ufe0f for more!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-22T14:06:12+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3693,
+      "sender_type": "Channel"
     }
   ]
 }
