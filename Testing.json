@@ -206,6 +206,15 @@
       "edit_date": null,
       "id": 71,
       "sender_type": "Channel"
+    },
+    {
+      "text": "ok testing 123",
+      "sender": "Testing",
+      "date": "2025-08-24T20:55:19+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 68,
+      "sender_type": "Channel"
     }
   ]
 }
