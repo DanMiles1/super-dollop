@@ -9359,6 +9359,15 @@
       "edit_date": null,
       "id": 3698,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udd17  How to use Machine Learning to predict fraud\n\n1. Identify project objectives\n\nDetermine the key business objectives upon which the machine learning model will be built.\nFor instance, your goal may be like:\n\n- Reduce false alerts\n- Minimize estimated chargeback ratio\n- Keep operating costs at a controlled level\n\n2. Data preparation\n\nTo create fraudster profiles, machines need to study about previous fraudulent events from historical data. The more the data provided, the better the results of analyzation. The raw data garnered by the company must be cleaned and provided in a machine-understandable format.\n\n3. Constructing a machine learning model\n\nThe machine learning model is the final product of the entire ML process.\nOnce the model receives data related to a new transaction, the model will deliver an output, highlighting whether the transaction is a fraud attempt or not.\n\n4. Data scoring\n\nDeploy the ML model and integrate it with the company\u2019s infrastructure.\n\nFor instance, whenever a customer purchases a product from an e-store, the respective data transaction will be sent to the machine learning model. The model will then analyze the data to generate a recommendation, depending on which the e-store\u2019s transaction system will make its decision, i.e., approve or block or mark the transaction for a manual review. This process is known as data scoring.\n\n5. Upgrading the model\n\nJust like how humans learn from their mistakes and experience, machine learning models should be tweaked regularly with the updated information, so that the models become increasingly sophisticated and detect fraud activities more accurately.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-24T13:11:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3699,
+      "sender_type": "Channel"
     }
   ]
 }
