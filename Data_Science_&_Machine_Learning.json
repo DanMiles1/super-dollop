@@ -9350,6 +9350,15 @@
       "edit_date": null,
       "id": 3697,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83e\udde0 Learn AI in 15 Steps",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-24T13:10:19+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3698,
+      "sender_type": "Channel"
     }
   ]
 }
