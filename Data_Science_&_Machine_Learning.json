@@ -9332,6 +9332,15 @@
       "edit_date": null,
       "id": 3695,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Roadmap for AI Engineers",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-24T09:08:20+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3696,
+      "sender_type": "Channel"
     }
   ]
 }
