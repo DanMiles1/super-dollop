@@ -287,6 +287,15 @@
       "edit_date": null,
       "id": 76,
       "sender_type": "Channel"
+    },
+    {
+      "text": "bolo",
+      "sender": "Testing",
+      "date": "2025-08-24T21:27:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 77,
+      "sender_type": "Channel"
     }
   ]
 }
