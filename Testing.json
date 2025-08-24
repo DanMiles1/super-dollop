@@ -269,6 +269,15 @@
       "edit_date": null,
       "id": 74,
       "sender_type": "Channel"
+    },
+    {
+      "text": "yogo 3",
+      "sender": "Testing",
+      "date": "2025-08-24T21:26:14+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 75,
+      "sender_type": "Channel"
     }
   ]
 }
