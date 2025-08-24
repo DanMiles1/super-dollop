@@ -215,6 +215,15 @@
       "edit_date": null,
       "id": 68,
       "sender_type": "Channel"
+    },
+    {
+      "text": "chick check",
+      "sender": "Testing",
+      "date": "2025-08-24T20:55:37+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 69,
+      "sender_type": "Channel"
     }
   ]
 }
