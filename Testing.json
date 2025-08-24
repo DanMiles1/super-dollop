@@ -296,6 +296,15 @@
       "edit_date": null,
       "id": 77,
       "sender_type": "Channel"
+    },
+    {
+      "text": "gogogog",
+      "sender": "Testing",
+      "date": "2025-08-24T21:38:01+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 78,
+      "sender_type": "Channel"
     }
   ]
 }
