@@ -251,6 +251,15 @@
       "edit_date": null,
       "id": 72,
       "sender_type": "Channel"
+    },
+    {
+      "text": "yo go",
+      "sender": "Testing",
+      "date": "2025-08-24T21:26:06+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 73,
+      "sender_type": "Channel"
     }
   ]
 }
