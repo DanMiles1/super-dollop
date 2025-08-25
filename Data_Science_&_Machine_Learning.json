@@ -9368,6 +9368,15 @@
       "edit_date": null,
       "id": 3699,
       "sender_type": "Channel"
+    },
+    {
+      "text": "You're an upcoming data scientist? \nThis is for you.\n\nThe key to success isn't hoarding every tutorial and course. \nIt's about taking that first, decisive step. \nStart small. Start now.\n\nI remember feeling paralyzed by options: \nCoursera, Udacity, bootcamps, blogs... \nWhere to begin?\n\nThen my mentor gave me one piece of advice:\n\n\"Stop planning. Start doing. \nPick the shortest video you can find. \nWatch it. Now.\"\n\nIt was tough love, but it worked.\n\nI chose a 3-minute intro to pandas.\nThen a quick matplotlib demo.\nSuddenly, I was building momentum.\n\nEach bite-sized lesson built my confidence. \nEvery \"I did it!\" moment sparked joy.\nI was no longer overwhelmed\u2014I was excited.\n\nSo here's my advice for you:\n\n1. Find a 5-minute data science video. Any topic.\n2. Watch it before you finish your coffee.\n3. Do one thing you learned. Anything.\n\nRemember:\nA messy start beats a perfect plan\nEvery. Single. Time.",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-25T10:04:08+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3700,
+      "sender_type": "Channel"
     }
   ]
 }
