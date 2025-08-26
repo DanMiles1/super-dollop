@@ -9395,6 +9395,15 @@
       "edit_date": null,
       "id": 3704,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\ud83d\udcda Top 10 Python Interview Questions for Data Science (2025)\n\n1. What makes Python popular for Data Science?\u00a0 \n\u00a0\u00a0 Python offers a rich ecosystem of libraries like NumPy, pandas, scikit-learn, and matplotlib, making data manipulation, analysis, and machine learning efficient and accessible.\n\n2. How do you handle missing values in a dataset with Python?\u00a0 \n\u00a0\u00a0 Using pandas, you can use .fillna() to replace missing values with a fixed value or statistic (mean, median), or .dropna() to remove rows/columns containing NaNs.\n\n3. What is a lambda function in Python, and how is it used in data science?\u00a0 \n\u00a0\u00a0 A lambda is a small anonymous function defined with lambda keyword, commonly used for quick transformations or within higher-order functions like .apply() in pandas.\n\n4. Explain the difference between a list and a tuple in Python.\u00a0 \n\u00a0\u00a0 Lists are mutable (can be changed), whereas tuples are immutable (cannot be changed); tuples are often used for fixed data, offering slight performance benefits.\n\n5. How can you merge two pandas DataFrames?\u00a0 \n\u00a0\u00a0 Use pd.merge() with keys specifying columns to join on; supports different types of joins like inner, outer, left, and right.\n\n6. What is vectorization, and why is it important?\u00a0 \n\u00a0\u00a0 Vectorization uses array operations (e.g., NumPy) instead of loops, accelerating computations significantly by leveraging optimized C code under the hood.\n\n7. How do you calculate summary statistics in pandas?\u00a0 \n\u00a0\u00a0 Functions like .mean(), .median(), .std(), .describe() provide quick statistical insights over DataFrame columns.\n\n8. What is the difference between .loc[] and .iloc[] in pandas?\u00a0 \n\u00a0\u00a0 .loc[] selects data based on labels/index names, while .iloc[] selects using integer position-based indexing.\n\n9. Explain how you would build a simple linear regression model in Python.\u00a0 \n\u00a0\u00a0 You can use scikit-learn\u2019s LinearRegression class to fit a model with .fit(), then predict with .predict() on new data.\n\n10. How do you handle categorical data in Python?\u00a0 \n\u00a0\u00a0\u00a0 Use pandas for encoding categorical variables via .astype('category'), .get_dummies() for one-hot encoding, or LabelEncoder from scikit-learn for label encoding.\n\n\ud83d\udd25 React \u2764\ufe0f for more!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-26T15:50:22+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3705,
+      "sender_type": "Channel"
     }
   ]
 }
