@@ -9440,6 +9440,15 @@
       "edit_date": null,
       "id": 3709,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Skills Needed To Become a Data Scientist",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-28T15:12:29+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3710,
+      "sender_type": "Channel"
     }
   ]
 }
