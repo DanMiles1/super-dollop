@@ -9449,6 +9449,15 @@
       "edit_date": null,
       "id": 3710,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Difference between linear regression and logistic regression \ud83d\udc47\ud83d\udc47\n\nLinear regression and logistic regression are both types of statistical models used for prediction and modeling, but they have different purposes and applications.\n\nLinear regression is used to model the relationship between a dependent variable and one or more independent variables. It is used when the dependent variable is continuous and can take any value within a range. The goal of linear regression is to find the best-fitting line that describes the relationship between the independent and dependent variables.\n\nLogistic regression, on the other hand, is used when the dependent variable is binary or categorical. It is used to model the probability of a certain event occurring based on one or more independent variables. The output of logistic regression is a probability value between 0 and 1, which can be interpreted as the likelihood of the event happening.\n\nData Science Interview Resources\n\ud83d\udc47\ud83d\udc47 \nhttps://topmate.io/coding/914624\n\nLike for more \ud83d\ude04",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-08-28T16:58:39+00:00",
+      "is_edited": true,
+      "edit_date": "2025-08-28T16:58:44+00:00",
+      "id": 3711,
+      "sender_type": "Channel"
     }
   ]
 }
