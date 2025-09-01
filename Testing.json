@@ -314,6 +314,15 @@
       "edit_date": null,
       "id": 79,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Bobobobo",
+      "sender": "Testing",
+      "date": "2025-09-01T07:54:52+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 80,
+      "sender_type": "Channel"
     }
   ]
 }
