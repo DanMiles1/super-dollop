@@ -332,6 +332,15 @@
       "edit_date": null,
       "id": 82,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Bad boy",
+      "sender": "Testing",
+      "date": "2025-09-04T14:38:32+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 83,
+      "sender_type": "Channel"
     }
   ]
 }
