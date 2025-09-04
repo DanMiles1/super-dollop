@@ -350,6 +350,15 @@
       "edit_date": null,
       "id": 84,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Whatsup",
+      "sender": "Testing",
+      "date": "2025-09-04T14:39:03+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 85,
+      "sender_type": "Channel"
     }
   ]
 }
