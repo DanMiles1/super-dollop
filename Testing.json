@@ -359,6 +359,15 @@
       "edit_date": null,
       "id": 85,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Peanut",
+      "sender": "Testing",
+      "date": "2025-09-04T18:58:48+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 86,
+      "sender_type": "Channel"
     }
   ]
 }
