@@ -395,6 +395,15 @@
       "edit_date": null,
       "id": 89,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Go",
+      "sender": "Testing",
+      "date": "2025-09-05T19:57:17+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 90,
+      "sender_type": "Channel"
     }
   ]
 }
