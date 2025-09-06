@@ -9530,6 +9530,15 @@
       "edit_date": null,
       "id": 3719,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\u2705 8-Week Beginner Roadmap to Learn Data Science \ud83d\udcca\ud83d\ude80\n\n\ud83d\uddd3\ufe0f Week 1: Python Basics  \nGoal: Understand basic Python syntax & data types  \nTopics: Variables, lists, dictionaries, loops, functions  \nTools: Jupyter Notebook / Google Colab  \nMini Project: Calculator or number guessing game\n\n\ud83d\uddd3\ufe0f Week 2: Python for Data  \nGoal: Learn data manipulation with NumPy & Pandas  \nTopics: Arrays, DataFrames, filtering, groupby, joins  \nTools: Pandas, NumPy  \nMini Project: Analyze a CSV (e.g., sales or weather data)\n\n\ud83d\uddd3\ufe0f Week 3: Data Visualization  \nGoal: Visualize data trends & patterns  \nTopics: Line, bar, scatter, histograms, heatmaps  \nTools: Matplotlib, Seaborn  \nMini Project: Visualize COVID or stock market data\n\n\ud83d\uddd3\ufe0f Week 4: Statistics & Probability Basics  \nGoal: Understand core statistical concepts  \nTopics: Mean, median, mode, std dev, probability, distributions  \nTools: Python, SciPy  \nMini Project: Analyze survey data & generate insights\n\n\ud83d\uddd3\ufe0f Week 5: Exploratory Data Analysis (EDA)  \nGoal: Draw insights from real datasets  \nTopics: Data cleaning, outliers, correlation  \nTools: Pandas, Seaborn  \nMini Project: EDA on Titanic or Iris dataset\n\n\ud83d\uddd3\ufe0f Week 6: Intro to Machine Learning  \nGoal: Learn ML workflow & basic algorithms  \nTopics: Supervised vs unsupervised, train/test split  \nTools: Scikit-learn  \nMini Project: Predict house prices (Linear Regression)\n\n\ud83d\uddd3\ufe0f Week 7: Classification Models  \nGoal: Understand and apply classification  \nTopics: Logistic Regression, KNN, Decision Trees  \nTools: Scikit-learn  \nMini Project: Titanic survival prediction\n\n\ud83d\uddd3\ufe0f Week 8: Capstone Project + Deployment  \nGoal: Apply all concepts in one end-to-end project  \nIdeas: Sales prediction, Movie rating analysis, Customer churn detection  \nTools: Streamlit (for simple web app)  \nBonus: Upload your project on GitHub\n\n\ud83d\udca1 Tips:\n\u2981  Practice daily on platforms like Kaggle or Google Colab\n\u2981  Join beginner projects on GitHub\n\u2981  Share progress on LinkedIn or X (Twitter)\n\n\ud83d\udcac Tap \u2764\ufe0f for the detailed explanation of each topic!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-09-06T13:10:12+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3730,
+      "sender_type": "Channel"
     }
   ]
 }
