@@ -9575,6 +9575,15 @@
       "edit_date": "2025-09-10T19:27:16+00:00",
       "id": 3735,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\u2705 Data Visualization with Matplotlib \ud83d\udcca\n\n\ud83d\udee0 Tools:\n\u2981 matplotlib.pyplot \u2013 Basic plots\n\u2981 seaborn \u2013 Cleaner, statistical plots\n\n1\ufe0f\u20e3 Line Chart \u2013 to show trends over time\nimport matplotlib.pyplot as plt\n\ndays = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri']\nsales = [200, 450, 300, 500, 650]\n\nplt.plot(days, sales, marker='o')\nplt.title('Daily Sales')\nplt.xlabel('Day')\nplt.ylabel('Sales')\nplt.grid(True)\nplt.show()\n\n\n2\ufe0f\u20e3 Bar Chart \u2013 compare categories\nproducts = ['A', 'B', 'C', 'D']\nrevenue = [1000, 1500, 700, 1200]\n\nplt.bar(products, revenue, color='skyblue')\nplt.title('Revenue by Product')\nplt.xlabel('Product')\nplt.ylabel('Revenue')\nplt.show()\n\n\n3\ufe0f\u20e3 Pie Chart \u2013 show proportions\nlabels = ['iOS', 'Android', 'Others']\nmarket_share = [40, 55, 5]\n\nplt.pie(market_share, labels=labels, autopct='%1.1f%%', startangle=140)\nplt.title('Mobile OS Market Share')\nplt.axis('equal')\u00a0 # perfect circle\nplt.show()\n\n\n4\ufe0f\u20e3 Histogram \u2013 frequency distribution\nages = [22, 25, 27, 30, 32, 35, 35, 40, 45, 50, 52, 60]\n\nplt.hist(ages, bins=5, color='green', edgecolor='black')\nplt.title('Age Distribution')\nplt.xlabel('Age Groups')\nplt.ylabel('Frequency')\nplt.show()\n\n\n5\ufe0f\u20e3 Scatter Plot \u2013 relationship between variables\nincome = [30, 35, 40, 45, 50, 55, 60]\nspending = [20, 25, 30, 32, 35, 40, 42]\n\nplt.scatter(income, spending, color='red')\nplt.title('Income vs Spending')\nplt.xlabel('Income (k)')\nplt.ylabel('Spending (k)')\nplt.show()\n\n\n6\ufe0f\u20e3 Heatmap \u2013 correlation matrix (with Seaborn)\nimport seaborn as sns\nimport pandas as pd\n\ndata = {'Math': [90, 80, 85, 95],\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 'Science': [85, 89, 92, 88],\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 'English': [78, 75, 80, 85]}\n\ndf = pd.DataFrame(data)\ncorr = df.corr()\n\nsns.heatmap(corr, annot=True, cmap='coolwarm')\nplt.title('Subject Score Correlation')\nplt.show()\n\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\ud83d\udca1 Pro Tip: Customize titles, labels & colors for clarity and audience style!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-09-10T19:29:09+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3736,
+      "sender_type": "Channel"
     }
   ]
 }
