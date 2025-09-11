@@ -9602,6 +9602,15 @@
       "edit_date": null,
       "id": 3738,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\u2705 Statistics & Probability Cheatsheet \ud83d\udcda\ud83e\udde0\n\n\ud83d\udccc Descriptive Statistics:\n\u2981\u00a0 Mean = (\u03a3x) / n\n\u2981\u00a0 Median = Middle value\n\u2981\u00a0 Mode = Most frequent value\n\u2981\u00a0 Variance (\u03c3\u00b2) = \u03a3(x - \u03bc)\u00b2 / n\n\u2981\u00a0 Std Dev (\u03c3) = \u221aVariance\n\u2981\u00a0 Range = Max - Min\n\u2981\u00a0 IQR = Q3 - Q1\n\n\ud83d\udccc Probability Basics:\n\u2981\u00a0 P(A) = Outcomes A / Total Outcomes\n\u2981\u00a0 P(A \u2229 B) = P(A) \u00d7 P(B) (if independent)\n\u2981\u00a0 P(A \u222a B) = P(A) + P(B) - P(A \u2229 B)\n\u2981\u00a0 Conditional: P(A|B) = P(A \u2229 B) / P(B)\n\u2981\u00a0 Bayes\u2019 Theorem: P(A|B) = [P(B|A) \u00d7 P(A)] / P(B)\n\n\ud83d\udccc Common Distributions:\n\u2981\u00a0 Binomial (fixed trials)\n\u2981\u00a0 Normal (bell curve)\n\u2981\u00a0 Poisson (rare events over time)\n\u2981\u00a0 Uniform (equal probability)\n\n\ud83d\udccc Inferential Stats:\n\u2981\u00a0 Z-score = (x - \u03bc) / \u03c3\n\u2981\u00a0 Central Limit Theorem: sampling dist \u2248 Normal\n\u2981\u00a0 Confidence Interval: CI = x\u200c \u00b1 z*(\u03c3/\u221an)\n\n\ud83d\udccc Hypothesis Testing:\n\u2981\u00a0 H\u2080 = No effect; H\u2081 = Effect present\n\u2981\u00a0 p-value < \u03b1 \u2192 Reject H\u2080\n\u2981\u00a0 Tests: t-test (small samples), z-test (known \u03c3), chi-square (categorical data)\n\n\ud83d\udccc Correlation:\n\u2981\u00a0 Pearson: linear relation (\u20131 to 1)\n\u2981\u00a0 Spearman: rank-based correlation\n\n\ud83e\uddea Tools to Practice:\u00a0 \nPython packages: scipy.stats, statsmodels, pandas\u00a0 \nVisualization: seaborn, matplotlib\n\n\ud83d\udca1 Quick tip: Use these formulas to crush interviews and build solid ML foundations!\n\n\ud83d\udcac Tap \u2764\ufe0f for more",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-09-11T16:48:33+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3739,
+      "sender_type": "Channel"
     }
   ]
 }
