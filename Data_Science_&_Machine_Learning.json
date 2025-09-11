@@ -9593,6 +9593,15 @@
       "edit_date": null,
       "id": 3737,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\u2705 10 Python Code Snippets for Interviews & Practice \ud83d\udc0d\ud83e\udde0\n\n1\ufe0f\u20e3 Find factorial (recursion):\ndef factorial(n):\n\u00a0\u00a0\u00a0 return 1 if n == 0 else n * factorial(n - 1)\n\n\n2\ufe0f\u20e3 Find second largest number:\nnums = [10, 20, 30]\nsecond = sorted(set(nums))[-2]\n\n\n3\ufe0f\u20e3 Remove punctuation from string:\nimport string\ns = \"Hello, world!\"\ns_clean = s.translate(str.maketrans('', '', string.punctuation))\n\n\n4\ufe0f\u20e3 Find common elements in two lists:\na = [1, 2, 3]\nb = [2, 3, 4]\ncommon = list(set(a) & set(b))\n\n\n5\ufe0f\u20e3 Convert list to string:\nwords = ['Python', 'is', 'fun']\nsentence = ' '.join(words)\n\n\n6\ufe0f\u20e3 Reverse words in sentence:\ns = \"Hello World\"\nreversed_s = ' '.join(s.split()[::-1])\n\n\n7\ufe0f\u20e3 Check anagram:\ndef is_anagram(a, b):\n\u00a0\u00a0\u00a0 return sorted(a) == sorted(b)\n\n\n8\ufe0f\u20e3 Get unique values from list of dicts:\ndata = [{'a':1}, {'a':2}, {'a':1}]\nunique = set(d['a'] for d in data)\n\n\n9\ufe0f\u20e3 Create dict from range:\nsquares = {x: x*x for x in range(5)}\n\n\n\ud83d\udd1f Sort list of tuples by second item:\npairs = [(1, 3), (2, 1)]\nsorted_pairs = sorted(pairs, key=lambda x: x)\n\n\n\ud83d\udcac Tap \u2764\ufe0f for more Python tips & interview snippets!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-09-11T14:23:48+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3738,
+      "sender_type": "Channel"
     }
   ]
 }
