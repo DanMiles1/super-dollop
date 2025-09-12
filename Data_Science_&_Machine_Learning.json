@@ -9629,6 +9629,15 @@
       "edit_date": null,
       "id": 3741,
       "sender_type": "Channel"
+    },
+    {
+      "text": "\u2705 Master Exploratory Data Analysis (EDA) \ud83d\udd0d\ud83d\udca1\n\n1\ufe0f\u20e3 Understand Your Dataset\u00a0 \n\u203a Check shape, column types, missing values\u00a0 \n\u203a Use: df.info(), df.describe(), df.isnull().sum()\n\n2\ufe0f\u20e3 Handle Missing & Duplicate Data\u00a0 \n\u203a Remove or fill missing values\u00a0 \n\u203a Use: dropna(), fillna(), drop_duplicates()\n\n3\ufe0f\u20e3 Univariate Analysis\u00a0 \n\u203a Analyze one feature at a time\u00a0 \n\u203a Tools: histograms, box plots, value_counts()\n\n4\ufe0f\u20e3 Bivariate & Multivariate Analysis\u00a0 \n\u203a Explore relations between features\u00a0 \n\u203a Tools: scatter plots, heatmaps, pair plots (Seaborn)\n\n5\ufe0f\u20e3 Outlier Detection\u00a0 \n\u203a Use box plots, Z-score, IQR method\u00a0 \n\u203a Crucial for clean modeling\n\n6\ufe0f\u20e3 Correlation Check\u00a0 \n\u203a Find highly correlated features\u00a0 \n\u203a Use: df.corr() + Seaborn heatmap\n\n7\ufe0f\u20e3 Feature Engineering Ideas\u00a0 \n\u203a Create or remove features based on insights\n\n\ud83d\udee0 Tools: Python (Pandas, Matplotlib, Seaborn)\n\n\ud83c\udfaf Mini Project: Try EDA on Titanic or Iris dataset!\n\n\ud83d\udcac Double Tap \u2764\ufe0f for more data science tips & tutorials!",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-09-12T18:51:40+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 3742,
+      "sender_type": "Channel"
     }
   ]
 }
