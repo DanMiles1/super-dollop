@@ -9638,6 +9638,15 @@
       "edit_date": null,
       "id": 3742,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Machine Learning Interview Questions Part-1 \ud83d\udc47\n\n1. What is Machine Learning?  \nMachine Learning is a subset of AI where systems learn from data to make predictions or decisions without explicit programming. It uses algorithms to identify patterns and improve over time.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n2. What are the main types of Machine Learning?  \n\u2981 Supervised Learning: Learning from labeled data (classification, regression).  \n\u2981 Unsupervised Learning: Finding patterns in unlabeled data (clustering, dimensionality reduction).  \n\u2981 Reinforcement Learning: Learning by trial and error using rewards.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n3. What is a training set and a test set?  \nTraining set is data used to teach the model; test set evaluates how well the model generalizes to unseen data.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n4. Explain bias and variance in machine learning.  \nBias: Error due to oversimplified assumptions (underfitting).  \nVariance: Error due to sensitivity to training data (overfitting).  \nGoal: balance both for best performance.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n5. What is model overfitting? How to avoid it?  \nOverfitting means the model learns noise instead of patterns, performing poorly on new data. Avoid by cross-validation, regularization, pruning, and simpler models.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n6. Define supervised learning algorithms with examples.  \nAlgorithms learn from labeled data to predict outputs, e.g., Linear Regression, Decision Trees, SVM, Neural Networks.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n7. Define unsupervised learning algorithms with examples.  \nDiscover hidden patterns without labels, e.g., K-Means clustering, PCA, Hierarchical clustering.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n8. What is regularization?  \nTechnique to reduce overfitting by adding penalty terms (L1, L2) to the loss function to discourage complex models.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n9. What is a confusion matrix?  \nA table showing actual vs predicted classifications with TP, TN, FP, FN to evaluate model performance.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n10. What is the difference between classification and regression?  \nClassification predicts categories; regression predicts continuous values.\n\nReact \u2665\ufe0f for Part-2",
+      "sender": "Data Science & Machine Learning",
+      "date": "2025-09-13T04:27:06+00:00",
+      "is_edited": true,
+      "edit_date": "2025-09-13T04:27:10+00:00",
+      "id": 3743,
+      "sender_type": "Channel"
     }
   ]
 }
