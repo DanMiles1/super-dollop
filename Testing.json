@@ -449,6 +449,15 @@
       "edit_date": null,
       "id": 95,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Yup",
+      "sender": "Testing",
+      "date": "2025-09-16T14:16:33+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 96,
+      "sender_type": "Channel"
     }
   ]
 }
