@@ -2951,6 +2951,15 @@
       "edit_date": null,
       "id": 1524,
       "sender_type": "Channel"
+    },
+    {
+      "text": "Ai terms you should know",
+      "sender": "Best AI Tools | ChatGPT 4o | Perplexity | Deepseek | Artificial Intelligence",
+      "date": "2025-09-22T09:42:13+00:00",
+      "is_edited": false,
+      "edit_date": null,
+      "id": 1525,
+      "sender_type": "Channel"
     }
   ]
 }
